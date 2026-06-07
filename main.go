@@ -1,6 +1,7 @@
 package main
 
 import (
+	"database/sql"
 	"encoding/json"
 	"html/template"
 	"math/rand"
@@ -8,6 +9,8 @@ import (
 	"os"
 	"strconv"
 	"time"
+
+	_ "github.com/lib/pq"
 )
 
 type Problem struct {
@@ -27,6 +30,7 @@ type Problem struct {
 type RenderData struct {
 	Problem
 	TableContent template.HTML
+	IsBookmarked bool // 즐겨찾기 여부 추가
 }
 
 type SubmitRequest struct {
@@ -36,26 +40,30 @@ type SubmitRequest struct {
 	TimeSpent      int `json:"time_spent"`
 }
 
+type BookmarkRequest struct {
+	ProblemID int  `json:"problem_id"`
+	Bookmark  bool `json:"bookmark"`
+}
+
 type Progress struct {
 	ProblemID    int       `json:"problem_id"`
 	IntervalDays int       `json:"interval_days"`
 	EaseFactor   float64   `json:"ease_factor"`
 	Repetitions  int       `json:"repetitions"`
 	NextReview   time.Time `json:"next_review"`
+	IsBookmarked bool      `json:"is_bookmarked"`
 }
 
 var globalProblems []Problem
 var problemMap map[int]Problem
-var userProgress map[int]Progress
+var db *sql.DB
 
 func main() {
-	// 1. [가장 먼저 실행] 실행할 때마다 완전한 무작위 시드 강제 부여
 	rand.Seed(time.Now().UnixNano())
 
-	// 2. 원본 문제 데이터 로드 (data.json)
 	fileBytes, err := os.ReadFile("data.json")
 	if err != nil {
-		println("data.json 로드 실패. 빈 데이터로 시작합니다.")
+		println("data.json 로드 실패.")
 		globalProblems = []Problem{}
 	} else {
 		json.Unmarshal(fileBytes, &globalProblems)
@@ -67,15 +75,25 @@ func main() {
 	}
 	println("성공적으로 " + strconv.Itoa(len(globalProblems)) + "개의 문제를 로드했습니다.")
 
-	// 3. 진도 데이터 로드
-	userProgress = make(map[int]Progress)
-	progressBytes, err := os.ReadFile("user_progress.json")
-	if err == nil {
-		json.Unmarshal(progressBytes, &userProgress)
-		println("기존 유저 진도 데이터 로드 완료 (" + strconv.Itoa(len(userProgress)) + "개)")
+	dbURL := os.Getenv("DATABASE_URL")
+	if dbURL == "" {
+		// ⚠️ 로컬 테스트용 본인 Supabase 주소
+		dbURL = "postgresql://postgres.wiqgzmarogefiomoocxp:Mgs%5E98092222@aws-1-ap-southeast-2.pooler.supabase.com:6543/postgres"
 	}
 
-	// 3. 메인 화면 서빙 (일반 접속: 랜덤 / 쿼리 파라미터 ?id=번호 가 있으면 해당 문제)
+	var dbErr error
+	db, dbErr = sql.Open("postgres", dbURL)
+	if dbErr != nil {
+		panic(dbErr)
+	}
+	defer db.Close()
+
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080"
+	}
+
+	// 3. 메인 화면 서빙 (현재 문제의 즐겨찾기 상태를 DB에서 함께 조회)
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
 		if len(globalProblems) == 0 {
 			http.Error(w, "문제가 없습니다.", http.StatusInternalServerError)
@@ -86,7 +104,6 @@ func main() {
 		idStr := r.URL.Query().Get("id")
 
 		if idStr != "" {
-			// URL에 ?id=104 처럼 숫자가 넘어온 경우 해당 문제 탐색
 			targetID, err := strconv.Atoi(idStr)
 			if err == nil {
 				if p, exists := problemMap[targetID]; exists {
@@ -95,21 +112,25 @@ func main() {
 			}
 		}
 
-		// 만약 유효한 ID가 지정되지 않았거나 못 찾았다면 기존처럼 랜덤 추출
 		if targetProblem.ID == 0 {
 			targetProblem = globalProblems[rand.Intn(len(globalProblems))]
 		}
 
+		// DB에서 이 문제의 즐겨찾기 상태 확인
+		isBookmarked := false
+		db.QueryRow("SELECT is_bookmarked FROM user_progress WHERE problem_id = $1", targetProblem.ID).Scan(&isBookmarked)
+
 		renderData := RenderData{
 			Problem:      targetProblem,
 			TableContent: template.HTML(targetProblem.TableContent),
+			IsBookmarked: isBookmarked,
 		}
 
 		tmpl, _ := template.New("quiz").Parse(getHTMLSource())
 		tmpl.Execute(w, renderData)
 	})
 
-	// 4. 채점 및 Anki 진도 계산 API
+	// 4. 채점 및 DB 진도 갱신 API
 	http.HandleFunc("/api/submit", func(w http.ResponseWriter, r *http.Request) {
 		if r.Method != http.MethodPost {
 			return
@@ -124,9 +145,12 @@ func main() {
 
 		isCorrect := (req.SelectedOption == targetProblem.Answer)
 
-		p, exists := userProgress[req.ProblemID]
-		if !exists {
-			p = Progress{ProblemID: req.ProblemID, EaseFactor: 2.5}
+		var p Progress
+		err := db.QueryRow("SELECT problem_id, interval_days, ease_factor, repetitions, next_review, is_bookmarked FROM user_progress WHERE problem_id = $1", req.ProblemID).
+			Scan(&p.ProblemID, &p.IntervalDays, &p.EaseFactor, &p.Repetitions, &p.NextReview, &p.IsBookmarked)
+
+		if err == sql.ErrNoRows {
+			p = Progress{ProblemID: req.ProblemID, EaseFactor: 2.5, IntervalDays: 0, Repetitions: 0, IsBookmarked: false}
 		}
 
 		if isCorrect {
@@ -146,14 +170,18 @@ func main() {
 				p.EaseFactor = 1.3
 			}
 		}
-
 		p.NextReview = time.Now().AddDate(0, 0, p.IntervalDays)
-		userProgress[req.ProblemID] = p
 
-		progressJSON, _ := json.MarshalIndent(userProgress, "", "  ")
-		os.WriteFile("user_progress.json", progressJSON, 0644)
-
-		println("["+time.Now().Format("01-02 15:04:05")+"]", "문제:", req.ProblemID, "| 결과:", isCorrect, "| 주:", p.IntervalDays)
+		query := `
+			INSERT INTO user_progress (problem_id, interval_days, ease_factor, repetitions, next_review, is_bookmarked)
+			VALUES ($1, $2, $3, $4, $5, $6)
+			ON CONFLICT (problem_id) 
+			DO UPDATE SET interval_days = $2, ease_factor = $3, repetitions = $4, next_review = $5;
+		`
+		_, err = db.Exec(query, p.ProblemID, p.IntervalDays, p.EaseFactor, p.Repetitions, p.NextReview, p.IsBookmarked)
+		if err != nil {
+			println("DB 저장 에러:", err.Error())
+		}
 
 		w.Header().Set("Content-Type", "application/json")
 		json.NewEncoder(w).Encode(map[string]interface{}{
@@ -163,8 +191,30 @@ func main() {
 		})
 	})
 
-	println("미니멀 퀴즈 서버 가동: http://localhost:8080")
-	http.ListenAndServe(":8080", nil)
+	// 5. [신규] 즐겨찾기 토글 API
+	http.HandleFunc("/api/bookmark", func(w http.ResponseWriter, r *http.Request) {
+		if r.Method != http.MethodPost {
+			return
+		}
+		var req BookmarkRequest
+		json.NewDecoder(r.Body).Decode(&req)
+
+		query := `
+			INSERT INTO user_progress (problem_id, interval_days, ease_factor, repetitions, next_review, is_bookmarked)
+			VALUES ($1, 0, 2.5, 0, NOW(), $2)
+			ON CONFLICT (problem_id) 
+			DO UPDATE SET is_bookmarked = $2;
+		`
+		_, err := db.Exec(query, req.ProblemID, req.Bookmark)
+		if err != nil {
+			w.WriteHeader(http.StatusInternalServerError)
+			return
+		}
+		w.WriteHeader(http.StatusOK)
+	})
+
+	println("DB 연동 서버 가동: http://localhost:" + port)
+	http.ListenAndServe(":"+port, nil)
 }
 
 func getHTMLSource() string {
@@ -179,8 +229,13 @@ func getHTMLSource() string {
 </head>
 <body class="bg-white text-slate-900 max-w-md mx-auto p-4 font-sans">
 
-    <div class="flex justify-between items-center text-xs text-slate-500 mb-4 border-b pb-2">
-        <div>{{.Category}} · {{.OriginalNumber}}</div>
+    <div class="flex justify-between items-center text-xs text-slate-500 mb-4 border-b pb-2 gap-2">
+        <div class="flex items-center gap-2">
+            <span>{{.Category}} · {{.OriginalNumber}}</span>
+            <button onclick="toggleBookmark()" id="bookmarkBtn" class="text-sm focus:outline-none transition-transform active:scale-125">
+                {{if .IsBookmarked}}<span class="text-yellow-400">★</span>{{else}}<span class="text-slate-300">☆</span>{{endif}}
+            </button>
+        </div>
         
         <form action="/" method="GET" class="flex items-center gap-1">
             <input type="number" name="id" placeholder="ID 입력" required
@@ -217,7 +272,7 @@ func getHTMLSource() string {
     <div id="result" class="hidden mt-6 pt-4 border-t">
         <div id="status" class="text-base font-bold mb-2"></div>
         <div class="bg-slate-50 p-3 rounded text-xs text-slate-600 leading-relaxed whitespace-pre-wrap mb-4"><span class="block font-bold text-slate-400 mb-1">【 해설 】</span><span id="explanation"></span></div>
-        <button onclick="location.reload()" class="w-full py-2.5 bg-slate-900 text-white font-medium text-sm rounded">
+        <button onclick="nextProblem()" class="w-full py-2.5 bg-slate-900 text-white font-medium text-sm rounded">
             다음 문제
         </button>
     </div>
@@ -225,6 +280,28 @@ func getHTMLSource() string {
     <script>
         const start = Date.now();
         let submitted = false;
+        let isBookmarked = {{.IsBookmarked}}; // 초기 상태 서버에서 바인딩
+
+        // [신규] 별표 토글 함수
+        function toggleBookmark() {
+            const nextState = !isBookmarked;
+            
+            fetch('/api/bookmark', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    problem_id: {{.ID}},
+                    bookmark: nextState
+                })
+            })
+            .then(res => {
+                if (res.ok) {
+                    isBookmarked = nextState;
+                    const btn = document.getElementById('bookmarkBtn');
+                    btn.innerHTML = isBookmarked ? '<span class="text-yellow-400">★</span>' : '<span class="text-slate-300">☆</span>';
+                }
+            });
+        }
 
         function submit(option) {
             if (submitted) return;
@@ -255,12 +332,14 @@ func getHTMLSource() string {
                     status.className = "text-sm font-bold text-red-600 mb-2";
                 }
 
-                // 공백 찌꺼기 추적용 정규식을 걷어내고, 무결한 태그에 단순 .trim()으로 깔끔하게 매핑합니다.
                 document.getElementById('explanation').innerText = data.explanation.trim();
-                
                 document.getElementById('result').classList.remove('hidden');
                 document.getElementById('result').scrollIntoView({ behavior: 'smooth' });
             });
+        }
+
+        function nextProblem() {
+            location.href = "/";
         }
     </script>
 </body>
