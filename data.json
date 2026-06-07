@@ -1,0 +1,1028 @@
+[
+    {
+        "id": 1,
+        "original_number": "0001",
+        "category": "경영일반",
+        "question": "비행기를 조종하는 경우 조종메뉴얼이나 프로그램에서 얻어지는 지식의 종류로 가장 타당한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "암묵지",
+            "2": "형식지",
+            "3": "반복지",
+            "4": "연결지",
+            "5": "분절지"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 2,
+        "original_number": "0002",
+        "category": "경영일반",
+        "question": "테일러(F. W. Taylor)의 과학적 관리법에 관한 설명으로 가장 적절하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "분업의 원리를 적용하여 업무를 세분화하고 종업원들을 하나의 직무에 전문성을 갖도록 하였다.",
+            "2": "시간과 동작 연구를 통하여 일일 표준작업량을 산출하였다.",
+            "3": "종업원 개인의 성과 차이에 따라 임금을 차별화하였다.",
+            "4": "작업자가 생산작업에만 충실하도록 생산준비 부서인 기획부 제도를 도입하였다.",
+            "5": "조직의 관리과정을 계획, 조직, 충원, 지휘, 통제로 구분하여 분석하였다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 3,
+        "original_number": "0003",
+        "category": "경영일반",
+        "question": "경영혁신 방법론 중 하나인 비즈니스 프로세스 리엔지니어링(BPR: Business Process Reengineering)의 특징으로 볼 수 없는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "조직에서 필요로 하는 제반 정보의 통합을 지향한다.",
+            "2": "품질, 비용, 속도, 서비스와 같은 업무성과의 점진적인 개선을 목표로 한다.",
+            "3": "현재의 업무절차(프로세스)를 근본적으로 다시 생각하고 완전히 새롭게 설계한다.",
+            "4": "개선안을 모색할 때 고객의 관점 및 입장을 가장 중시한다.",
+            "5": "부서내(또는 기능영역내) 업무보다는 부서간(또는 기능영역간) 업무의 합리화에 초점을 맞춘다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 4,
+        "original_number": "0004",
+        "category": "인사관리",
+        "question": "MBO(management by objective)를 통한 목표 설정시 충족시켜야 할 조건에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "사실에 근거하여 누구나 이해할 수 있는 구체적인 목표이어야 한다.",
+            "2": "목표는 그 달성 정도를 측정할 수 있도록 설정되어야 한다.",
+            "3": "조직 전체, 소속부서 및 개인의 사명과 비전에 연계되어야 한다.",
+            "4": "피평가자가 통제하기 힘들 정도로 도전적이고 높은 수준으로 설정되어야 한다.",
+            "5": "환경과 상황의 변화가 반영되어야 한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+        {
+        "id": 5,
+        "original_number": "0005",
+        "category": "경영일반",
+        "question": "일반적으로 지식은 암묵지(tacit knowledge)와 형식지(explicit knowledge)로 분류한다. Nonaka가 제시한 지식순환의 나선형 프로세스 중에서 (ㄱ)에 해당하는 것은?",
+        "box_content": null,
+        "table_content": "\n  \n    \n    암묵지\n    형식지\n  \n  \n    암묵지\n    (ㄱ)\n    (ㄴ)\n  \n  \n    형식지\n    (ㄷ)\n    (ㄹ)\n  \n",
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "Socialization",
+            "2": "Combination",
+            "3": "Externalization",
+            "4": "Collaboration",
+            "5": "Internalization"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 6,
+        "original_number": "0006",
+        "category": "인사관리",
+        "question": "목표관리에 관한 설명으로 옳지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "목표달성 정도를 정기적으로 확인",
+            "2": "목표설정 과정에 구성원 참여",
+            "3": "톱다운(top-down)방식의 목표설정",
+            "4": "목표달성 방법의 자율적 결정",
+            "5": "동기부여의 효과"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 7,
+        "original_number": "0007",
+        "category": "전략경영",
+        "question": "동종업종 또는 유사업종 기업간 수평적으로 맺는 협정은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "트러스트",
+            "2": "콘체른",
+            "3": "지주회사",
+            "4": "카르텔",
+            "5": "기업합동"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 8,
+        "original_number": "0008",
+        "category": "경영일반",
+        "question": "페이욜(Fayol)이 주장한 경영활동과 관련하여 연결이 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기술활동-생산, 제조, 가공",
+            "2": "상업활동-계획, 조직, 지휘, 조정, 통제",
+            "3": "회계활동-구매, 판매, 교환",
+            "4": "관리활동-재화 및 종업원 보호",
+            "5": "재무활동-원가관리, 예산통제"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 9,
+        "original_number": "0009",
+        "category": "경영일반",
+        "question": "암묵지(tacit knowledge)에 관한 설명으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "다른 사람에게 전수하기 쉽다.",
+            "2": "경험을 통해 쌓여진 지식이다.",
+            "3": "공식성과 체계성을 갖고 있다.",
+            "4": "제품설명서, 매뉴얼 등이 해당된다.",
+            "5": "객관적 지식이다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 10,
+        "original_number": "0010",
+        "category": "경영일반",
+        "question": "조직의 가치창출을 위해 지식을 생성, 저장, 공유, 활용하는 일련의 활동은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "공급망관리",
+            "2": "고객관계관리",
+            "3": "전사적 품질경영",
+            "4": "지식경영",
+            "5": "기술경영"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 11,
+        "original_number": "0011",
+        "category": "경영일반",
+        "question": "비즈니스 프로세스 리엔지니어링의 특징에 관한 설명으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "업무 프로세스 변화의 폭이 넓다.",
+            "2": "업무 프로세스 변화가 점진적이다.",
+            "3": "업무 프로세스 재설계는 쉽고 빠르다.",
+            "4": "조직 구조의 측면에서 상향식으로 추진한다.",
+            "5": "실패 가능성과 위험이 적다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 12,
+        "original_number": "0012",
+        "category": "경영일반",
+        "question": "테일러(F. W. Taylor)의 과학적 관리법의 내용에 해당되지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "공정한 일일 작업량 설정",
+            "2": "시간연구 및 동작연구",
+            "3": "차별성과급제",
+            "4": "기능식 직장제도",
+            "5": "사회적 접근"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 13,
+        "original_number": "0013",
+        "category": "인사관리",
+        "question": "목표에 의한 관리(MBO)의 주요 특성이 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "목표달성 기간의 명시",
+            "2": "상사와 부하간의 협의를 통한 목표설정",
+            "3": "다면평가",
+            "4": "목표의 구체성",
+            "5": "실적에 대한 피드백"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 14,
+        "original_number": "0014",
+        "category": "조직행동 : 개인",
+        "question": "인간관계론의 내용에 관한 설명으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "과학적 관리법과 유사한 이론이다.",
+            "2": "인간 없는 조직이란 비판을 들었다.",
+            "3": "심리요인과 사회요인은 생산성에 영향을 주지 않는다.",
+            "4": "비공식집단을 인식했으나 그 중요성을 낮게 평가했다.",
+            "5": "메이요(E. Mayo)와 뢰슬리스버거(F. Roethlisberger)를 중심으로 호손실험을 거쳐 정리되었다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 15,
+        "original_number": "0015",
+        "category": "경영일반",
+        "question": "주식회사에 관한 특징으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "주주의 유한책임",
+            "2": "소유와 경영의 분리 가능",
+            "3": "소유권 이전의 어려움",
+            "4": "자본의 증권화",
+            "5": "대규모 자본조달 가능"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 16,
+        "original_number": "0016",
+        "category": "경영일반",
+        "question": "현대 경영학 이론에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "과학적 관리법에서는 효율과 합리성을 강조한다.",
+            "2": "인간관계론에서는 인간의 사회 심리적 요인을 중시한다.",
+            "3": "행동과학이론에서는 조직 내 비공식조직의 활용을 중시한다.",
+            "4": "시스템이론에서는 조직을 여러 구성인자가 유기적으로 상호 작용하는 결합체로 본다.",
+            "5": "상황이론에서는 조직구조가 조직이 처한 상황에 적합해야 한다고 본다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 17,
+        "original_number": "0017",
+        "category": "경영일반",
+        "question": "회계나 재무적 관점으로만 경영성과를 평가하는 전통적 성과평가 방식을 탈피하여 재무, 고객, 내부 프로세스 및 학습·성장 등의 네 가지 관점에서 경영성과를 평가하는 경영기법은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "CRM",
+            "2": "BSC",
+            "3": "SCM",
+            "4": "KMS",
+            "5": "ERP"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 18,
+        "original_number": "0018",
+        "category": "경영일반",
+        "question": "기업가 정신의 핵심요소가 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "비전의 제시와 실현욕구",
+            "2": "창의성과 혁신",
+            "3": "성취동기",
+            "4": "인적 네트워크 구축",
+            "5": "도전정신"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 19,
+        "original_number": "0019",
+        "category": "경영일반",
+        "question": "현대 경영이론에서 계획, 조직, 지휘, 조정, 통제의 관리기능을 주장한 사람은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "F. W. Taylor",
+            "2": "Henry Ford",
+            "3": "H. A. Simon",
+            "4": "Henri Fayol",
+            "5": "H. Mintzberg"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 20,
+        "original_number": "0020",
+        "category": "경영일반",
+        "question": "무한책임사원과 유한책임사원으로 구성된 상법상의 기업형태는?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "합명회사",
+            "2": "합자회사",
+            "3": "유한회사",
+            "4": "주식회사",
+            "5": "자영회사"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 21,
+        "original_number": "0021",
+        "category": "경영일반",
+        "question": "테일러(F. Taylor)의 과학적 관리의 특징으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "과업관리",
+            "2": "작업지도표 제도",
+            "3": "차별적 성과급제",
+            "4": "기능식 직장제도",
+            "5": "컨베이어 시스템"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 22,
+        "original_number": "0022",
+        "category": "조직이론",
+        "question": "막스 베버(Max Weber)가 제시한 관료제 이론의 주요 내용이 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "규정에 따른 직무배정과 직무수행",
+            "2": "능력과 과업에 따른 선발과 승진",
+            "3": "상황적합적 관리",
+            "4": "계층에 의한 관리",
+            "5": "규칙과 문서에 의한 관리"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 23,
+        "original_number": "0023",
+        "category": "조직행동 : 집단과 조직",
+        "question": "인간관계론에 해당하는 내용은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기획업무와 집행업무를 분리시킴으로써 계획과 통제의 개념 확립",
+            "2": "시간 및 동작 연구를 통하여 표준 과업량 설정",
+            "3": "자연발생적으로 형성된 비공식 조직의 존재 인식",
+            "4": "과업에 적합한 근로자 선발 및 교육훈련 방법 고안",
+            "5": "전문기능별 책임자가 작업에 대한 분업적 지도 수행"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 24,
+        "original_number": "0024",
+        "category": "경영일반",
+        "question": "경영이론의 주창자와 그 내용이 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "테일러(Taylor): 차별적 성과급제",
+            "2": "메이요(Mayo): 비공식 조직의 중시",
+            "3": "페이욜(Fayol): 권한과 책임의 원칙",
+            "4": "포드(Ford): 고임금 고가격의 원칙",
+            "5": "베버(Weber): 규칙과 절차의 중시"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 25,
+        "original_number": "0025",
+        "category": "조직행동 : 집단과 조직",
+        "question": "호손실험(Hawthorne experiment)의 순서가 바르게 나열된 것은?",
+        "box_content": "ㄱ. 면접실험\nㄴ. 조명실험\nㄷ. 배전기 전선작업실 관찰\nㄹ. 계전기 조립실험",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄴ - ㄹ - ㄱ - ㄷ",
+            "2": "ㄴ - ㄱ - ㄹ - ㄷ",
+            "3": "ㄹ - ㄴ - ㄱ - ㄷ",
+            "4": "ㄹ - ㄱ - ㄴ - ㄷ",
+            "5": "ㄱ - ㄴ - ㄹ - ㄷ"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 26,
+        "original_number": "0026",
+        "category": "경영일반",
+        "question": "테일러(F. Taylor)의 과학적 관리법에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "시간연구와 동작연구",
+            "2": "공정한 작업량 설정",
+            "3": "작업에 적합한 과학적인 근로자 선발",
+            "4": "시간제 임금지급을 통한 차별적 성과급제",
+            "5": "관리활동의 기능별 분업"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 27,
+        "original_number": "0027",
+        "category": "경영일반",
+        "question": "테일러(F. W. Taylor)의 과학적 관리법에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "시간 및 동작 연구",
+            "2": "기능적 직장제도",
+            "3": "집단중심의 보상",
+            "4": "과업에 적합한 종업원 선발과 훈련 강조",
+            "5": "고임금 저노무비 지향"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 28,
+        "original_number": "0028",
+        "category": "경영일반",
+        "question": "균형성과표(Balanced Score Card)에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "고객 관점",
+            "2": "내부 프로세스 관점",
+            "3": "사회적 책임 관점",
+            "4": "학습과 성장 관점",
+            "5": "재무 관점"
+        },
+        "answer": 3,
+        "explanation": "사회적 책임은 BSC 지표에 포함되지 않는다. BSC의 4가지 지표는 재무, 고객, 내부 프로세스, 학습과 성장 관점이다."
+    },
+    {
+        "id": 29,
+        "original_number": "0029",
+        "category": "전략경영",
+        "question": "동종 또는 유사업종의 기업들이 법적, 경제적 독립성을 유지하면서 협정을 통해 수평적으로 결합하는 형태는?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "지주회사(holding company)",
+            "2": "카르텔(cartel)",
+            "3": "공글로메리트(conglomerate)",
+            "4": "트러스트(trust)",
+            "5": "콘체른(konzern)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 30,
+        "original_number": "0030",
+        "category": "조직행동 : 집단과 조직",
+        "question": "호손(Hawthorne)실험의 주요 결론에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "노동환경과 생산성 사이에 반드시 비례관계가 존재하는 것은 아니다.",
+            "2": "심리적 요인에 의해서 생산성이 좌우될 수 있다.",
+            "3": "작업자의 생산성은 임금, 작업시간, 노동환경의 함수이다.",
+            "4": "비공식 집단이 자연적으로 발생하여 공식조직에 영향을 미칠 수 있다.",
+            "5": "경영자와 작업자들 사이의 인간관계가 생산성에 영향을 미칠 수 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 31,
+        "original_number": "0031",
+        "category": "경영일반",
+        "question": "회사의 설립 및 운영에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "합자회사는 무한책임사원과 유한책임사원의 두 종류의 사원에 의해 이원적으로 구성된다.",
+            "2": "합명회사는 2인 이상의 출자자 상호간의 신뢰관계를 중심으로 인적통합관계가 강한 것이 특징이며, 각 사원이 회사 채무에 대해 연대무한책임을 진다.",
+            "3": "주식회사는 출자자인 주주의 유한책임제도와 자본의 증권화 제도의 특징을 지닌다.",
+            "4": "주식회사의 이사회는 법령 또는 정관에 의해 주주총회의 권한으로 되어 있는 것을 제외하고는 회사 업무집행에 관한 일체의 권한을 위임받은 수탁기관으로서 이사와 감사의 선임 및 해임권, 정관의 변경, 신주발행 결정 등의 권한이 있다.",
+            "5": "주식회사의 주주총회는 회사 기본조직과 경영에 관한 중요사항에 대하여 주주들의 총의를 표시 결정하는 최고의 상설 필수기관이다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 32,
+        "original_number": "0032",
+        "category": "경영일반",
+        "question": "주식회사에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "재무공시의 자율성이 제한된다.",
+            "2": "주주는 이익에 대해 이자와 배당을 청구할 수 있다.",
+            "3": "주주는 출자한도 내에서 유한책임을 진다.",
+            "4": "유가증권시장에 공개된 회사의 주식은 매매가 가능하다.",
+            "5": "소유와 경영의 분리가 가능하다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 33,
+        "original_number": "0033",
+        "category": "경영일반",
+        "question": "유한회사의 특징으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "감사는 필요적 상설기관이다.",
+            "2": "이사는 3인 이상을 두어야 한다.",
+            "3": "경영은 무한책임을 지는 출자사가 담당한다.",
+            "4": "최고의사결정기관은 사원총회이다.",
+            "5": "기관의 구성이 간단하고 개방적이다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 34,
+        "original_number": "0034",
+        "category": "경영일반",
+        "question": "전문경영자와 소유경영자에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "소유경영자는 환경변화에 빠르게 대응할 수 있다는 장점이 있다.",
+            "2": "전문경영자에 비해 소유경영자는 단기적 성과에 집착하는 경향이 강하다.",
+            "3": "전문경영자와 주주 사이에 이해관계가 상충될 수 있다.",
+            "4": "전문경영자에 비해 소유경영자는 상대적으로 전문성이 떨어질 수 있다.",
+            "5": "소유경영자는 전문경영자에 비해 상대적으로 강력한 리더십의 발휘가 가능하다는 장점이 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 35,
+        "original_number": "0035",
+        "category": "인사관리",
+        "question": "목표관리(MBO: management by objective)의 주요 특성이 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "관리자와 구성원 간의 공동목표 설정",
+            "2": "상위목표와 하위목표의 일치",
+            "3": "목표관리의 중간시점에서 경과와 진행상황을 피드백하고 향후 방향을 조정하는 중간평가",
+            "4": "상황변화에 따른 목표의 수정과 우선순위 조정",
+            "5": "호봉제를 통한 안정적 보상시스템 마련"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 36,
+        "original_number": "0036",
+        "category": "경영일반",
+        "question": "민쯔버그(H. Mintzberg)의 경영자 역할 중 의사결정 역할의 범주에 속하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "연락자",
+            "2": "기업가",
+            "3": "문제해결자",
+            "4": "자원배분자",
+            "5": "협상자"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 37,
+        "original_number": "0037",
+        "category": "경영일반",
+        "question": "페이욜(H. Fayol)이 제시한 관리원칙에 해당되지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "분권화의 원칙",
+            "2": "계층화의 원칙",
+            "3": "분업화의 원칙",
+            "4": "지휘일원화의 원칙",
+            "5": "조직목표 우선의 원칙"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 38,
+        "original_number": "0038",
+        "category": "경영일반",
+        "question": "기업의 사회적 책임의 영역 중 가장 기본적이고, 제1차적 수준의 책임은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "경제적 책임",
+            "2": "윤리적 책임",
+            "3": "법적 책임",
+            "4": "자발적 책임",
+            "5": "도덕적 책임"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 39,
+        "original_number": "0039",
+        "category": "경영일반",
+        "question": "경영이론에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "페이욜(H. Fayol)은 경영의 본질적 기능으로 기술적 기능, 영업적 기능, 재무적 기능, 보전적 기능, 회계적 기능, 관리적 기능의 6가지를 제시하였다.",
+            "2": "사이먼(H. Simon)은 합리적 경제인 가설 대신에 관리인 가설을 바탕으로 하여 인간행동을 분석하였다.",
+            "3": "버나드(C. Barnard)는 조직 의사결정은 제약된 합리성에 기초하게 된다고 주장하였다.",
+            "4": "상황이론(contingency theory)은 여러 가지 환경변화에 효율적으로 대응하기 위하여 조직이 어떠한 특성을 갖추어야 하는지를 규명하고자 하는 이론이다.",
+            "5": "인간관계론과 행동과학이론 등은 행동주의 경영이론에 속한다."
+        },
+        "answer": 3,
+        "explanation": "조직 의사결정은 제약된 합리성 혹은 제한된 합리성(bounded rationality)에 기초하게 된다고 주장한 사람은 사이먼(H. Simon)이다."
+    },
+    {
+        "id": 40,
+        "original_number": "0040",
+        "category": "경영일반",
+        "question": "슘페터(J. Schumpeter)가 경영혁신을 언급하면서 지적한 생산요소에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "새로운 제품의 생산",
+            "2": "새로운 생산기술이나 방법의 도입",
+            "3": "새로운 조직의 형성",
+            "4": "신시장 또는 새로운 판로의 개척",
+            "5": "혁신적인 기업가 정신"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 41,
+        "original_number": "0041",
+        "category": "경영일반",
+        "question": "효율성(efficiency)과 효과성(effectiveness)에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "효과성은 자원의 사용정도를, 효율성은 목표의 달성 정도를 평가대상으로 한다.",
+            "2": "효율성은 일을 올바르게 함(do things right)을, 효과성은 옳은 일을 함(do right things)을 의미한다.",
+            "3": "성공적 조직이라면 효율성과 효과성이 모두 높다.",
+            "4": "효율성은 목표달성을 위한 수단이다.",
+            "5": "효율성은 최소한의 자원 투입으로 최대한의 산출을, 효과성은 목표의 최대한 달성을 지향한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 42,
+        "original_number": "0042",
+        "category": "경영일반",
+        "question": "경영학의 역사적 전개과정상에서 나타난 이론 중 성격이 다른 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "매슬로우(A. Maslow)의 욕구단계론",
+            "2": "허츠버그(F. Herzberg)의 2요인이론",
+            "3": "맥그리거(D. McGregor)의 X-Y이론",
+            "4": "베버(M. Weber)의 관료제 조직론",
+            "5": "아지리스(C. Argyris)의 성숙미성숙이론"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 43,
+        "original_number": "0043",
+        "category": "경영일반",
+        "question": "관리과정의 순서로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "조직화 - 통제 - 지휘 - 계획수립",
+            "2": "계획수립 - 조직화 - 지휘 - 통제",
+            "3": "조직화 - 지휘 - 통제 - 계획수립",
+            "4": "계획수립 - 지휘 - 조직화 - 통제",
+            "5": "지휘 - 통제 - 계획수립 - 조직화"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 44,
+        "original_number": "0044",
+        "category": "전략경영",
+        "question": "자회사 주식의 일부 또는 전부를 소유해서 자회사 경영권을 지배하는 지주회사와 관련이 있는 기업결합은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "콘체른(konzern)",
+            "2": "카르텔(cartel)",
+            "3": "트러스트(trust)",
+            "4": "콤비나트(kombinat)",
+            "5": "조인트 벤처(joint venture)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 45,
+        "original_number": "0045",
+        "category": "경영일반",
+        "question": "기업의 사회적 책임에 대한 고전적 견해의 주장에 해당되는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기업의 사회적 목표 추구는 제품 및 서비스의 가격상승을 초래하여 소비자들이 피해를 보게 된다.",
+            "2": "기업의 사회적 목표 추구는 장기적으로 기업에 이익을 가져다 준다.",
+            "3": "기업의 사회적 목표 추구로 기업은 기업이미지 개선을 도모할 수 있다.",
+            "4": "기업의 사회적 목표 추구로 기업은 정부규제를 회피할 수 있다.",
+            "5": "기업의 사회적 목표 추구는 기업의 권력에 상응하는 책임의 균형 차원에서 요구된다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 46,
+        "original_number": "0046",
+        "category": "경영일반",
+        "question": "주식회사에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "주주의 유한책임으로 자본조달이 용이하여 대자본의 형성이 쉽다.",
+            "2": "주주총회에서 주주의 의결권은 1주 1의결권을 원칙으로 한다.",
+            "3": "이사는 주주총회에서 선임되며, 최소 3인 이상이어야 하고, 그 임기는 3년이다.",
+            "4": "감사는 임의기구로서 그 설치여부는 자유이다.",
+            "5": "기업운영에 소요되는 자본의 조달과 경영의 합리화를 기하기 위해서 형성된 자본적 공동기업이다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 47,
+        "original_number": "0047",
+        "category": "경영일반",
+        "question": "민간부문이 보유한 정보, 기술, 자본을 공공부문에 도입해 공동출자형식으로 행하는 기관 또는 사업은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "정부출연기관",
+            "2": "정부재정지원기관",
+            "3": "제3섹터",
+            "4": "공익사업",
+            "5": "주택사업"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 48,
+        "original_number": "0048",
+        "category": "경영일반",
+        "question": "기업분할 중 물적분할에 관한 설명으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기존 회사의 물적자산 중 일부를 기존 회사와 무관한 다른 회사에 매각하는 것을 말한다.",
+            "2": "기존 회사 영업부문의 일부를 신설 분할회사로 이전시키면서 기존 회사의 주주가 신설 분할회사의 주식을 취득하는 것을 말한다.",
+            "3": "기존 회사의 자산 중 인적자산을 제외한 물적자산을 신설 분할회사로 이전시키는 것을 말한다.",
+            "4": "기존 회사 영업부문의 일부를 신설 분할회사로 이전시키고, 기존 회사가 신설 분할회사의 주식을 보유하는 경우를 말한다.",
+            "5": "기존 회사의 물적자산 중 일부를 신설 분할회사로 이전시키면서 신설 분할회사의 주주가 기존 회사의 주식을 취득하는 것을 말한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 49,
+        "original_number": "0049",
+        "category": "경영일반",
+        "question": "경영통제에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "사전통제는 목표달성을 위하여 사전준비를 확인하는 가장 바람직한 통제이다.",
+            "2": "진행통제는 업무가 수행되는 동안에 통제에 영향을 미치는 것을 통제하는 방법이다.",
+            "3": "사후통제는 업무가 종료된 후에 이루어지는 통제활동으로 피드백을 통해 결과의 변경이 가능하다.",
+            "4": "통제활동을 수행하기 위해서는 명확한 평가기준이 필요하다.",
+            "5": "평가기준과 수행결과의 차이에 대한 원인이 밝혀지면 이에 대한 대응조치를 강구해야 한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 50,
+        "original_number": "0050",
+        "category": "경영일반",
+        "question": "시스템이론 관점에서 경영의 투입 요소와 산출요소를 구분할 때, 산출 요소인 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "노동",
+            "2": "자본",
+            "3": "전략",
+            "4": "정보",
+            "5": "제품"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 51,
+        "original_number": "0051",
+        "category": "조직행동 : 개인",
+        "question": "인간관계론에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "비용의 논리를 추구한다.",
+            "2": "비공식 집단을 강조한다.",
+            "3": "사회적 인간관과 연관이 있다.",
+            "4": "만족이 생산성 향상을 가져온다고 생각한다.",
+            "5": "감정의 논리에 치중하는 경향이 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 52,
+        "original_number": "0052",
+        "category": "인사관리",
+        "question": "목표관리(MBO: Management By Objectives)에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "단기목표를 강조하는 경향이 있다.",
+            "2": "결과에 의한 평가가 이루어진다.",
+            "3": "사기와 같은 직무의 무형적인 측면을 중시한다.",
+            "4": "종업원들이 역량에 비해 더 쉬운 목표를 설정하려는 경향이 있다.",
+            "5": "평가와 관련하여 행정적인 서류 업무가 증가하는 경향이 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 53,
+        "original_number": "0053",
+        "category": "조직이론",
+        "question": "막스 베버(M. Weber)가 제시한 이상적 관료조직의 원칙으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "분업과 전문화",
+            "2": "공식적인 규칙과 절차",
+            "3": "비개인성",
+            "4": "연공에 의한 승진",
+            "5": "공과 사의 명확한 구분"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 54,
+        "original_number": "0054",
+        "category": "경영일반",
+        "question": "주식회사의 대리인 문제에서 발생하는 감시비용에 포함되지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "성과급",
+            "2": "사외이사",
+            "3": "잔여손실",
+            "4": "주식옵션",
+            "5": "외부회계감사"
+        },
+        "answer": 0,
+        "explanation": ""
+    }
+]

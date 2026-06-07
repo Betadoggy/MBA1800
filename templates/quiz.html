@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MBA 1800</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900 max-w-md mx-auto p-4 font-sans">
+
+    <div class="flex justify-between items-center text-xs text-slate-500 mb-4 border-b pb-2">
+        <span>{{.Category}} · {{.OriginalNumber}}</span>
+        <span>ID: {{.ID}}</span>
+    </div>
+
+    <h2 class="text-base font-semibold leading-snug mb-4">{{.Question}}</h2>
+
+    {{if .BoxContent}}
+    <div class="bg-slate-50 border p-3 text-xs text-slate-600 whitespace-pre-wrap mb-4 font-mono">
+        {{.BoxContent}}
+    </div>
+    {{end}}
+
+    {{if .TableContent}}
+    <div class="overflow-x-auto text-xs border rounded mb-4 p-1">
+        {{.TableContent}}
+    </div>
+    {{end}}
+
+    {{if .HasImage}}
+    <img src="/{{.ImageURL}}" class="w-full h-auto border rounded mb-4">
+    {{end}}
+
+    <div class="space-y-2" id="options">
+        {{range $key, $value := .Options}}
+        <button onclick="submit('{{$key}}')" class="w-full text-left p-3 border rounded text-sm hover:bg-slate-50 active:bg-slate-100 flex gap-2">
+            <span class="font-bold text-slate-400">{{$key}}.</span>
+            <span>{{$value}}</span>
+        </button>
+        {{end}}
+    </div>
+
+    <div id="result" class="hidden mt-6 pt-4 border-t">
+        <div id="status" class="text-base font-bold mb-2"></div>
+        <div class="bg-slate-50 p-3 rounded text-xs text-slate-600 leading-relaxed whitespace-pre-wrap mb-4">
+            <span class="block font-bold text-slate-400 mb-1">【 해설 】</span>
+            <span id="explanation"></span>
+        </div>
+        <button onclick="location.reload()" class="w-full py-2.5 bg-slate-900 text-white font-medium text-sm rounded">
+            다음 문제
+        </button>
+    </div>
+
+    <script>
+        const start = Date.now();
+        let submitted = false;
+
+        function submit(option) {
+            if (submitted) return; // 중복 제출 방지
+            submitted = true;
+
+            const elapsed = Math.floor((Date.now() - start) / 1000);
+
+            fetch('/api/submit', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    user_id: 1,
+                    problem_id: {{.ID}},
+                    selected_option: parseInt(option),
+                    time_spent: elapsed
+                })
+            })
+            .then(res => res.json())
+            .then(data => {
+                // 보기 영역 비활성화 비주얼 처리
+                document.getElementById('options').classList.add('opacity-50');
+                
+                // 정오답 결과 반영
+                const status = document.getElementById('status');
+                if (data.is_correct) {
+                    status.innerText = "✓ 정답입니다.";
+                    status.className = "text-sm font-bold text-blue-600 mb-2";
+                } else {
+                    status.innerText = `✗ 틀렸습니다. (정답: ${data.answer}번)`;
+                    status.className = "text-sm font-bold text-red-600 mb-2";
+                }
+
+                // 해설 주입 후 노출
+                document.getElementById('explanation').innerText = data.explanation;
+                document.getElementById('result').classList.remove('hidden');
+                
+                // 결과 영역으로 스크롤 이동
+                document.getElementById('result').scrollIntoView({ behavior: 'smooth' });
+            });
+        }
+    </script>
+</body>
+</html>
