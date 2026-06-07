@@ -126,7 +126,12 @@ func main() {
 			IsBookmarked: isBookmarked,
 		}
 
-		tmpl, _ := template.New("quiz").Parse(getHTMLSource())
+		// [수정] 템플릿 파싱 에러 핸들링 추가
+		tmpl, err := template.New("quiz").Parse(getHTMLSource())
+		if err != nil {
+			http.Error(w, "템플릿 에러: "+err.Error(), http.StatusInternalServerError)
+			return
+		}
 		tmpl.Execute(w, renderData)
 	})
 
@@ -233,7 +238,7 @@ func getHTMLSource() string {
         <div class="flex items-center gap-2">
             <span>{{.Category}} · {{.OriginalNumber}}</span>
             <button onclick="toggleBookmark()" id="bookmarkBtn" class="text-sm focus:outline-none transition-transform active:scale-125">
-                {{if .IsBookmarked}}<span class="text-yellow-400">★</span>{{else}}<span class="text-slate-300">☆</span>{{endif}}
+                {{if .IsBookmarked}}<span class="text-yellow-400">★</span>{{else}}<span class="text-slate-300">☆</span>{{end}}
             </button>
         </div>
         
