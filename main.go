@@ -17,7 +17,6 @@ import (
 
 type Problem struct {
 	ID             int               `json:"id"`
-	OriginalNumber string            `json:"original_number"`
 	Category       string            `json:"category"`
 	Question       string            `json:"question"`
 	BoxContent     string            `json:"box_content"`

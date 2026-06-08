@@ -12,7 +12,7 @@
 
     <div class="flex items-center justify-between text-xs text-slate-500 mb-4 border-b pb-2">
         <div class="flex items-center gap-2">
-            <span>{{.Category}} · {{.OriginalNumber}}</span>
+            <span>{{.Category}} · {{.ID}}</span>
             <button id="bookmarkBtn" onclick="toggleBookmark()" class="text-sm focus:outline-none transition-transform active:scale-125">
                 {{if .IsBookmarked}}<span class="text-yellow-400">★</span>{{else}}<span class="text-slate-300">☆</span>{{end}}
             </button>
@@ -27,15 +27,11 @@
     <h2 class="text-base font-semibold leading-snug mb-4">{{.Question}}</h2>
 
     {{if .BoxContent}}
-    <div class="bg-slate-50 border p-3 text-xs text-slate-600 whitespace-pre-wrap mb-4 font-mono">
-        {{.BoxContent}}
-    </div>
+    <div class="bg-slate-50 border p-3 text-xs text-slate-600 whitespace-pre-wrap mb-4 font-mono">{{.BoxContent}}</div>
     {{end}}
 
     {{if .TableContent}}
-    <div class="overflow-x-auto text-xs border rounded mb-4 p-1">
-        {{.TableContent}}
-    </div>
+    <div class="overflow-x-auto text-xs border rounded mb-4 p-1">{{.TableContent}}</div>
     {{end}}
 
     {{if .HasImage}}

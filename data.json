@@ -1,7 +1,6 @@
 [
     {
         "id": 1,
-        "original_number": "0001",
         "category": "경영일반",
         "question": "비행기를 조종하는 경우 조종메뉴얼이나 프로그램에서 얻어지는 지식의 종류로 가장 타당한 것은?",
         "box_content": null,
@@ -20,7 +19,6 @@
     },
     {
         "id": 2,
-        "original_number": "0002",
         "category": "경영일반",
         "question": "테일러(F. W. Taylor)의 과학적 관리법에 관한 설명으로 가장 적절하지 않는 것은?",
         "box_content": null,
@@ -39,7 +37,6 @@
     },
     {
         "id": 3,
-        "original_number": "0003",
         "category": "경영일반",
         "question": "경영혁신 방법론 중 하나인 비즈니스 프로세스 리엔지니어링(BPR: Business Process Reengineering)의 특징으로 볼 수 없는 것은?",
         "box_content": null,
@@ -58,7 +55,6 @@
     },
     {
         "id": 4,
-        "original_number": "0004",
         "category": "인사관리",
         "question": "MBO(management by objective)를 통한 목표 설정시 충족시켜야 할 조건에 해당하지 않는 것은?",
         "box_content": null,
@@ -75,9 +71,8 @@
         "answer": 4,
         "explanation": "지나치게 어려운 목표는 종업원을 동기부여하지 못하므로 목표는 달성이 가능한 범위내에서 도전적인 것으로 설정되어야 한다."
     },
-        {
+    {
         "id": 5,
-        "original_number": "0005",
         "category": "경영일반",
         "question": "일반적으로 지식은 암묵지(tacit knowledge)와 형식지(explicit knowledge)로 분류한다. Nonaka가 제시한 지식순환의 나선형 프로세스 중에서 (ㄱ)에 해당하는 것은?",
         "box_content": null,
@@ -96,7 +91,6 @@
     },
     {
         "id": 6,
-        "original_number": "0006",
         "category": "인사관리",
         "question": "목표관리에 관한 설명으로 옳지 않는 것은?",
         "box_content": null,
@@ -115,7 +109,6 @@
     },
     {
         "id": 7,
-        "original_number": "0007",
         "category": "전략경영",
         "question": "동종업종 또는 유사업종 기업간 수평적으로 맺는 협정은?",
         "box_content": null,
@@ -134,7 +127,6 @@
     },
     {
         "id": 8,
-        "original_number": "0008",
         "category": "경영일반",
         "question": "페이욜(Fayol)이 주장한 경영활동과 관련하여 연결이 옳은 것은?",
         "box_content": null,
@@ -153,7 +145,6 @@
     },
     {
         "id": 9,
-        "original_number": "0009",
         "category": "경영일반",
         "question": "조직의 가치창출을 위해 지식을 생성, 저장, 공유, 활용하는 일련의 활동은?",
         "box_content": null,
@@ -172,7 +163,6 @@
     },
     {
         "id": 10,
-        "original_number": "0010",
         "category": "경영일반",
         "question": "암묵지(tacit knowledge)에 관한 설명으로 옳은 것은?",
         "box_content": null,
@@ -191,7 +181,6 @@
     },
     {
         "id": 11,
-        "original_number": "0011",
         "category": "경영일반",
         "question": "비즈니스 프로세스 리엔지니어링의 특징에 관한 설명으로 옳은 것은?",
         "box_content": null,
@@ -210,7 +199,6 @@
     },
     {
         "id": 12,
-        "original_number": "0012",
         "category": "경영일반",
         "question": "테일러(F. W. Taylor)의 과학적 관리법의 내용에 해당되지 않는 것은?",
         "box_content": null,
@@ -229,7 +217,6 @@
     },
     {
         "id": 13,
-        "original_number": "0013",
         "category": "인사관리",
         "question": "목표에 의한 관리(MBO)의 주요 특성이 아닌 것은?",
         "box_content": null,
@@ -248,7 +235,6 @@
     },
     {
         "id": 14,
-        "original_number": "0014",
         "category": "경영일반",
         "question": "회계나 재무적 관점으로만 경영성과를 평가하는 전통적 성과평가 방식을 탈피하여 재무, 고객, 내부 프로세스 및 학습·성장 등의 네 가지 관점에서 경영성과를 평가하는 경영기법은?",
         "box_content": null,
@@ -267,7 +253,6 @@
     },
     {
         "id": 15,
-        "original_number": "0015",
         "category": "경영일반",
         "question": "주식회사에 관한 특징으로 옳지 않은 것은?",
         "box_content": null,
@@ -286,7 +271,6 @@
     },
     {
         "id": 16,
-        "original_number": "0016",
         "category": "경영일반",
         "question": "현대 경영학 이론에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -305,7 +289,6 @@
     },
     {
         "id": 17,
-        "original_number": "0017",
         "category": "조직행동 : 개인",
         "question": "인간관계론의 내용에 관한 설명으로 옳은 것은?",
         "box_content": null,
@@ -324,7 +307,6 @@
     },
     {
         "id": 18,
-        "original_number": "0018",
         "category": "경영일반",
         "question": "기업가 정신의 핵심요소가 아닌 것은?",
         "box_content": null,
@@ -343,7 +325,6 @@
     },
     {
         "id": 19,
-        "original_number": "0019",
         "category": "경영일반",
         "question": "현대 경영이론에서 계획, 조직, 지휘, 조정, 통제의 관리기능을 주장한 사람은?",
         "box_content": null,
@@ -362,7 +343,6 @@
     },
     {
         "id": 20,
-        "original_number": "0020",
         "category": "경영일반",
         "question": "무한책임사원과 유한책임사원으로 구성된 상법상의 기업형태는?",
         "box_content": null,
@@ -381,7 +361,6 @@
     },
     {
         "id": 21,
-        "original_number": "0021",
         "category": "경영일반",
         "question": "테일러(F. Taylor)의 과학적 관리의 특징으로 옳지 않은 것은?",
         "box_content": null,
@@ -400,7 +379,6 @@
     },
     {
         "id": 22,
-        "original_number": "0022",
         "category": "조직이론",
         "question": "막스 베버(Max Weber)가 제시한 관료제 이론의 주요 내용이 아닌 것은?",
         "box_content": null,
@@ -419,7 +397,6 @@
     },
     {
         "id": 23,
-        "original_number": "0023",
         "category": "조직행동 : 집단과 조직",
         "question": "인간관계론에 해당하는 내용은?",
         "box_content": null,
@@ -438,7 +415,6 @@
     },
     {
         "id": 24,
-        "original_number": "0024",
         "category": "경영일반",
         "question": "경영이론의 주창자와 그 내용이 옳지 않은 것은?",
         "box_content": null,
@@ -457,7 +433,6 @@
     },
     {
         "id": 25,
-        "original_number": "0025",
         "category": "조직행동 : 집단과 조직",
         "question": "호손실험(Hawthorne experiment)의 순서가 바르게 나열된 것은?",
         "box_content": "ㄱ. 면접실험\nㄴ. 조명실험\nㄷ. 배전기 전선작업실 관찰\nㄹ. 계전기 조립실험",
@@ -476,7 +451,6 @@
     },
     {
         "id": 26,
-        "original_number": "0026",
         "category": "전략경영",
         "question": "동종 또는 유사업종의 기업들이 법적, 경제적 독립성을 유지하면서 협정을 통해 수평적으로 결합하는 형태는?",
         "box_content": null,
@@ -495,7 +469,6 @@
     },
     {
         "id": 27,
-        "original_number": "0027",
         "category": "경영일반",
         "question": "테일러(F. W. Taylor)의 과학적 관리법에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -514,7 +487,6 @@
     },
     {
         "id": 28,
-        "original_number": "0028",
         "category": "경영일반",
         "question": "균형성과표(Balanced Score Card)에 해당하지 않는 것은?",
         "box_content": null,
@@ -533,7 +505,6 @@
     },
     {
         "id": 29,
-        "original_number": "0029",
         "category": "경영일반",
         "question": "테일러(F. Taylor)의 과학적 관리법에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -552,7 +523,6 @@
     },
     {
         "id": 30,
-        "original_number": "0030",
         "category": "조직행동 : 집단과 조직",
         "question": "호손(Hawthorne)실험의 주요 결론에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -571,7 +541,6 @@
     },
     {
         "id": 31,
-        "original_number": "0031",
         "category": "경영일반",
         "question": "전문경영자와 소유경영자에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -590,7 +559,6 @@
     },
     {
         "id": 32,
-        "original_number": "0032",
         "category": "경영일반",
         "question": "주식회사에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -609,7 +577,6 @@
     },
     {
         "id": 33,
-        "original_number": "0033",
         "category": "경영일반",
         "question": "유한회사의 특징으로 옳은 것은?",
         "box_content": null,
@@ -628,7 +595,6 @@
     },
     {
         "id": 34,
-        "original_number": "0034",
         "category": "경영일반",
         "question": "회사의 설립 및 운영에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -647,7 +613,6 @@
     },
     {
         "id": 35,
-        "original_number": "0035",
         "category": "인사관리",
         "question": "목표관리(MBO: management by objective)의 주요 특성이 아닌 것은?",
         "box_content": null,
@@ -666,7 +631,6 @@
     },
     {
         "id": 36,
-        "original_number": "0036",
         "category": "경영일반",
         "question": "민쯔버그(H. Mintzberg)의 경영자 역할 중 의사결정 역할의 범주에 속하지 않는 것은?",
         "box_content": null,
@@ -685,7 +649,6 @@
     },
     {
         "id": 37,
-        "original_number": "0037",
         "category": "경영일반",
         "question": "슘페터(J. Schumpeter)가 경영혁신을 언급하면서 지적한 생산요소에 해당하지 않는 것은?",
         "box_content": null,
@@ -704,7 +667,6 @@
     },
     {
         "id": 38,
-        "original_number": "0038",
         "category": "경영일반",
         "question": "기업의 사회적 책임의 영역 중 가장 기본적이고, 제1차적 수준의 책임은?",
         "box_content": null,
@@ -723,7 +685,6 @@
     },
     {
         "id": 39,
-        "original_number": "0039",
         "category": "경영일반",
         "question": "경영이론에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -742,7 +703,6 @@
     },
     {
         "id": 40,
-        "original_number": "0040",
         "category": "경영일반",
         "question": "페이욜(H. Fayol)이 제시한 관리원칙에 해당되지 않는 것은?",
         "box_content": null,
@@ -761,7 +721,6 @@
     },
     {
         "id": 41,
-        "original_number": "0041",
         "category": "경영일반",
         "question": "효율성(efficiency)과 효과성(effectiveness)에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -780,7 +739,6 @@
     },
     {
         "id": 42,
-        "original_number": "0042",
         "category": "경영일반",
         "question": "경영학의 역사적 전개과정상에서 나타난 이론 중 성격이 다른 것은?",
         "box_content": null,
@@ -799,7 +757,6 @@
     },
     {
         "id": 43,
-        "original_number": "0043",
         "category": "경영일반",
         "question": "관리과정의 순서로 옳은 것은?",
         "box_content": null,
@@ -818,7 +775,6 @@
     },
     {
         "id": 44,
-        "original_number": "0044",
         "category": "전략경영",
         "question": "자회사 주식의 일부 또는 전부를 소유해서 자회사 경영권을 지배하는 지주회사와 관련이 있는 기업결합은?",
         "box_content": null,
@@ -837,7 +793,6 @@
     },
     {
         "id": 45,
-        "original_number": "0045",
         "category": "경영일반",
         "question": "기업의 사회적 책임에 대한 고전적 견해의 주장에 해당되는 것은?",
         "box_content": null,
@@ -856,7 +811,6 @@
     },
     {
         "id": 46,
-        "original_number": "0046",
         "category": "경영일반",
         "question": "주식회사에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -875,7 +829,6 @@
     },
     {
         "id": 47,
-        "original_number": "0047",
         "category": "경영일반",
         "question": "민간부문이 보유한 정보, 기술, 자본을 공공부문에 도입해 공동출자형식으로 행하는 기관 또는 사업은?",
         "box_content": null,
@@ -894,7 +847,6 @@
     },
     {
         "id": 48,
-        "original_number": "0048",
         "category": "경영일반",
         "question": "기업분할 중 물적분할에 관한 설명으로 옳은 것은?",
         "box_content": null,
@@ -913,7 +865,6 @@
     },
     {
         "id": 49,
-        "original_number": "0049",
         "category": "경영일반",
         "question": "경영통제에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -932,7 +883,6 @@
     },
     {
         "id": 50,
-        "original_number": "0050",
         "category": "경영일반",
         "question": "시스템이론 관점에서 경영의 투입 요소와 산출요소를 구분할 때, 산출 요소인 것은?",
         "box_content": null,
@@ -951,7 +901,6 @@
     },
     {
         "id": 51,
-        "original_number": "0051",
         "category": "조직행동 : 개인",
         "question": "인간관계론에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -970,7 +919,6 @@
     },
     {
         "id": 52,
-        "original_number": "0052",
         "category": "인사관리",
         "question": "목표관리(MBO: Management By Objectives)에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
@@ -989,7 +937,6 @@
     },
     {
         "id": 53,
-        "original_number": "0053",
         "category": "조직이론",
         "question": "막스 베버(M. Weber)가 제시한 이상적 관료조직의 원칙으로 옳지 않은 것은?",
         "box_content": null,
@@ -1008,7 +955,6 @@
     },
     {
         "id": 54,
-        "original_number": "0054",
         "category": "경영일반",
         "question": "주식회사의 대리인 문제에서 발생하는 감시비용에 포함되지 않는 것은?",
         "box_content": null,
@@ -1024,5 +970,3153 @@
         },
         "answer": 3,
         "explanation": "대리인 문제와 관련된 비용에는 감시비용, 확증비용, 잔여손실이 있는데, 감시비용은 주주들이 경영자를 감시하는데 사용되는 비용으로 성과급 제도, 사외이사, 주식옵션, 외부회계감사 등의 제도 운영에 들어가는 직간접적인 비용이 모두 포함된다."
+    },
+    {
+        "id": 55,
+        "category": "경영일반",
+        "question": "기업의 성과에 영향을 주는 기업 외부환경(external environment)이 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "사회문화",
+            "2": "법률",
+            "3": "경제정책",
+            "4": "정치",
+            "5": "최고경영자"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 56,
+        "category": "경영일반",
+        "question": "무한책임사원과 유한책임사원으로 구성되는 기업형태는?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "합명회사",
+            "2": "합자회사",
+            "3": "유한회사",
+            "4": "주식회사",
+            "5": "민법상의 조합"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 57,
+        "category": "경영일반",
+        "question": "테일러(F. Taylor)의 과학적 관리에서 활용된 방법이 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "차별적 성과급제",
+            "2": "작업도구의 표준화",
+            "3": "직무에 적합한 작업자 선발과 훈련",
+            "4": "권한과 책임의 원칙",
+            "5": "시간·동작 연구"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 58,
+        "category": "경영일반",
+        "question": "전략적 의사결정의 특징으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "전사적",
+            "2": "비반복적",
+            "3": "비구조적",
+            "4": "분권적",
+            "5": "비정형적"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 59,
+        "category": "경영일반",
+        "question": "기업윤리의 접근법 중 최대다수의 최대행복 제공을 목표로 하는 접근법은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "공리적 접근",
+            "2": "상대적 접근",
+            "3": "도덕권리적 접근",
+            "4": "정의적 접근",
+            "5": "의무론적 접근"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 60,
+        "category": "경영일반",
+        "question": "기업의 사회적 책임이 요구되는 이유로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "외부 경제효과",
+            "2": "시장의 불완전성",
+            "3": "환경요인간의 상호의존성 심화",
+            "4": "기업영향력의 증대",
+            "5": "공유가치 창출의 필요성"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 61,
+        "category": "경영일반",
+        "question": "동종 또는 유사기업간의 수평적 수직적 결합이 아닌 이종기업간의 결합을 통해 이점을 추구하는 기업집중은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "카르텔(cartel)",
+            "2": "트러스트(trust)",
+            "3": "콘체른(konzern)",
+            "4": "콩글로머리트(conglomerate)",
+            "5": "조인트벤처(joint venture)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 62,
+        "category": "경영일반",
+        "question": "주식회사의 특징에 관한 설명으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "자본의 증권화로 소유권 이전이 불가능하다.",
+            "2": "주주는 무한책임을 진다.",
+            "3": "소유와 경영의 분리가 불가능하다.",
+            "4": "인적결합 형태로 법적 규제가 약하다.",
+            "5": "자본조달이 용이하고, 과세대상 이익에 대해서는 법인세를 납부한다."
+        },
+        "answer": 5,
+        "explanation": "자본의 증권화로 소유권 이전이 용이하다. 주주는 유한책임을 진다. 소유와 경영의 분리가 가능하다. 주식회사는 인적 결합 형태라기보다는 자본적 결합의 형태이다. 그리고 법적 규제가 강하다."
+    },
+    {
+        "id": 63,
+        "category": "경영일반",
+        "question": "기업경영과 관련하여 윤리적 이슈에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "횡령",
+            "2": "불공정 행위",
+            "3": "환경파괴",
+            "4": "수익성 제고",
+            "5": "안전불감"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 64,
+        "category": "경영일반",
+        "question": "아웃소싱(outsourcing)에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기업이 생산·유통·포장·용역 등 업무의 일부분을 기업외부에 위탁하는 것이다.",
+            "2": "기업을 혁신하고 경쟁력을 높일 수 있는 방법 중, 단기간에 많은 효과를 얻을 수 있는 방법이다.",
+            "3": "성장과 경쟁력 및 핵심역량 강화를 위한 대안으로 활용되고 있다.",
+            "4": "독립 가능한 사업부와 조직 단위를 개개의 조직 단위로 나누어 소형화하는 것이다.",
+            "5": "기업은 고유업무에 집중함으로써 생산성 향상을 도모할 수 있다."
+        },
+        "answer": 4,
+        "explanation": "독립 가능한 사업부와 조직 단위를 개개의 조직 단위로 나누어 소형화하는 것은 다운사이징(downsizing)이다."
+    },
+    {
+        "id": 65,
+        "category": "경영일반",
+        "question": "경영이론에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "과학적 관리이론은 생산성과 효율성을 강조하였다.",
+            "2": "자원기반이론은 기업의 활용 가능한 핵심자원에 초점을 두었다.",
+            "3": "인간관계이론은 행동과학이론의 주장을 반박하며 인간을 다양한 욕구를 가진 존재로서 파악하였다.",
+            "4": "시스템이론은 전체 시스템의 관점에서 조직을 연구하는 것이 중요하다고 하였다.",
+            "5": "상황이론은 조직구조 및 경영기법이 환경에 따라 변해야 한다고 하였다."
+        },
+        "answer": 3,
+        "explanation": "인간관계이론이 행동과학이론을 반박한 것이 아니라, 오히려 행동과학이론이 인간관계이론의 주장을 반박하며 인간을 다양한 욕구를 가진 존재로서 파악했다."
+    },
+    {
+        "id": 66,
+        "category": "경영일반",
+        "question": "막스 베버(M. Weber)가 제시한 관료제의 특성에 해당되지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "상위직급과 하위직급 간의 수평적 의사소통",
+            "2": "문서로 정해진 규칙과 절차에 따른 과업의 수행",
+            "3": "기능적 전문화에 기초한 체계적인 업무의 분화",
+            "4": "직무는 전문화되고, 훈련받은 자에 의한 직무의 수행",
+            "5": "안정적이고 명확한 권한계층"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 67,
+        "category": "경영일반",
+        "question": "경영마인드(business mind)에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "경영마인드에는 고객중심, 가치극대화, 경쟁우위 마인드를 포함한다.",
+            "2": "고객중심 마인드는 고객에게 제공되는 일체의 물리적·심리적 행동이 최상의 고객만족을 가져다주는 것을 추구한다.",
+            "3": "가치극대화 마인드는 효율적인 방법으로 자원을 투입하여 최대의 산출이 발생하도록 추구한다.",
+            "4": "경영우위 마인드는 경쟁우위를 확보하기 위해 기술력이나 경영능력을 갖추는 것을 중시한다.",
+            "5": "경영마인드는 형평성과 일관성을 추구한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 68,
+        "category": "경영일반",
+        "question": "상황이론(contingency theory)의 특징으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "객관적 결과의 중시",
+            "2": "조직의 환경적응 중시",
+            "3": "조직을 분석단위로 하는 분석",
+            "4": "계량적 분석 중시",
+            "5": "중범위이론 지향"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 69,
+        "category": "경영일반",
+        "question": "관료제이론의 주요 내용과 거리가 먼 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "합법적 직무배정과 직무수행",
+            "2": "직무의 전문성과 능력에 의한 고용",
+            "3": "계층에 의한 관리",
+            "4": "규칙과 문서에 의한 경영관리",
+            "5": "신속한 의사결정"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 70,
+        "category": "경영일반",
+        "question": "지속가능경영을 구성하는 세 가지 요소는?",
+        "box_content": "ㄱ. 대외적 공헌성\nㄴ. 환경적 건전성\nㄷ. 사회적 책임성\nㄹ. 대내적 공정성\nㅁ. 경제적 수익성",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄱ, ㄴ, ㄷ",
+            "2": "ㄱ, ㄷ, ㄹ",
+            "3": "ㄴ, ㄷ, ㅁ",
+            "4": "ㄴ, ㄹ, ㅁ",
+            "5": "ㄷ, ㄹ, ㅁ"
+        },
+        "answer": 5,
+        "explanation": "지속가능경영을 구성하는 3가지 구성요소는 경제적 수익성, 환경적 건전성, 사회적 책임성이다."
+    },
+    {
+        "id": 71,
+        "category": "경영일반",
+        "question": "드러커(P. Drucker)가 제안한 기업의 사회적 책임의 내용에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "경제적 책임(economic responsibility)",
+            "2": "법적 책임(legal responsibility)",
+            "3": "기술적 책임(technological responsibility)",
+            "4": "윤리적 책임(ethical responsibility)",
+            "5": "자선적 책임(discretionary responsibility)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 72,
+        "category": "경영일반",
+        "question": "경영의 효율성(efficiency)에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "투입량에 대한 산출량의 비율이다.",
+            "2": "조직목표의 달성정도와 관련이 있는 개념이다.",
+            "3": "자원의 낭비 없이 일을 올바르게 수행하는 것(doing things right)을 의미한다.",
+            "4": "최소한의 자원 투입으로 최대한의 산출을 얻는 것을 지향한다.",
+            "5": "효율성이 높아도 목표를 달성하지 못하는 경우가 있다."
+        },
+        "answer": 2,
+        "explanation": "조직목표의 달성정도와 관련이 있는 개념은 효율성이 아니라 효과성(effectiveness)이다."
+    },
+    {
+        "id": 73,
+        "category": "경영일반",
+        "question": "호손(Hawthorne)실험과 관련한 설명으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "작업자는 임금 등 경제적 요인에 의해서 동기화 된다.",
+            "2": "작업자의 생산성은 작업환경 및 작업시간과 밀접한 연관이 있다.",
+            "3": "명확한 업무설계와 조직설계가 생산성 향상의 주요 요인이다.",
+            "4": "공식조직에 비해 비공식조직은 성과에 영향을 주지 않는다.",
+            "5": "작업자는 단지 관심을 기울여주기만 해도 성과가 개선된다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 74,
+        "category": "경영일반",
+        "question": "노나카(I. Nonaka)의 지식변환 과정 중 다음의 설명에 해당하는 것은?",
+        "box_content": "• 개인 간의 직접적인 상호작용을 통해 암묵지가 그대로 전달되는 경우를 말한다.\n• 장인들이 관찰, 모방, 지도와 같은 도제관계를 통해 장기적으로 지식을 전수하는 경우를 말한다.",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "연결화(combination)",
+            "2": "외부화(externalization)",
+            "3": "사회화(socialization)",
+            "4": "내면화(internalization)",
+            "5": "정보화(information)"
+        },
+        "answer": 3,
+        "explanation": "개인의 암묵지가 암묵지로 전달되는 것을 사회화 혹은 이식화(socialization)라고 한다. 이식화 과정은 보통 관찰이나 모방을 통해 일어난다."
+    },
+    {
+        "id": 75,
+        "category": "경영일반",
+        "question": "페이욜(H. Fayol)이 제시한 경영조직의 일반원칙으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "명령일원화의 원칙",
+            "2": "분업의 원칙",
+            "3": "동작경제의 원칙",
+            "4": "권한과 책임의 원칙",
+            "5": "집권화의 원칙"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 76,
+        "category": "경영일반",
+        "question": "다수의 이익을 위해 소수의 이익은 희생될 수 있다는 전제 하에 최대다수의 최대행복을 기본원리로 삼는 윤리적 의사결정 접근법은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "공리주의 접근법",
+            "2": "상대주의 접근법",
+            "3": "도덕적 권리 접근법",
+            "4": "사회적 정의 접근법",
+            "5": "의무론적 접근법"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 77,
+        "category": "경영일반",
+        "question": "베버(M. Weber)의 이상적인 관료제의 특징으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "분업화와 전문화",
+            "2": "명확한 권한 체계",
+            "3": "문서화된 공식적 규칙과 절차",
+            "4": "전문직 자격에 근거한 공식적인 선발",
+            "5": "개인별 특성을 고려한 관리"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 78,
+        "category": "경영일반",
+        "question": "사업구조 재구축을 통해 기업의 미래 지향적인 비전을 달성하고자 하는 경영기법은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "가치공학(value engineering)",
+            "2": "리엔지니어링(reengineering)",
+            "3": "리스트럭처링(restructuring)",
+            "4": "벤치마킹(benchmarking)",
+            "5": "아웃소싱(outsourcing)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 79,
+        "category": "경영일반",
+        "question": "민츠버그(H. Mintzberg)의 10가지 경영자의 역할에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "섭외자 역할(liaison role)",
+            "2": "정보탐색자 역할(monitor role)",
+            "3": "조직설계자 역할(organizer role)",
+            "4": "분쟁조정자 역할(disturbance role)",
+            "5": "자원배분자 역할(resource allocator role)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 80,
+        "category": "경영일반",
+        "question": "사회적 책임에 대한 기업의 대응전략에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "방해 전략(obstructive strategy)",
+            "2": "공격전략(offensive strategy)",
+            "3": "방어전략(defensive strategy)",
+            "4": "행동전략(proactive strategy)",
+            "5": "적응전략(accommodative strategy)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 81,
+        "category": "경영일반",
+        "question": "카르텔에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "동종 유사업종 기업 간에 수평적으로 맺는 협정이다.",
+            "2": "참여기업 법률적, 경제적으로 완전히 독립되어 협정에 구속력이 없다.",
+            "3": "공동판매기관을 설립하여 협정에 참여한 기업의 생산품 판매를 규제하기도 한다.",
+            "4": "아웃사이더가 많을수록 협정의 영향력이 커진다.",
+            "5": "일반적 카르텔은 공정경쟁을 저해하기 때문에 법률로 금지하고 있다."
+        },
+        "answer": 4,
+        "explanation": "카르텔에 참여하지 않는 기업 즉 담합에 참여하지 않는 기업(아웃사이더)이 많을수록 카르텔의 영향력은 줄어든다."
+    },
+    {
+        "id": 82,
+        "category": "경영일반",
+        "question": "국제표준화기구(ISO)에서 제정한 기업의 사회적 책임에 관한 국제표준은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ISO 9000",
+            "2": "ISO 14000",
+            "3": "ISO 22000",
+            "4": "ISO 26000",
+            "5": "ISO/IEC 27000"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 83,
+        "category": "경영일반",
+        "question": "기업환경에서 일반환경(간접환경)에 관한 내용으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "경쟁기업 출현",
+            "2": "공정거래법 개정",
+            "3": "컴퓨팅 기술 발전",
+            "4": "저출산 시대 심화",
+            "5": "환율과 원유가격 변동"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 84,
+        "category": "경영일반",
+        "question": "울산석유화학단지와 같이 여러 개의 생산부문이 유기적으로 결합된 다각적 결합공장 혹은 공장집단은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "트러스트(trust)",
+            "2": "콘체른(concern)",
+            "3": "콤비나트(kombinat)",
+            "4": "컨글로머리트(conglomerate)",
+            "5": "조인트벤처(joint venture)"
+        },
+        "answer": 3,
+        "explanation": "콤비나트란 일정한 지역에서 기초 원료로부터 제품에 이르기까지 생산 단계가 다른 각종 생산 부문이 기술적으로 결합되어 집약적인 계열을 형성한 기업의 지역적 결합체를 말한다."
+    },
+    {
+        "id": 85,
+        "category": "경영일반",
+        "question": "호손(Hawthorne) 연구에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "인간이 조직에서 중요한 요소의 하나라는 사실을 강조하였다.",
+            "2": "개인과 집단의 사회적·심리적 요소가 조직성과에 영향을 미친다는 사실을 인식하였다.",
+            "3": "비공식조직이 조직성과에 영향을 미치는 것을 확인하였다.",
+            "4": "작업의 과학화, 객관화, 분업화의 중요성을 강조하였다.",
+            "5": "매슬로우(A. Maslow) 등이 주도한 인간관계운동의 출현을 가져왔다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 86,
+        "category": "경영일반",
+        "question": "버나드(C. Barnard)와 사이먼(H. Simon)이 주장한 이론은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "과학적 관리법",
+            "2": "관료제",
+            "3": "상황이론",
+            "4": "의사결정이론",
+            "5": "경영과학"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 87,
+        "category": "경영일반",
+        "question": "균형성과표(BSC)의 네 가지 관점이 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "내부 프로세스 관점",
+            "2": "외부 프로세스 관점",
+            "3": "고객관점",
+            "4": "학습 및 성장 관점",
+            "5": "재무관점"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 88,
+        "category": "경영일반",
+        "question": "시장지배를 목적으로 동일한 생산단계에 속한 기업들이 하나의 자본에 결합하는 기업집중형태는?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "카르텔(cartel)",
+            "2": "콤비나트(combinat)",
+            "3": "콘체른(concern)",
+            "4": "조인트벤처(joint venture)",
+            "5": "트러스트(trust)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 89,
+        "category": "경영일반",
+        "question": "목표관리(MBO)의 일반적 요소가 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "목표의 구체성(goal specificity)",
+            "2": "명확한 기간(explicit time period)",
+            "3": "성과 피드백(performance feedback)",
+            "4": "참여적 의사결정(participative decision making)",
+            "5": "조직구조(organizational structure)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 90,
+        "category": "경영일반",
+        "question": "혁신을 위한 환경요소가 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "유기적 조직구조",
+            "2": "세밀하고 철저한 일정관리",
+            "3": "긍정적 피드백",
+            "4": "갈등에 대한 포용",
+            "5": "낮은 외부 통제"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 91,
+        "category": "경영일반",
+        "question": "기업전략에서 고려하는 지속가능성(sustainability)에 대한 설명으로 가장 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "지속가능 기업전략에서는 이해관계자와 관계없이 주주의 이익을 우선시한다.",
+            "2": "지속가능성 평가 기준의 일종인 삼중선(triple bottom lines)은 기업의 경제, 사회, 정부 차원의 책무를 강조한다.",
+            "3": "사회적 책임이 포함된 기업전략을 수립하는 것에 대해 모든 기업이 동의한다.",
+            "4": "기업의 이익을 넘어 사회의 이익을 제공할 수 있는 전략을 수립한다."
+        },
+        "answer": 4,
+        "explanation": "지속가능 기업전략에서는 주주와 더불어 기업의 모든 이해관계자의 이익을 중시한다. 지속가능성 평가 기준의 일종인 삼중선은 경제, 사회, 환경 차원의 책무를 강조한다. 사회적 책임이 포함된 기업전략을 수립하는 것에 대해 모든 기업이 동의하는 것은 아니다."
+    },
+    {
+        "id": 92,
+        "category": "경영일반",
+        "question": "경영자 분류에 대한 설명으로 가장 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "소유경영자는 전문경영자에 비해 단기적 이익에 집중한다.",
+            "2": "전문경영자는 출자여부와는 관계없이 기업을 경영하는 사람이다.",
+            "3": "소유경영자는 출자와 경영 기능을 동시에 담당한다.",
+            "4": "경영자를 계층에 따라 일선(현장) 경영자, 중간경영자, 최고경영자로 분류할 수 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 93,
+        "category": "경영일반",
+        "question": "카츠(R. L. Katz)가 제안한 경영자 또는 관리자로서 갖춰야할 관리기술 중 최고경영자 계층에서 특히 중요시되는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "운영적 기술(operational skill)",
+            "2": "개념적 기술(conceptual skill)",
+            "3": "인간관계적 기술(human skill)",
+            "4": "전문적 기술(technical skill)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 94,
+        "category": "경영일반",
+        "question": "주식회사의 특징으로 가장 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "경영자는 부채에 대해 무한책임을 진다.",
+            "2": "기업의 이해관계자 집단과 이해조정의 문제가 생기지 않는다.",
+            "3": "지분의 유가증권화를 인정하지 않는다.",
+            "4": "소유와 경영이 분리되면서 대리인 문제가 발생한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 95,
+        "category": "경영일반",
+        "question": "기업의 경영성과를 평가하는 데 사용되는 균형성과표(Balanced Scorecard: BSC)의 평가관점과 성과지표·측정 지표 간의 연결로 가장 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "재무 관점 - EVA(Economic Value Added)",
+            "2": "고객 관점 - 시장점유율",
+            "3": "내부 프로세스 관점 - 자발적 이직률",
+            "4": "학습 및 성장 관점 - 직원 만족도"
+        },
+        "answer": 3,
+        "explanation": "자발적 이직률은 학습과 성장 관점에 해당한다."
+    },
+    {
+        "id": 96,
+        "category": "경영일반",
+        "question": "&lt;보기&gt;의 경영이론에 대한 설명 중 옳은 것을 모두 고른 것은?",
+        "box_content": "ㄱ. 테일러(Taylor)의 과학적 관리이론에서 과업관리 목표는 '높은 임금과 높은 노무비의 원리'이다.\nㄴ. 포드 시스템(Ford system)은 생산의 표준화를 전제로 한다.\nㄷ. 페이욜(Fayol)의 관리이론 중 생산, 제작, 가공활동은 관리활동에 해당한다.\nㄹ. 메이요(Mayo)의 호손연구(Hawthorne Studies)에 의하면 화폐적 자극은 생산성에 영향을 미치지 않는다.",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄱ, ㄴ",
+            "2": "ㄴ",
+            "3": "ㄴ, ㄹ",
+            "4": "ㄷ, ㄹ"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 97,
+        "category": "경영일반",
+        "question": "포드가 주창한 경영관리의 합리화 방식에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "노동조합의 육성",
+            "2": "이동조립법(컨베이어벨트 시스템)",
+            "3": "제품 표준화",
+            "4": "부품 규격화"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 98,
+        "category": "경영일반",
+        "question": "기업의 경영자는 소유경영자와 전문경영자로 구분할 수 있는데, 전문경영자의 장단점에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "상대적으로 강력한 리더십을 발휘할 수 있는 장점이 있다.",
+            "2": "소유와 경영의 분리로 계속기업(going concern)이 가능한 장점이 있다.",
+            "3": "주주의 이해관계보다는 자신의 이해관계를 중시하는 단점이 있다.",
+            "4": "재직기간 동안의 단기적인 이익발생에 집착하는 단점이 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 99,
+        "category": "경영일반",
+        "question": "노나카(Nonaka)는 지식을 존재하고 있는 형태에 따라서 암묵지와 형식지로 구분하였다. 다음 중 암묵지와 형식지에 대한 설명 중 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "암묵지는 경험을 통해 몸에 밴 지식이므로 전수하기가 쉽다.",
+            "2": "형식지는 언어나 기호로 표현될 수 있는 객관적이고 이성적인 지식을 말한다.",
+            "3": "암묵지에서 형식지로의 전환을 표출화(articulation)라고 한다.",
+            "4": "형식지에서 암묵지로의 전환을 내면화(internalization)라고 한다."
+        },
+        "answer": 1,
+        "explanation": "암묵지는 말이나 글로는 표현하기 어렵고 몸에 밴 지식으로 전수하기 어렵다."
+    },
+    {
+        "id": 100,
+        "category": "경영일반",
+        "question": "미국에서 유래한 경영혁신기법으로 기존의 프로세스를 처음부터 다시 생각하고 최신의 기술과 지식을 바탕으로 프로세스를 재설계하는 방법은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "TQM(total quality management)",
+            "2": "BPR(business process reengineering)",
+            "3": "BM(benchmarking)",
+            "4": "ERP(enterprise resource planning)"
+        },
+        "answer": 2,
+        "explanation": "고객에게 보다 높은 가치를 전달하기 위해 업무프로세스를 과격하게 바꾸는 재설계 기법은 BPR이다."
+    },
+    {
+        "id": 101,
+        "category": "경영일반",
+        "question": "조직의 글로벌화, 정보지식사회화가 진전되면서 많은 조직들이 무형의 가치측정까지도 포함된 균형성과표(BSC: balanced scorecard)에 의한 평가방법을 도입하고 있다. 균형성과표의 네가지 관점에 포함되지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "재무적 관점",
+            "2": "학습과 성장 관점",
+            "3": "경쟁력과 차별화 관점",
+            "4": "고객관점"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 102,
+        "category": "경영일반",
+        "question": "과학적 관리법(scientific management)에 대한 설명으로 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "개인보다는 집단 중심의 보상을 더 중요시하였다.",
+            "2": "시간 및 동작연구(time and motion study)가 주요한 기법으로 사용되었다.",
+            "3": "경제적 보상을 가장 중요한 동기부여의 수단으로 보았다.",
+            "4": "기획부제도, 기능식 직장제도, 작업지도표제도 등을 활용하였다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 103,
+        "category": "경영일반",
+        "question": "시스템 접근법에 대한 설명으로 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "모든 현상이나 문제를 '전체로서 하나의 단일체'라는 전일성(holism)의 관점에서 접근한다.",
+            "2": "개방시스템으로서 동적 균형(dynamic equilibrium)을 추구한다.",
+            "3": "정(+)의 엔트로피(positive entropy)의 증대를 추구한다.",
+            "4": "피드백(feedback)을 통해 안정과 성장을 추구한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 104,
+        "category": "경영일반",
+        "question": "테일러(F. Taylor)가 과학적 관리법을 통해 실현하고자 했던 것으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "저임금 고노무비(low wage-high labor cost)",
+            "2": "고임금 저노무비(high wage-low labor cost)",
+            "3": "저가격 고임금(low price-high wage)",
+            "4": "고가격 저임금(high price-low wage)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 105,
+        "category": "경영일반",
+        "question": "대기업과 중소기업의 관계에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "대기업이 분사(社)를 통해 사실상의 자회사를 만들어 중소기업 영역에서 직접 운영하는 경우, 경제력이 분산되어 사회적 폐해가 줄어든다.",
+            "2": "하도급계약 불이행은 대표적 불공정거래의 하나이고, 이로 인해 중소기업의 경영난이 가중된다.",
+            "3": "대기업 위주의 경제정책은 부작용과 경제적 불균형을 초래할 수 있으므로 중소기업 육성정책이 지속적으로 확대되어야 한다.",
+            "4": "대기업에 비하여 우리나라 중소기업 경쟁력이 저하된 중요한 이유 중 하나는 중소기업에 대한 사회의 경시풍조이다."
+        },
+        "answer": 1,
+        "explanation": "대기업이 분사(spin-off)를 통해 사실상의 자회사를 만들어 중소기업 영역에서 직접 운영하는 경우, 상대적으로 경쟁력이 약한 중소기업이 피해를 보게 된다."
+    },
+    {
+        "id": 106,
+        "category": "경영일반",
+        "question": "주식회사에 대한 설명으로 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "주주의 유한책임제도를 전제로 한다.",
+            "2": "자본의 증권화 제도를 채택하고 있다.",
+            "3": "주식은 증권거래소를 통해서만 거래될 수 있다.",
+            "4": "기업의 소유와 경영의 분리가 촉진된다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 107,
+        "category": "경영일반",
+        "question": "부분이 아닌 전체의 관점에서 자신이 맡은 업무를 진행하는 전반경영자(general manager)에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "전반경영자는 라인과 스탭 부문 상호 간에 일어나는 갈등을 조정한다.",
+            "2": "전반경영자는 반드시 최고경영자일 필요는 없다.",
+            "3": "전반경영자는 독자적으로 사업단위를 책임진다.",
+            "4": "전반경영자는 마케팅, 생산, 재무, 인사 등 각 기능의 전문가를 뜻한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 108,
+        "category": "경영일반",
+        "question": "테일러(F. Taylor)의 과학적 관리법에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "시간 및 동작 연구에 따라 합리적 작업수행 방법을 제시하였였다.",
+            "2": "직무에 적합한 종업원의 선발과 훈련을 강조하였다.",
+            "3": "집단 성과급 제도를 도입하였다.",
+            "4": "기획부 제도를 도입하고, 기능별 감독 제도를 운영하였다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 109,
+        "category": "경영일반",
+        "question": "대리인 비용을 대리문제 방지수단에 따라 구분할 때, 그 종류에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "감시비용(monitoring cost)",
+            "2": "확증비용(bonding cost)",
+            "3": "잔여손실(residual loss)",
+            "4": "보상손실(compensation loss)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 110,
+        "category": "경영일반",
+        "question": "균형성과표(Balanced Score Card: BSC)와 비교하여 전통적 성과관리시스템의 한계에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "구성원의 경영전략에 대한 이해도가 높지 않다.",
+            "2": "성과에 대한 재무적 관심이 부족하다.",
+            "3": "자원 할당과 전략의 연계가 부족하다.",
+            "4": "인센티브와 목표달성의 연계가 부족하다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 111,
+        "category": "경영일반",
+        "question": "경영자의 의사결정과 행위 등을 통제하는 기업 지배구조는 크게 내부와 외부 통제메커니즘으로 구분할 수 있다. 내부 통제메커니즘에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "노동조합",
+            "2": "위임장 경쟁",
+            "3": "최고경영자 보상",
+            "4": "이사회"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 112,
+        "category": "경영일반",
+        "question": "기업의 사회적 책임(CSR: Corporate Social Responsibility)의 내용으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기업의 유지 및 발전에 대한 책임",
+            "2": "기업의 후계자 육성에 대한 책임",
+            "3": "기업의 주주 부(wealth)의 극대화에 대한 책임",
+            "4": "기업의 다양한 이해 조정에 대한 책임"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 113,
+        "category": "경영일반",
+        "question": "친환경 경영과 직접적인 관련이 없는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "식스시그마(6 sigma) 운동",
+            "2": "탄소배출권",
+            "3": "지속가능한 경영",
+            "4": "교토의정서"
+        },
+        "answer": 1,
+        "explanation": "식스시그마(6 sigma) 운동은 품질경영과 관련된 것이다."
+    },
+    {
+        "id": 114,
+        "category": "경영일반",
+        "question": "종업원의 동기부여와 성과관리 수단으로 기업에서 활용하는 목표관리기법(Management By Objective: MBO)의 특징으로 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "목표달성 기간의 명시",
+            "2": "개인 목표의 구체화를 위한 과정",
+            "3": "상사와 조직에 의한 하향식 목표 설정",
+            "4": "목표달성 여부에 대한 실적 및 정보의 피드백 제공"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 115,
+        "category": "경영일반",
+        "question": "어떤 기업이 매출목표 달성을 위해 신기술을 도입하였다. 그 결과 전년대비 생산량이 증가하고 생산원가는 감소하였으나 제품이 소비자의 관심을 끌지 못하여 매출목표를 달성하지 못하였다. 신기술 도입의 효과성과 효율성에 대한 설명으로 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "효과적이고 효율적이다.",
+            "2": "효과적이지 않지만 효율적이다.",
+            "3": "효과적이지만 효율적이지 않다.",
+            "4": "효과적이지 않고 효율적이지도 않다."
+        },
+        "answer": 2,
+        "explanation": "매출목표 달성을 위해 신기술을 도입하였으나 목표달성이 안됐으므로 효과적이지 않으나 생산원가는 감소하였으므로 효율적이라고 볼 수는 있다."
+    },
+    {
+        "id": 116,
+        "category": "경영일반",
+        "question": "경영이론에 대한 설명으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "테일러(F. Taylor)의 과학적 관리론에서는 고정적 성과급제를 통한 조직관리를 강조하였다.",
+            "2": "페이욜(H. Fayol)은 중요한 관리활동으로 계획수립, 조직화, 지휘, 조정, 통제 등을 제시하였다.",
+            "3": "바나드(C. Barnard)의 학습조직이론에서는 인간을 제한된 합리성을 갖는 의사결정자로 보았다.",
+            "4": "호손실험을 계기로 활발하게 전개된 인간관계론은 공식적 작업 집단만이 작업자의 생산성에 큰 영향을 미친다고 주장하였다."
+        },
+        "answer": 2,
+        "explanation": "테일러의 과학적 관리론에서는 차별적 성과급제를 통한 조직관리를 강조하였다. 인간을 제한된 합리성을 갖는 의사결정자로 본 사람은 사이먼이다. 호손실험을 계기로 활발하게 전개된 인간관계론은 비공식적 작업집단이 작업자의 생산성에 큰 영향을 미친다고 주장하였다."
+    },
+    {
+        "id": 117,
+        "category": "경영일반",
+        "question": "주식회사(Corporation)에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "주주는 회사에 대해 개인적으로 출자한 금액한도에서 책임을 진다.",
+            "2": "주식매매를 통하여 소유권 이전이 가능하다.",
+            "3": "전문지식을 가진 전문경영인에게 경영권을 위임하여 소유와 경영을 분리할 수 있다.",
+            "4": "주주의 수에 제한이 있어 복잡한 지배구조를 방지할 수 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 118,
+        "category": "경영일반",
+        "question": "공급사슬관리에서 \"현재세대의 자원 운영 계획이 미래세대의 자원 활용 가능성을 제한하지 않아야 한다.\"라고 정의되는 지속 가능성(Sustainability)의 3요소가 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "재무적(경제적) 가치",
+            "2": "기술적 가치",
+            "3": "환경적 가치",
+            "4": "사회적 가치"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 119,
+        "category": "경영일반",
+        "question": "기업의 이해관계자에 대한 기업의 사회적 책임(CSR: Corporate Social Responsibility)이 잘못 연결된 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "종업원에 대한 책임 - 안전한 작업환경 제공, 적절한 노동의 대가 지불",
+            "2": "사회에 대한 책임 - 새로운 부(Wealth)의 창출, 환경보호, 사회정의 촉진",
+            "3": "고객에 대한 책임 - 가치 있는 제품 및 서비스 공급, 고객만족",
+            "4": "투자자에 대한 책임 - 내부자거래(Insider Trading)로 주주의 부(Wealth) 극대화, 사회적 투자"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 120,
+        "category": "경영일반",
+        "question": "기업의 형태에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "합명회사는 출자액 한도 내에서 유한책임을 지는 사원만으로 구성된다.",
+            "2": "합자회사는 연대무한책임을 지는 무한책임사원과 출자액 한도내에서 유한책임을 지는 유한책임사원으로 구성된다.",
+            "3": "협동조합은 농민, 중소기업인, 소비자들이 자신들의 경제적 권익을 보호하기 위하여 공동으로 출자하여 조직된다.",
+            "4": "주식회사는 주주와 분리된 법적인 지위를 갖는다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 121,
+        "category": "경영일반",
+        "question": "지식경영에 대한 설명으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "언어로 표현하기 힘들 주관적 지식을 형식지라고 한다.",
+            "2": "암묵지에서 형식지로 지식이 전환되는 과정을 내면화라고 한다.",
+            "3": "수집된 데이터를 문제해결과 의사결정에 도움이 될 수 있도록 일정한 패턴으로 정리한 것을 정보라고 한다.",
+            "4": "지식경영은 형식지를 기업 구성원들에게 체화시킬 수 있는 암묵지로 전환하여 공유하는 경영방식이다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 122,
+        "category": "경영일반",
+        "question": "참가기업의 독립성과 결합 정도에 따른 기업집중 형태에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "카르텔(cartel or kartell)은 과당경쟁을 제한하면서 시장을 지배하기 위한 목적으로 각 기업이 경제적 독립성을 유지하면서 법률적으로 통합한 형태이다.",
+            "2": "트러스트(trust)는 시장독점을 위해 각 기업이 법률적·경제적 독립성을 포기하고 새로운 기업으로 결합한 형태이다.",
+            "3": "컨글로머릿(conglomerate)은 기업규모 확대를 위해 다른 업종이나 기업 간 주식매입을 통해 결합한 형태이다.",
+            "4": "콘체른(concern or konzern)은 각 기업이 법률적 독립성을 유지하면서 주식소유 및 자금대여와 같은 금융적 방법에 의해 결합한 형태이다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 123,
+        "category": "경영일반",
+        "question": "협동조합(cooperatives)에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "자신들의 경제적 권익을 보호하기 위해 두 명 이상이 공동출자로 조직한 공동기업이다.",
+            "2": "조합원에게는 출자액에 비례하여 의결권이 부여된다.",
+            "3": "영리보다 조합원의 이용과 편익제공을 목적으로 운영된다.",
+            "4": "운영주체 또는 기능에 따라 소비자협동조합, 생산자협동조합 등으로 나눌 수 "
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 124,
+        "category": "경영일반",
+        "question": "테일러(Taylor)의 과학적 관리법에 관한 설명 중 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "보상은 생산성과 연공(seniority), 팀웍과 능력에 비례하여 주어져야 한다.",
+            "2": "임파워먼트(empowerment)와 상향적 커뮤니케이션을 중시하였다.",
+            "3": "동작연구, 감정연구, 인간관계연구가 활발히 진행되었다.",
+            "4": "능률적 작업과 생산성 향상을 주된 목표로 하였다.",
+            "5": "직무설계가 전문화, 분권화, 개성화, 자율화되었다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 125,
+        "category": "경영일반",
+        "question": "시스템(system)에 대한 다음의 설명 중 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "하나의 시스템은 다수의 하위시스템으로 구성된다.",
+            "2": "하위시스템들은 각각의 목적을 달성하기 위하여 서로 독립적으로 운영된다.",
+            "3": "시스템은 투입(input), 처리(process), 산출(output), 피드백(feedback)의 과정을 포함한다.",
+            "4": "기업은 개방시스템의 속성을 지니고 있다.",
+            "5": "시스템은 피드백을 통하여 균형을 유지한다."
+        },
+        "answer": 2,
+        "explanation": "전체 시스템처럼 각 하위시스템들도 목적을 갖는다. 그러나 전체시스템의 목적을 달성하기 위해서 하위시스템의 목적은 전체시스템의 목적에 부합하도록 관리되어야 한다. 즉 전체시스템의 관점에서 하위시스템의 문제가 해결되어야 한다는 것이다. 조직의 하위시스템은 어느 정도 자율적으로 관리되지만 이들 간의 상호의존성으로 말미암아 하위시스템의 경영자는 조직 전체의 목적에 부합하도록 의사결정해야 한다는 것이다."
+    },
+    {
+        "id": 126,
+        "category": "경영일반",
+        "question": "지식경영에 대한 다음 설명 중 가장 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "지식경영은 기업의 내·외부로부터 지식을 체계적으로 축적하고 활용하는 경영기법을 말한다.",
+            "2": "지식은 더 많은 사람이 공유하면 할수록 그 가치가 더욱 증대되는 수확체증의 법칙을 따른다.",
+            "3": "지식은 형식지(explicit knowledge)와 암묵지(tacit knowledge)로 구분된다.",
+            "4": "암묵지는 학습과 체험을 통해 습득되지만 외부로 드러나지 않는 지식이다.",
+            "5": "형식지와 암묵지는 독립적인 지식창출 과정을 거쳐 각각 저장되고 활용된다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 127,
+        "category": "경영일반",
+        "question": "미국 경영학의 발전과정 중 나타난 용어와 설명의 관계가 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "시스템이론 : 조직을 여러 구성인자가 유기적으로 상호작용하는 결합체로 봄",
+            "2": "행동과학이론 : 인간관계를 중시하며 비공식 조직의 존재와 그 기능을 밝힘",
+            "3": "과학적 관리: 과업관리(task management)의 목표는 높은 임금·낮은 노무비의 원리로 집약됨",
+            "4": "구조조정(restructuring)이론 : 리엔지니어링, 벤치마킹, 아웃소싱 등의 기법이 있음",
+            "5": "포드 시스템(Ford system): 봉사주의와 저가격 고임금의 원리를 중심으로 하는 경영이념을 가짐"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 128,
+        "category": "경영일반",
+        "question": "테일러(Taylor)의 과학적 관리법(scientific management)에 관한 설명으로 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "분업의 원리를 적용하여 업무를 세분화하고 작업절차를 표준화하였다.",
+            "2": "시간과 동작 연구를 통하여 표준 작업량을 설정하였다.",
+            "3": "종업원 개인이 달성한 성과에 따라 임금을 차별하였다.",
+            "4": "조직의 관리과정을 계획, 조직, 지휘, 조정, 통제의 단계로 구분하였다.",
+            "5": "작업능률과 생산성을 향상시키는 최선의 방법(one the best way)이 존재할 수 있다고 주장하였다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 129,
+        "category": "경영일반",
+        "question": "케플란(Kaplan)과 노튼(Norton)의 균형성과표(BSC: Balanced Scorecard)에서 제시한 4가지 관점으로 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "재무적 관점",
+            "2": "고객관점",
+            "3": "학습과 성장 관점",
+            "4": "내부 프로세스 관점",
+            "5": "사회적 책임 관점"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 130,
+        "category": "경영일반",
+        "question": "테일러(Taylor)의 과학적 관리법(scientific management)에 관한 설명으로 옳은 것만을 모두 고른 것은?",
+        "box_content": "ㄱ. 부품을 표준화하고, 작업이 동시에 시작하여 동시에 끝나므로 동시 관리라고도 한다.\nㄴ. 과업 중심의 관리로 인간의 심리적, 사회적 측면에 대한 문제의식이 부족하다.\nㄷ. 동일작업에 대하여 과업을 달성하는 경우 고임금, 달성하지 못하는 경우에는 저임금을 지급한다.\nㄹ. 작업을 전문화하고 전문화된 작업마다 직장(foreman)을 두어 관리하게 한다.\nㅁ. 작업환경에 관계없이 작업자의 동기부여가 작업능률을 증가시키는 결과를 보여주었다.",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄱ, ㄴ, ㄷ",
+            "2": "ㄴ, ㄷ",
+            "3": "ㄴ, ㄷ, ㄹ",
+            "4": "ㄷ, ㄹ, ㅁ",
+            "5": "ㄹ, ㅁ"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 131,
+        "category": "경영일반",
+        "question": "인간관계론의 호손실험에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "종업원의 작업능률에 영향을 미치는 요인을 연구하였다.",
+            "2": "조명실험은 실험집단과 통제집단을 나누어 진행하였다.",
+            "3": "작업능률향상은 작업장에서 물리적 작업조건 변화가 가장 중요하다는 것을 확인하였다.",
+            "4": "면접조사를 통해 종업원의 감정이 작업에 어떻게 작용하는가를 파악하였다.",
+            "5": "작업능률은 비공식조직과 밀접한 관련이 있다는 것을 발견하였다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 132,
+        "category": "조직행동 : 개인",
+        "question": "목표설정이론에 의하면 동기유발효과를 갖는 목표의 특성은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "목표의 도전성/난이도",
+            "2": "목표의 자율성",
+            "3": "지시된 목표",
+            "4": "계산된 위험부담(calculated risk taking)",
+            "5": "목표의 가변성"
+        },
+        "answer": 1,
+        "explanation": "로크의 목표설정이론은 구체적(specific)이면서도 난이도가 적절히 높아서 도전감을 불러일으킬 수 있는 목표와 목표 설정과정에 종업원을 참여시키는 참여적(participative) 목표가 종업원을 동기부여시킨다고 주장했다."
+    },
+    {
+        "id": 133,
+        "category": "조직행동 : 개인",
+        "question": "동기부여 이론은 내용이론과 과정이론으로 구분된다. 다음 중 과정이론에 속하는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "매슬로우의 욕구단계이론",
+            "2": "맥그리거의 X이론, Y이론",
+            "3": "브룸의 기대이론",
+            "4": "허즈버그의 2 요인이론",
+            "5": "아지리스의 성숙, 미성숙이론"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 134,
+        "category": "조직행동 : 개인",
+        "question": "핵크만과 올드햄(J. R. Hackman & G. Oldham)이 주장한 직무특성이론에서 핵심직무차원에 포함되지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기능다양성(skill variety)",
+            "2": "과업정체성(task identity)",
+            "3": "과업중요성(task significance)",
+            "4": "과업자율성(autonomy)",
+            "5": "성장욕구(Growth Need Strength)"
+        },
+        "answer": 1,
+        "explanation": "스테레오타입(streotype): 피평가자가 속한 사회적 집단의 속성을 기초로 피평가자를 평가하려는 경향이다. 즉 평가자 자신이 피평가자가 속한 집단의 속성 지각을 기준으로 평가하는 것이다. 한마디로 고정관념을 가지고 평가하는 것을 말한다."
+    },
+    {
+        "id": 135,
+        "category": "조직행동 : 개인",
+        "question": "동기부여 내용이론인 허즈버그(Herzberg)의 2요인 이론에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "하위단계의 욕구가 충족되면, 더 이상 이 욕구는 동기부여 역할을 하지 못하고 그 보다 상위단계의 욕구가 동기를 유발한다.",
+            "2": "사람들의 욕구는 불만족 해소차원과 만족증진 차원으로 이루어져 있다.",
+            "3": "위생요인은 단지 불만족의 감소만을 가져온다.",
+            "4": "동기요인은 보다 나은 만족을 가져오도록 동기를 부여한다.",
+            "5": "경영자는 종업원을 동기부여하기 위해 칭찬, 격려 등의 내재적 보상수단을 사용해야 한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 136,
+        "category": "조직행동 : 개인",
+        "question": "다른 사람을 평가할 때 나타나는 오류에 대한 설명으로 가장 적합한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "후광효과: 사람의 배경이나 출신학교를 근거로 평가하는 경향",
+            "2": "관대화 경향: 지원자의 한 특질을 보고 현혹되어 지원자를 제대로 평가하지 못하는 경향",
+            "3": "중심화 경향: 아주 좋거나 나쁜 점수를 주지 않고 중간점수를 주는 경향",
+            "4": "가혹화 경향: 최근에 좋은 업적을 냈더라도 과거의 실적이 좋지 않으면 나쁘게 평가하는 경향",
+            "5": "스테레오타입: 하나의 영역에서 좋은 점수를 보이면 다른 영역도 잘 할 것이라고 판단하는 경향"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 137,
+        "category": "조직행동 : 개인",
+        "question": "자신이 속한 집단의 지각에 기초하여 타인을 평가하는 지각적 오류는?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "스테레오타입",
+            "2": "후광효과",
+            "3": "대조효과",
+            "4": "최근효과",
+            "5": "자존적 편견"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 138,
+        "category": "조직행동 : 개인",
+        "question": "피그말리언 효과(Pygmalion effect)와 동일한 의미를 나타내는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "감정적 몰입",
+            "2": "자기실현적 예언",
+            "3": "후광효과",
+            "4": "자존적 편견",
+            "5": "스테레오타이핑"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 139,
+        "category": "조직행동 : 개인",
+        "question": "매슬로우(Maslow)의 욕구단계이론에서 최상위 욕구는?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "안전 욕구",
+            "2": "자아실현 욕구",
+            "3": "사회적 욕구",
+            "4": "존경 욕구",
+            "5": "생리적 욕구"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 140,
+        "category": "조직행동 : 개인",
+        "question": "맥그리거(D. McGregor)의 X, Y이론에 관한 설명으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "조직의 감시, 감독 및 통제가 필요하다는 주장은 Y이론이다.",
+            "2": "쌍방향 의사결정은 X이론에서 주로 발생한다.",
+            "3": "자기통제가 많은 것은 X이론이다.",
+            "4": "순자의 성악설은 X이론과 Y이론 모두에 해당한다.",
+            "5": "개인의 목적과 조직의 목적이 부합하는 조직에서는 Y이론에 근거해서 운영된다."
+        },
+        "answer": 5,
+        "explanation": "조직의 감시, 감독 및 통제가 필요하다는 주장은 X이론이다. 쌍방향 의사결정은 Y이론에서 주로 발생한다. 자기통제가 많은 것은 Y이론이다. 순자의 성악설은 X이론에 해당한다."
+    },
+    {
+        "id": 141,
+        "category": "조직행동 : 개인",
+        "question": "허츠버그(F. Hertzberg)가 제시한 이요인(two-factor)이론을 따르는 경영자가 종업원들의 동기를 유발시키기 위한 방안으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "좋은 성과를 낸 종업원을 표창한다.",
+            "2": "종업원이 하고 있는 업무가 매우 중요함을 강조한다.",
+            "3": "좋은 성과를 낸 종업원에게 더 많은 급여를 지급한다.",
+            "4": "좋은 성과를 낸 종업원을 승진시킨다.",
+            "5": "좋은 성과를 낸 종업원에게 자기 계발의 기회를 제공한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 142,
+        "category": "조직행동 : 개인",
+        "question": "국가 간 문화차이와 관련하여 홉스테드(G. Hofstede)가 제시한 문화차원(cultural dimensions)에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "권력거리(power distance)",
+            "2": "불확실성 회피(uncertainty avoidance)",
+            "3": "남성성-여성성(masculinity-femininity)",
+            "4": "민주주의-독재주의(democracy-autocracy)",
+            "5": "개인주의-집단주의(individualism-collectivism)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 143,
+        "category": "조직행동 : 개인",
+        "question": "동기부여의 내용이론에 해당하는 것을 모두 고른 것은?",
+        "box_content": "ㄱ. A. Maslow의 욕구단계이론\nㄴ. C. Alderfer의 ERG이론\nㄷ. V. Vroom의 기대이론\nㄹ. J. Adams의 공정성이론\nㅁ. F. Herzberg의 2요인 이론",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄱ, ㄴ, ㄷ",
+            "2": "ㄱ, ㄴ, ㅁ",
+            "3": "ㄴ, ㄷ",
+            "4": "ㄴ, ㄷ, ㄹ",
+            "5": "ㄷ, ㄹ, ㅁ"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 144,
+        "category": "조직행동 : 개인",
+        "question": "조직에서 공식적으로 주어진 임무 이외의 일을 자발적으로 수행하는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "집단사고(groupthink)",
+            "2": "직무만족(job satisfaction)",
+            "3": "직무몰입(job involvement)",
+            "4": "감정노동(emotional labor)",
+            "5": "조직시민행동(organizational citizenship behavior)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 145,
+        "category": "조직행동 : 개인",
+        "question": "동기부여의 과정이론에 속하는 이론은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "매슬로우의 욕구단계이론",
+            "2": "로크의 목표설정이론",
+            "3": "앨더퍼의 ERG이론",
+            "4": "맥그리거의 X·Y이론",
+            "5": "허츠버그의 2요인이론"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 146,
+        "category": "조직행동 : 개인",
+        "question": "Big 5의 성격에 포함되지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "외향성(extraversion)",
+            "2": "정서적 안정성(emotional stability)",
+            "3": "성실성(conscientiousness)",
+            "4": "자존감(self-esteem)",
+            "5": "개방성(openness to experience)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 147,
+        "category": "조직행동 : 개인",
+        "question": "동기부여 이론 중 공정성이론(equity theory)에서 불공정성으로 인한 긴장을 해소할 수 있는 방법을 모두 고른 것은?",
+        "box_content": "ㄱ. 투입의 변경\nㄴ. 산출의 변경\nㄷ. 준거대상의 변경\nㄹ. 현장 또는 조직으로부터 이탈",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄱ, ㄴ",
+            "2": "ㄷ, ㄹ",
+            "3": "ㄱ, ㄴ, ㄷ",
+            "4": "ㄴ, ㄷ, ㄹ",
+            "5": "ㄱ, ㄴ, ㄷ, ㄹ"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 148,
+        "category": "조직행동 : 개인",
+        "question": "핵크맨(J. R. Hackman)과 올드햄(G. Oldham)의 직무특성이론에서 제시된 핵심직무특성이 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "피드백",
+            "2": "자율성",
+            "3": "기술다양성",
+            "4": "과업정체성",
+            "5": "직무전문성"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 149,
+        "category": "조직행동 : 개인",
+        "question": "개인의 일부 특성을 기반으로 그 개인 전체를 평가하는 지각경향은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "스테레오타입",
+            "2": "최근효과",
+            "3": "자존적 편견",
+            "4": "후광효과",
+            "5": "대조효과"
+        },
+        "answer": 4,
+        "explanation": "후광효과(halo effect)는 특정인이 가진 지엽적인 특성만을 가지고 그 사람의 모든 측면을 '긍정적'으로 평가하는 오류이다."
+    },
+    {
+        "id": 150,
+        "category": "조직행동 : 개인",
+        "question": "허쯔버그(F. Herzberg)의 2요인이론에서 동기요인(motivator)에 해당되는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "감독",
+            "2": "성취감",
+            "3": "복리후생",
+            "4": "작업환경",
+            "5": "임금"
+        },
+        "answer": 2,
+        "explanation": "허츠버그의 2요인이론에서 동기요인은 성취감, 일 자체, 발전성, 성장가능성, 인정을 받을 수 있는 기회 등이며, 이들은 만족을 증진시키는 요인이다. 반면 위생요인은 불만족을 해소하는 요인으로 급여, 동료와의 관계, 직장안정성, 작업조건 등이 이에 해당한다."
+    },
+    {
+        "id": 151,
+        "category": "조직행동 : 개인",
+        "question": "동기부여의 내용이론에 해당하는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "성취동기이론",
+            "2": "기대이론",
+            "3": "공정성이론",
+            "4": "목표설정이론",
+            "5": "인지평가이론"
+        },
+        "answer": 1,
+        "explanation": "동기부여의 내용이론에는 매슬로의 욕구단계 이론, 앨더퍼의 ERG이론, 허츠버그의 2요인이론, 맥클리랜드의 성취동기이론, 맥그리거의 X이론, Y이론 등이 있다. 또한 과정이론에는 기대이론, 공정성이론, 목표설정이론 등이 있다."
+    },
+    {
+        "id": 152,
+        "category": "조직행동 : 개인",
+        "question": "기존에 제공해 주던 긍정적 보상을 제공해 주지 않음으로써 어떤 행동을 줄이거나 중지하도록 하기 위한 강화(reinforcement) 방법은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "긍정적 강화",
+            "2": "소거",
+            "3": "처벌",
+            "4": "부정적 강화",
+            "5": "적극적 강화"
+        },
+        "answer": 2,
+        "explanation": "기존에 제공하던 긍정적 결과를 제공하지 않거나 혹은 유쾌한 보상을 제거하여 어떤 행동을 줄이거나 중지시키는 것은 소거(extinction)이다."
+    },
+    {
+        "id": 153,
+        "category": "조직행동 : 개인",
+        "question": "매슬로우(Maslow)의 욕구단계를 순서대로 나열한 것은?",
+        "box_content": "ㄱ. 생리욕구\nㄴ. 안전욕구\nㄷ. 소속욕구\nㄹ. 존경욕구\nㅁ. 자아실현욕구",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄱ-ㄴ-ㄷ-ㄹ-ㅁ",
+            "2": "ㄱ-ㄴ-ㄷ-ㅁ-ㄹ",
+            "3": "ㄴ-ㄱ-ㄷ-ㄹ-ㅁ",
+            "4": "ㄴ-ㄷ-ㄱ-ㄹ-ㅁ",
+            "5": "ㄴ-ㄷ-ㄹ-ㄱ-ㅁ"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 154,
+        "category": "조직행동 : 개인",
+        "question": "수단성(instrumentality) 및 유의성(valence)을 포함한 동기부여이론은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기대이론(expectancy theory)",
+            "2": "2요인이론(two factor theory)",
+            "3": "강화이론(reinforcement theory)",
+            "4": "목표설정이론(goal setting theory)",
+            "5": "인지평가이론(cognitive evaluation theory)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 155,
+        "category": "조직행동 : 개인",
+        "question": "Big 5 모델에서 제시하는 다섯 가지 성격요소가 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "개방성(openness)",
+            "2": "객관성(objectivity)",
+            "3": "외향성(extraversion)",
+            "4": "성실성(conscientiousness)",
+            "5": "정서적 안정성(emotional stability)"
+        },
+        "answer": 2,
+        "explanation": "외향성(extraversion), 친화성(agreebleness), 성실성(conscientiousness), 개방성(openness), 정서적 안정성(emotional stability)"
+    },
+    {
+        "id": 156,
+        "category": "조직행동 : 개인",
+        "question": "매슬로우(A. H. Maslow)가 제시한 욕구단계이론의 내용이 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "권한위임에 대한 욕구",
+            "2": "신체적 안전에 대한 욕구",
+            "3": "소속감이나 애정에 대한 욕구",
+            "4": "의식주에 대한 욕구",
+            "5": "존경받고 싶은 욕구"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 157,
+        "category": "조직행동 : 개인",
+        "question": "허츠버그(F. Herzberg)의 2요인이론에서 동기요인을 모두 고른 것은?",
+        "box_content": "ㄱ. 상사와의 관계\nㄴ. 성취\nㄷ. 회사 정책 및 관리방침\nㄹ. 작업조건\nㅁ. 인정",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄱ, ㄴ",
+            "2": "ㄱ, ㄷ",
+            "3": "ㄴ, ㅁ",
+            "4": "ㄷ, ㄹ",
+            "5": "ㄹ, ㅁ"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 158,
+        "category": "조직행동 : 개인",
+        "question": "다음 설명에 해당하는 지각 오류는?",
+        "box_content": "어떤 대상(개인)으로부터 얻은 일부 정보가 다른 부분의 여러 정보들을 해석할 때 영향을 미치는 것",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "자존적 편견",
+            "2": "후광효과",
+            "3": "투사",
+            "4": "통제의 환상",
+            "5": "대조효과"
+        },
+        "answer": 2,
+        "explanation": "어떤 대상(개인)으로부터 얻은 일부 정보가 다른 부분의 여러 정보들을 해석할 때 (긍정적으로) 영향을 미치는 것을 후광효과(halo effect)라고 한다."
+    },
+    {
+        "id": 159,
+        "category": "조직행동 : 개인",
+        "question": "기대이론에서 동기부여를 유발하는 요인에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "수단성이 높아야 동기부여 된다.",
+            "2": "기대가 높아야 동기부여 된다.",
+            "3": "조직에 대한 신뢰가 클수록 수단성이 높아진다.",
+            "4": "가치관에 부합되는 보상이 주어질수록 유의성이 높아진다.",
+            "5": "종업원들은 주어진 보상에 대하여 동일한 유의성을 갖는다."
+        },
+        "answer": 5,
+        "explanation": "종업원들은 주어진 보상에 대하여 서로 다른 유의성을 갖는다. 즉 종업원 각자의 보상에 대한 가치지각은 모두 다르다."
+    },
+    {
+        "id": 160,
+        "category": "조직행동 : 개인",
+        "question": "다음 사례에서 A의 행동을 설명하는 동기부여이론은?",
+        "box_content": "팀원 A는 작년도 목표 대비 업무실적을 100% 달성하였다. 이에 반해 같은 팀 동료 B는 동일 목표 대비 업무실적이 10% 부족하였지만 A와 동일한 인센티브를 받았다. 이 사실을 알게 된 A는 팀장에게 추가 인센티브를 요구하였으나 받아들여지지 않자 결국 이직하였다.",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기대이론",
+            "2": "공정성이론",
+            "3": "욕구단계이론",
+            "4": "목표설정이론",
+            "5": "인지적 평가이론"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 161,
+        "category": "조직행동 : 개인",
+        "question": "맥그리거(D. McGregor)의 X-Y이론은 인간에 대한 기본 가정에 따라 동기부여방식이 달라진다는 것이다. Y이론에 해당하는 가정 또는 동기부여방식이 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "문제해결을 위한 창조적 능력 보유",
+            "2": "직무수행에 대한 분명한 지시",
+            "3": "조직목표 달성을 위한 자기 통제",
+            "4": "성취감relaxation과 자아실현 추구",
+            "5": "노동에 대한 자연스러운 수용"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 162,
+        "category": "조직행동 : 개인",
+        "question": "매슬로우(A. H. Maslow)의 욕구단계이론에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "최하위 단계의 욕구는 생리적 욕구이다.",
+            "2": "최상위 단계의 욕구는 자아실현 욕구이다.",
+            "3": "욕구계층을 5단계로 설명하고 있다.",
+            "4": "다른 사람으로부터 안정과 존경을 받고자 하는 욕구는 성장욕구에 속한다.",
+            "5": "하위단계의 욕구가 충족되어야 상위단계의 욕구를 충족시키기 위한 동기부여가 된다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 163,
+        "category": "조직행동 : 개인",
+        "question": "강화계획(schedules of reinforcement)에서 불규칙한 횟수의 바람직한 행동 후 강화요인을 제공하는 기법은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "고정간격법",
+            "2": "변동간격법",
+            "3": "고정비율법",
+            "4": "변동비율법",
+            "5": "연속강화법"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 164,
+        "category": "조직행동 : 개인",
+        "question": "아담스(J. S. Adams)의 공정성이론에서 조직구성원들이 개인적 불공정성을 시정(是正)하기 위한 방법에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "투입의 변경",
+            "2": "산출의 변경",
+            "3": "투입과 산출의 인지적 왜곡",
+            "4": "장(場) 이탈",
+            "5": "준거인물 유지"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 165,
+        "category": "조직행동 : 개인",
+        "question": "상사 A에 대한 나의 태도를 기술한 것이다. 다음에 해당하는 태도의 구성요소를 옳게 연결한 것은?",
+        "box_content": "ㄱ. 나의 상사 A는 권위적이다.\nㄴ. 나는 상사 A가 권위적이어서 좋아하지 않는다.\nㄷ. 나는 권위적인 상사 A의 지시를 따르지 않겠다.",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄱ. 감정적 요소, ㄴ. 인지적 요소, ㄷ. 행동적 요소",
+            "2": "ㄱ. 감정적 요소, ㄴ. 행동적 요소, ㄷ. 인지적 요소",
+            "3": "ㄱ. 인지적 요소, ㄴ. 행동적 요소, ㄷ. 감정적 요소",
+            "4": "ㄱ. 인지적 요소, ㄴ. 감정적 요소, ㄷ. 행동적 요소",
+            "5": "ㄱ. 행동적 요소, ㄴ. 감정적 요소, ㄷ. 인지적 요소"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 166,
+        "category": "조직행동 : 개인",
+        "question": "인간의 욕구는 계층을 형성하며, 고차원의 욕구는 저차원의 욕구가 충족될 때 동기부여 요인으로 작용한다는 욕구단계이론을 제시한 사람은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "맥그리거(D. McGregor)",
+            "2": "매슬로우(A. Maslow)",
+            "3": "페이욜(H. Fayol)",
+            "4": "버나드(C. Barnard)",
+            "5": "사이먼(H. Simon)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 167,
+        "category": "조직행동 : 개인",
+        "question": "허즈버그(F. Herzberg)는 직무만족 생산성의 관련성을 연구한 결과, 2요인 이론을 주장하였다. 허즈버그가 제시한 동기요인으로 옳은 것을 모두 고른 것은?",
+        "box_content": "ㄱ. 책임감\nㄴ. 인정\nㄷ. 급여\nㄹ. 일 자체\nㅁ. 성장",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄱ, ㄴ, ㄷ, ㅁ",
+            "2": "ㄱ, ㄴ, ㄹ, ㅁ",
+            "3": "ㄱ, ㄷ, ㄹ",
+            "4": "ㄴ, ㄷ, ㄹ, ㅁ",
+            "5": "ㄴ, ㄹ, ㅁ"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 168,
+        "category": "조직행동 : 개인",
+        "question": "의사결정에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "합리적 의사결정은 문제 식별 → 대안 개발 → 대안 평가와 선정 → 실행의 단계를 거친다.",
+            "2": "불확실성의 상황에서 의사결정을 할 때에도 미래 상황에서의 객관적 확률을 알 수 있다.",
+            "3": "사이먼(H. Simon)은 의사결정자의 제한된 합리성으로 인해 이상적인 대안보다는 만족할만한 대안을 찾는 것이 바람직하다는 이론을 제시했다.",
+            "4": "의사결정은 프로그램적(programmed) 의사결정과 비프로그램적(nonprogrammed) 의사결정으로 구분할 수 있다.",
+            "5": "경영과정 전반에 걸친 경영활동은 의사결정의 연속이라고 할 수 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 169,
+        "category": "조직행동 : 개인",
+        "question": "동기부여이론 중 과정이론에 해당하는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "브룸(V. Vroom)의 기대이론",
+            "2": "매슬로우(A. Maslow)의 욕구단계이론",
+            "3": "아지리스(C. Argyris)의 성숙·미성숙이론",
+            "4": "허즈버그(F. Herzberg)의 2요인이론",
+            "5": "맥그리거(D. McGregor)의 X·Y이론"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 170,
+        "category": "조직행동 : 개인",
+        "question": "동기부여이론에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "매슬로우(A. Maslow)의 욕구단계이론에 의하면 자아실현이 최상위의 욕구이다.",
+            "2": "허즈버그(F. Herzberg)의 2요인이론에 의하면 금전적 보상은 위생요인에 속한다.",
+            "3": "알더퍼(C. Alderfer)의 ERG이론은 존재욕구, 관계욕구, 성장욕구로 구분하여 설명하였다.",
+            "4": "아담스(J. Adams)의 공정성이론은 내용이론에 속한다.",
+            "5": "맥클레랜드(D. McClelland)는 성취욕구, 권력 욕구, 친교욕구로 구분하여 설명하였다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 171,
+        "category": "조직행동 : 개인",
+        "question": "해크먼(R. Hackman)과 올드햄(G. Oldham)의 직무특성모형에서 직무가 다른 사람의 작업이나 생활에 실질적인 영향을 미칠 수 있는 정도를 의미하는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기술다양성",
+            "2": "과업정체성",
+            "3": "과업중요성",
+            "4": "자율성",
+            "5": "피드백"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 172,
+        "category": "조직행동 : 개인",
+        "question": "평가자의 사람에 대한 경직된 고정관념이 평가에 영향을 미치는 인사고과의 오류는?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "관대화 경향(leniency tendency)",
+            "2": "중심화 경향(central tendency)",
+            "3": "주관의 객관화(projection)",
+            "4": "최근효과(recency tendency)",
+            "5": "상동적 태도(stereotyping)"
+        },
+        "answer": 5,
+        "explanation": "어떤 대상에 대한 자신의 고정관념을 가지고 평가하는 오류를 상동적 태도(stereotyping)이라고 한다."
+    },
+    {
+        "id": 173,
+        "category": "조직행동 : 개인",
+        "question": "인간은 인지능력의 한계로 제한된 합리성을 가지게 된다고 주장한 학자는?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "마이클 포터(M. Porter)",
+            "2": "허버트 사이먼(H. Simon)",
+            "3": "헨리 페이욜(H. Fayol)",
+            "4": "존 내쉬(J. Nash)",
+            "5": "엘론 메이요(E. Mayo)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 174,
+        "category": "조직행동 : 개인",
+        "question": "맥그리거(D. McGregor)의 X이론에서 인간에 대한 가정에 해당하는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "대다수 사람들은 조직문제를 해결할 만한 능력이나 창의성이 없다.",
+            "2": "일은 고통의 원천이 되기도 하지만 조건여하에 따라 만족의 근원이 된다.",
+            "3": "인간은 외적 강제나 처벌의 위협이 없더라도 조직목표를 위하여 자기관리와 자기통제를 행한다.",
+            "4": "현대조직에 있어 인간의 지적 능력은 그 일부분밖에 활용되지 못하고 있다.",
+            "5": "일정 조건하에서 인간은 스스로 책임질 뿐만 아니라 오히려 그것을 추구한다."
+        },
+        "answer": 1,
+        "explanation": "X 이론은 대다수 사람들은 조직문제를 해결할 만한 능력이나 창의성이 없다고 가정한다. 즉 사람을 부정적으로 보기 때문에 감시와 감독이 필요하다고 본다."
+    },
+    {
+        "id": 175,
+        "category": "조직행동 : 개인",
+        "question": "내재적으로 동기부여된 행동에 외재적 보상이 제공되면 오히려 내재적 동기가 감소하게 되는 현상을 설명하고 있는 이론은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기대이론",
+            "2": "욕구단계이론",
+            "3": "인지평가이론",
+            "4": "ERG이론",
+            "5": "목표설정이론"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 176,
+        "category": "조직행동 : 개인",
+        "question": "허즈버그(F. Herzberg)의 이요인 이론(dual factor theory)에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "만족에 영향을 미치는 요인과 불만족에 영향을 미치는 요인은 별도로 존재한다.",
+            "2": "위생요인은 만족을 증가시킬지의 여부에 영향을 미치며, 불만족해소 여부에는 영향을 미치지 못한다.",
+            "3": "동기요인은 개인으로 하여금 열심히 일하게 하며 이에 따라 성과도 높여주는 요인이다.",
+            "4": "구성원의 만족도를 높이기 위해서는 위생요인보다 동기요인을 사용해야 한다.",
+            "5": "이요인 이론에 의하면 불만족요인을 제거한다고 해서 반드시 만족수준이 높아지는 것은 아니다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 177,
+        "category": "조직행동 : 개인",
+        "question": "조직개발 기법 중 스키너(B. F. Skinner)의 조작적 조건화의 원리를 조직 상황에 적용하여 긍정적 행동의 강화에 이론적 기초를 두고 있는 기법은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "행동수정기법",
+            "2": "형태적 접근기법",
+            "3": "의사거래분석법",
+            "4": "감수성 훈련기법",
+            "5": "델파이법"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 178,
+        "category": "조직행동 : 개인",
+        "question": "경영이론의 발전과정에서 연구자들과 연구내용의 연결이 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "길브레스부부(F. B. & L. M. Gilbreth) - 동작연구",
+            "2": "페이욜(H. Fayol) - 관리자의 의무",
+            "3": "메이요(E. Mayo) - 호손실험",
+            "4": "맥그리거(D. McGregor) - X-Y이론",
+            "5": "아지리스(C. Argyris) - 상황이론"
+        },
+        "answer": 5,
+        "explanation": "아지리스는 미성숙·성숙이론을 제시했다."
+    },
+    {
+        "id": 179,
+        "category": "조직행동 : 개인",
+        "question": "인간두뇌의 한계와 정보부족 등으로 인해 완전한 합리성은 불가능하므로 제한된 합리성에 근거하여 의사결정을 하게 된다는 모형은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "경제인모형",
+            "2": "만족모형",
+            "3": "점증모형",
+            "4": "최적모형",
+            "5": "혼합모형"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 180,
+        "category": "조직행동 : 개인",
+        "question": "모티베이션(motivation) 내용이론에 속하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "매슬로우(A. H. Maslow)의 욕구단계이론",
+            "2": "아담스(J. S. Adams)의 공정성이론",
+            "3": "허즈버그(F. Herzberg)의 2요인이론",
+            "4": "알더퍼(C. P. Alderfer)의 ERG이론",
+            "5": "맥클레랜드(D. C. McClelland)의 성취동기이론"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 181,
+        "category": "조직행동 : 개인",
+        "question": "허즈버그(F. Herzberg)의 2요인이론에서 동기요인에 해당하지 않는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "직무에 대한 성취",
+            "2": "직무에 대한 인정",
+            "3": "직무 자체",
+            "4": "능력의 신장",
+            "5": "감독"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 182,
+        "category": "조직행동 : 개인",
+        "question": "타인에 대한 평가에 평가자 자신의 감정이나 특성을 귀속 또는 전가시키는데서 발생하는 오류는?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "후광효과",
+            "2": "상동적 태도",
+            "3": "주관의 객관화",
+            "4": "선택적 지각",
+            "5": "관대화 경향"
+        },
+        "answer": 3,
+        "explanation": "타인에 대한 평가에 평가자 자신의 감정이나 특성을 귀속 또는 전가시키는데서 발생하는 오류를 주관의 객관화라고 한다."
+    },
+    {
+        "id": 183,
+        "category": "조직행동 : 개인",
+        "question": "매슬로우(A. Maslow)의 욕구단계이론과 알더퍼(C. Alderfer)의 ERG이론에 관한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "욕구단계이론과 ERG이론은 하위욕구가 충족되면 상위욕구를 추구한다고 보는 공통점이 있다.",
+            "2": "ERG이론에서는 욕구의 좌절-퇴행 과정도 일어난다.",
+            "3": "욕구단계이론에서 자아실현의 욕구는 ERG이론에서 성장욕구에 해당한다.",
+            "4": "욕구단계이론에서는 한 시점에 낮은 단계와 높은 단계의 욕구가 동시에 발생한다.",
+            "5": "욕구단계이론에서 생리적 욕구는 ERG이론에서 존재욕구에 해당한다."
+        },
+        "answer": 4,
+        "explanation": "욕구단계이론에서는 한 시점에 낮은 단계와 높은 단계의 욕구가 동시에 발생하지 않고 낮은 단계부터 순차적으로 발생한다."
+    },
+    {
+        "id": 184,
+        "category": "조직행동 : 개인",
+        "question": "모티베이션 이론 중 과정이론으로만 묶인 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "욕구단계론, 성취동기이론",
+            "2": "공정성이론, 목표설정이론",
+            "3": "ERG이론, 기대이론",
+            "4": "ERG이론, 2요인이론",
+            "5": "성취동기이론, 욕구단계론"
+        },
+        "answer": 2,
+        "explanation": "동기부여의 과정이론은 기대이론, 공정성이론, 목표설정이론으로 구성된다."
+    },
+    {
+        "id": 185,
+        "category": "조직행동 : 개인",
+        "question": "해크만과 올드햄(R. Hackman & G. Oldham)의 직무특성모형에서 5가지 핵심 직무특성이 아닌 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기능 다양성",
+            "2": "과업 정체성",
+            "3": "과업 중요성",
+            "4": "과업 전문성",
+            "5": "자율성"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 186,
+        "category": "조직행동 : 개인",
+        "question": "다음 동기부여 이론들에 대한 설명 중 가장 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "매슬로우(Maslow)의 욕구계층이론에 따르면 인간은 하위단계의 욕구가 채워지면 순차적으로 상위단계의 욕구를 채우려 한다고 가정한다.",
+            "2": "허즈버그(Herzberg)의 2요인이론에서 동기유발 요인은 급여, 작업조건, 고용안정 등 작업환경과 관련된 것을 의미한다.",
+            "3": "브룸(Vroom)의 기대이론에 의하면 동기부여는 기대, 보상의 가치, 수단성의 3요소에 의해 영향을 받는다.",
+            "4": "애덤스(Adams)의 공정성이론은 개인의 투입과 산출에 대한 평가에 기초를 두고 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 187,
+        "category": "조직행동 : 개인",
+        "question": "인사평가 시 발생할 수 있는 대인지각 오류에 대한 설명으로 가장 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "후광오류(halo errors)는 피평가자의 일부 특성으로 그사람에 대한 전체적인 평가를 긍정적으로 내리는 경향이다.",
+            "2": "나와 유사성 오류(similar-to-me errors)는 자신의 특성과 유사한 피평가자에 대해 관대히 평가하는 경향이다.",
+            "3": "상동적 태도(stereotyping)는 피평가자가 속한 집단의 특성으로 피평가자 개인을 평가하려는 경향이다.",
+            "4": "대비오류(contrast errors)는 평가자가 본인의 특성과 피평가자의 특성을 비교하려는 경향이다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 188,
+        "category": "조직행동 : 개인",
+        "question": "동기부여 이론에 대한 설명으로 가장 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "허즈버그(Herzberg)의 2요인 이론(dual factor theory)에 의하면 작업환경을 개선하면 종업원의 만족도가 높아진다.",
+            "2": "애덤스(Adams)의 공정성이론(equity theory)에 의하면 개인의 지각보다는 임금 수준 그 자체가 만족도를 결정하는 핵심적인 요소가 된다.",
+            "3": "매슬로우(Maslow)의 욕구계층이론(hierarchy of needs theory)에 의하면 아래에서 네 번째 위치의 사회적 욕구는 존경 욕구 위에 존재한다.",
+            "4": "브룸(Vroom)의 기대이론(expectancy theory)에서 수단성(instrumentality)이란 개인행동의 성과가 보상으로 이어질 것이라는 믿음을 가리킨다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 189,
+        "category": "조직행동 : 개인",
+        "question": "해크만(Hackman)과 올드햄(Oldham)이 제시한 직무특성모형에 포함되지 않는 직무특성은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "피드백",
+            "2": "자율성",
+            "3": "과업정체성",
+            "4": "과업적합성"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 190,
+        "category": "조직행동 : 개인",
+        "question": "로크(Locke)의 목표설정이론(goal-setting theory)에 기초한 주장으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "추상적인 목표의 제시는 목표 실행자의 창의력을 증진시켜 성과를 높일 수 있게 해 준다.",
+            "2": "적절한 피드백의 제공은 성과 향상의 필요조건이다.",
+            "3": "목표 실행자의 목표설정과정 참여는 목표에 대한 이해도를 향상시켜 성과를 높일 수 있게 해 준다.",
+            "4": "목표달성에 대한 적절한 보상은 성과 향상을 위한 필요조건이다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 191,
+        "category": "조직행동 : 개인",
+        "question": "공정한 평가를 저해하는 요소에 대한 다음 설명 중 옳은 것을 모두 고른 것은?",
+        "box_content": "a. 논리적 오류: 외부적 상황이 모호할수록 자신의 경험, 욕구, 동기를 근거로 눈에 먼저 들어오는 정보에 의존하고 다른 정보는 무시하려는 경향\nb. 현혹효과의 문제: 피평가자의 어느 한 면을 기준으로 다른 것까지 함께 평가하려는 경향\nc. 관대화 경향: 피평가자의 실제 능력이나 실적보다도 더 높게 평가하려는 경향\nd. 상동적 태도: 피평가자가 속한 사회적 집단 또는 계층을 기초로 피평가자를 평가하려는 경향",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "a, b, c",
+            "2": "a, b, d",
+            "3": "a, c, d",
+            "4": "b, c, d"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 192,
+        "category": "조직행동 : 개인",
+        "question": "고과자가 피고과자를 평가함에 있어 쉽게 기억할 수 있는 최근 업적이나 능력을 중심으로 평가하려는 데서 나타나는 오류는?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "시간적 오류(recency errors)",
+            "2": "논리적 오류(logical errors)",
+            "3": "후광효과(halo effect)",
+            "4": "주관의 객관화(projection)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 193,
+        "category": "조직행동 : 개인",
+        "question": "인사고과를 위한 평가에서 일반적으로 많이 범하게 되는 오류 중, 평가자 자신의 감정이나 경향을 피평가자의 능력을 평가하는데 귀속시키거나 전가하는 오류는? (예를 들면, 정직하지 못한 사람이 남을 의심하거나 부정직한 의도가 있는 것으로 지각하는 경우이다.)",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "주관의 객관화(projection)",
+            "2": "현혹효과(halo effect)",
+            "3": "논리적 오류(logical errors)",
+            "4": "관대화 경향(tendency of leniency)"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 194,
+        "category": "조직행동 : 개인",
+        "question": "행위강화전략 중 소거(extinction)에 해당하는 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "품행이 좋은 학생에게 칭찬과 격려를 아끼지 않는다.",
+            "2": "성적이 기준에 미달한 학생에게 장학금 지급을 일시적으로 중지한다.",
+            "3": "수형생활을 모범적으로 하는 죄수에게 감형이나 가석방의 기회를 부여한다.",
+            "4": "업무수행 실적이 계속해서 좋지 않은 직원을 징계한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 195,
+        "category": "조직행동 : 개인",
+        "question": "여러 학자들이 제시한 동기부여의 내용이론을 고차욕구와 저차욕구로 나누어 볼 때, 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": "<table border='1'><tr><th></th><th>고차욕구</th><th>저차욕구</th></tr><tr><td>1. 매슬로우</td><td>자아실현욕구</td><td>생리적 욕구</td></tr><tr><td>2. 앨더퍼</td><td>성장욕구</td><td>존재욕구</td></tr><tr><td>3. 맥클레랜드</td><td>성취욕구</td><td>권력욕구</td></tr><tr><td>4. 허즈버그</td><td>동기요인</td><td>위생요인</td></tr></table>",
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "매슬로우",
+            "2": "앨더퍼",
+            "3": "맥클레랜드",
+            "4": "허즈버그"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 196,
+        "category": "조직행동 : 개인",
+        "question": "욕구단계 이론에서 매슬로우(Maslow)가 주장하는 인간의 욕구를 하위부터 상위단계 순으로 바르게 나열한 것은?",
+        "box_content": "ㄱ. 일상의 안전, 보호, 안정 등에 대한 욕구\nㄴ. 물과 음식, 물질적 풍요 등에 대한 욕구\nㄷ. 다른 사람과의 관계 속에서 사랑, 관심, 소속감 등에 대한 욕구\nㄹ. 창조적인 능력을 향상시키고 활용하여 자아를 실현하고자 하는 욕구\nㅁ. 타인으로부터 존경, 권위, 위업 등에 대한 욕구",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄱ-ㄴ-ㄷ-ㄹ-ㅁ",
+            "2": "ㄴ-ㄱ-ㄷ-ㅁ-ㄹ",
+            "3": "ㄴ-ㄱ-ㄷ-ㄹ-ㅁ",
+            "4": "ㄴ-ㄷ-ㄱ-ㄹ-ㅁ"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 197,
+        "category": "조직행동 : 개인",
+        "question": "성과평가 시 평가자들이 종업원들의 성과를 정확하게 측정하지 못하는 오류에 대한 설명으로 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "후광효과(halo effect)는 피평가자의 일부 특성이 전체 평가 기준에 영향을 미치는 오류이다.",
+            "2": "상동효과(stereotyping)는 피평가자 간 차이를 회피하기 위해 모든 피평가자들을 유사하게 평가하는 오류이다.",
+            "3": "투사효과(projection)는 평가자의 특성을 피평가자의 특성이라고 생각하고 잘못 판단하는 오류이다.",
+            "4": "대비효과(contrast effect)는 피평가자를 평가할 때 주위의 다른 사람과 비교하여 잘못 평가하는 오류이다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 198,
+        "category": "조직행동 : 개인",
+        "question": "동기이론 중 허쯔버그(F. Herzberg)의 2요인 이론(two factor theory)에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "임금, 작업조건, 동료관계 등은 동기유발요인에 해당된다.",
+            "2": "동기유발요인은 만족요인, 위생요인은 불만족요인이라고 한다.",
+            "3": "만족과 불만족을 동일 차원의 양 극점이 아닌 별개의 차원으로 본다.",
+            "4": "직무불만족은 직무 상황과 관련되고, 직무만족은 직무 내용과 관련된다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 199,
+        "category": "조직행동 : 개인",
+        "question": "직무특성이론에서 주장하는 핵심직무특성에 대한 내용으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기술 다양성: 직무를 수행하는 데 요구되는 기술의 종류가 얼마나 다양한가를 의미한다.",
+            "2": "과업 정체성: 직무가 독립적으로 완결되는 것을 확인할 수 있는 정도를 의미한다.",
+            "3": "직무 혁신성: 개인이 수행하는 직무가 조직 혁신에 어느 정도 기여할 수 있는가를 의미한다.",
+            "4": "피드백: 직무 수행 도중에 직무의 성과와 효과성에 대해 직접적이고 명확한 정보를 획득할 수 있는 정도를 의미한다."
+        },
+        "answer": 3,
+        "explanation": "핵크만과 올드햄의 직무특성이론의 5대 핵심직무특성에 직무혁신성은 포함되지 않는다. 5대 핵심직무특성은 기술다양성(skill variety), 과업정체성(task identify), 과업중요성(task significance), 자율성(autonomy), 피드백(feedback)으로 구성된다."
+    },
+    {
+        "id": 200,
+        "category": "조직행동 : 개인",
+        "question": "직무만족 및 불만족에 대한 설명으로 옳은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "직무불만족을 증가시키는 개인적 성향은 긍정적 정서와 긍정적 자기평가이다.",
+            "2": "역할 모호성, 역할 갈등, 역할 과다를 경험한 사람들의 직무만족이 높다.",
+            "3": "직무만족이란 직무를 통해 그 가치를 느끼고 업무 성취감을 느끼는 긍정적 감정 상태를 말한다.",
+            "4": "종업원과 상사 사이의 공유된 가치관은 직무만족을 감소시킨다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 201,
+        "category": "조직행동 : 개인",
+        "question": "핵크맨(Hackman)과 올드햄(Oldham)이 제시한 직무특성모형에서 핵심직무차원에 해당하는 것만을 모두 고른 것은?",
+        "box_content": "ㄱ. 기술 다양성\nㄴ. 과업 표준성\nㄷ. 과업 정체성\nㄹ. 과업 중요성\nㅁ. 과업 교차성\nㅂ. 자율성\nㅅ. 피드백",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ㄱ, ㄷ, ㄹ, ㅂ, ㅅ",
+            "2": "ㄹ, ㅂ, ㅅ",
+            "3": "ㄴ, ㄷ, ㅁ, ㅂ",
+            "4": "ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 202,
+        "category": "조직행동 : 개인",
+        "question": "브룸(Vroom)의 기대이론에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "자기효능감이 높고 목표의 난이도가 낮으면 기대가 커진다.",
+            "2": "조직에 대한 신뢰가 낮고 의사결정이 조직정치에 의해 좌우된다는 인식이 강할수록 수단성이 커진다.",
+            "3": "개인적 욕구와 가치관, 목표에 부합되는 보상이 주어지면 유의성이 커진다.",
+            "4": "유의성, 수단성, 기대감 중 어느 하나라도 0이 발생하면 동기는 일어나지 않는다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 203,
+        "category": "조직행동 : 개인",
+        "question": "인사평가의 오류 중 평가자가 평가측정을 하여 다수의 피평가자에게 점수를 부여할 때 점수의 분포가 특정방향으로 쏠리는 현상으로 인해 발생하는 분배적 오류(Distributional Error) 혹은 항상 오류(Constant Error)에 해당하는 것으로만 옳게 짝지은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "유사성 오류, 대비 오류, 관대화 오류",
+            "2": "유사성 오류, 관대화 오류, 중심화 오류",
+            "3": "대비 오류, 관대화 오류, 중심화 오류",
+            "4": "관대화 오류, 중심화 오류, 가혹화 오류"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 204,
+        "category": "조직행동 : 개인",
+        "question": "동기부여이론에 대한 설명으로 옳지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "X이론적 관점에 따르면 직원은 부정적 강화(Reinforcement)에 의해 동기부여가 된다.",
+            "2": "아담스(J. S. Adams)의 공정성이론에 따르면 사람은 자신의 일에 투입한 요소와 그로부터 받은 보상의 비율을 다른 사람의 그것과 비교한다.",
+            "3": "2요인이론에서 동기유발요인은 직무에 내재하는 요인들이 다.",
+            "4": "기대이론에서 동기부여가 되는 정도는 노력과 성과 관련성, 성과와 결과 관련성, 결과와 개인의 욕구 사이의 관련성의 영향을 받는다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 205,
+        "category": "조직행동 : 개인",
+        "question": "매슬로우(A. Maslow)의 욕구단계이론 중 자아실현욕구를 조직행동에 적용한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "도전적 과업 및 창의적 역할 부여",
+            "2": "타인의 인정 및 칭찬",
+            "3": "화해와 친목분위기 조성 및 우호적인 작업팀 결성",
+            "4": "안전한 작업조건 조성 및 고용 보장",
+            "5": "냉난방 시설 및 사내식당 운영"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 206,
+        "category": "조직행동 : 개인",
+        "question": "모티베이션과 관련한 다음의 설명 가운데 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "ERG이론은 욕구단계이론과는 달리 좌절-퇴행의 가능성을 인정한다.",
+            "2": "동기-위생이론(2요인이론)에서는 만족과 불만족을 상이한 차원으로 이해한다.",
+            "3": "인지적 평가이론(cognitive evaluation theory)은 내재적 보상과 외재적 보상을 구분하지 않는다.",
+            "4": "공정성이론 또는 형평성이론(equity theory)은 사람의 노력과 그에 대한 보상을 계량화할 수 있다는 가정을 전제로 한다.",
+            "5": "목표에 의한 관리(management by objectives)는 목표설정이론(goal setting theory)을 바탕으로 한 기법이다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 207,
+        "category": "조직행동 : 개인",
+        "question": "동기부여의 기대이론(expectancy theory)과 관련된 설명으로 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기대감(expectancy), 유의성(valence), 수단성(instrumentality) 중 하나라도 0의 값을 가지면 동기부여 수준은 0이 된다.",
+            "2": "전체 동기부여 수준은 음(-)의 값을 가질 수 있다.",
+            "3": "기대감(expectancy)이란 노력을 했을 때 특정 수준의 성과를 낼 수 있는가에 대한 주관적 확률로서 0에서 1까지의 값을 가진다.",
+            "4": "카페테리아식 복리후생 제도는 유의성(valence)을 높이는 방법이 될 수 있다.",
+            "5": "성과급을 도입하면 수단성(instrumentality)이 높아질 수 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 208,
+        "category": "조직행동 : 개인",
+        "question": "켈리(Kelley)의 귀인이론(attribution theory)에서는 행동의 원인을 합의성(consensus), 특이성(distinctiveness), 일관성(consistency)의 세 가지 차원으로 구분하여 해석하고 있다. 다음 중 행동의 원인을 행위자의 내적(internal) 요인으로 판단하기에 가장 적절한 경우는?",
+        "box_content": null,
+        "table_content": "<table border='1'><tr><th></th><th>합의성</th><th>특이성</th><th>일관성</th></tr><tr><td>1</td><td>높음</td><td>높음</td><td>높음</td></tr><tr><td>2</td><td>높음</td><td>높음</td><td>낮음</td></tr><tr><td>3</td><td>낮음</td><td>낮음</td><td>높음</td></tr><tr><td>4</td><td>낮음</td><td>높음</td><td>낮음</td></tr><tr><td>5</td><td>낮음</td><td>낮음</td><td>낮음</td></tr></table>",
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "합의성 높음, 특이성 높음, 일관성 높음",
+            "2": "합의성 높음, 특이성 높음, 일관성 낮음",
+            "3": "낮음, 낮음, 높음",
+            "4": "낮음, 높음, 낮음",
+            "5": "낮음, 낮음, 낮음"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 209,
+        "category": "조직행동 : 개인",
+        "question": "인력선발에서의 타인평가 및 지각과 관련된 다음의 용어 중 설명이 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "주관의 객관화(projection)는 어떤 과업의 성공적 수행에 필요한 능력을 개인 스스로 가지고 있다고 생각하는 믿음이다.",
+            "2": "자존적 편견(self-serving bias)은 자존심을 지키기 위해서 주위의 사람을 후하게 평가하는 경향을 말한다.",
+            "3": "나와의 유사성(similar to me)효과는 주위사람의 기대와 자신의 기대대로 행동함으로써 결국은 예측된 결과가 이루어지는 것을 말한다.",
+            "4": "대비효과(contrast effect)는 여러 사람 중에서 처음에 평가한 사람을 나중에 평가한 사람보다 나쁘게 평가하는 경향을 말한다.",
+            "5": "최근효과(recency effect)는 주로 최근의 정보를 가지고 타인을 평가하는 경향을 말한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 210,
+        "category": "조직행동 : 개인",
+        "question": "동기부여(motivation) 이론 중 매슬로우의 욕구이론(need theory)에 관한 서술 중에 가장 적절한 것으로 묶인 것은?",
+        "box_content": "a. 하나의 욕구가 충족되면 그 다음 상위단계의 욕구를 충족시키려 한다.\nb. 상위욕구의 충족이 좌절되면 그보다 하위단계의 욕구를 충족시키려 한다.\nc. 생리적 욕구-안전욕구-존경욕구-사회적 욕구-자아실현욕구의 순서로 단계가 나누어진다.\nd. 사회적 욕구는 위생요인으로, 생리적 욕구와 안전욕구는 동기요인으로 분류하였다.\ne. 매슬로우의 5가지 욕구 중 존경(esteem), 관계(relatedness), 성장(growth) 욕구 3가지만을 고려하여 ERG이론을 만들었다.",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "a",
+            "2": "a, b, c",
+            "3": "a, e",
+            "4": "a, c",
+            "5": "d, e"
+        },
+        "answer": 1,
+        "explanation": "생리적 욕구-안전욕구-사회적 욕구-존경욕구-자아실현욕구의 순서로 단계가 나누어진다. 욕구의 5단계를 양분했을 때, 상위욕구들은 동기요인에, 하위 욕구들은 위생요인에 해당한다. ERG이론은 매슬로 이론의 5가지 욕구를 3가지로 재분류하였다."
+    },
+    {
+        "id": 211,
+        "category": "조직행동 : 개인",
+        "question": "태도와 학습에 관한 다음의 설명 중 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "부적 강화(negative reinforcement)는 바람직한 행동의 빈도수를 감소시키고 정적 강화(positive reinforcement)는 바람직한 행동의 빈도수를 증가시킨다.",
+            "2": "마이어와 알렌(Meyer and Allen)은 조직몰입을 정서적(affective) 몰입, 지속적(continuance)몰입, 규범적(normative) 몰입으로 나누어 설명하였다.",
+            "3": "태도의 구성요소는 인지적(cognitive) 요소, 정서적(affective) 요소, 행동의도적(behavioral intention) 요소로 나누어진다.",
+            "4": "조직행동분야의 많은 실증연구에서 직무만족이 성과에 미치는 직접적인 효과는 그리 높게 나타나지 않고 있다.",
+            "5": "강화 스케줄에서 단속적 강화(intermittent reinforcement)일정은 고정간격일정, 변동간격일정, 고정비율일정, 변동비율일정이 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 212,
+        "category": "조직행동 : 개인",
+        "question": "동기부여(motivation) 이론을 설명한 것 중 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "맥클리랜드(McClelland)의 성취동기이론에 따르면 친교욕구(need for affiliation)가 높은 사람은 다른 사람의 인정을 받으려고 노력하고 권력욕구(need for power)가 높은 사람은 다른 사람을 지배하고 통제하고 싶어한다.",
+            "2": "알더퍼(Alderfer)의 ERG이론은 인간의 욕구를 존재(existence), 관계(relatedness), 성장(growth)의 세 가지 욕구로 분류하고 욕구의 만족 진행(satisfaction-progression)과 좌절-퇴행(frustration-regression)이 일어난다고 주장한다.",
+            "3": "공정성이론(equity theory)에 따르면 개인이 불공정성에 대한 지각에서 오는 긴장을 감소시키는 방법으로 자신의 투입(input)의 변경, 산출(output)의 변경, 투입과 산출의 인지적 왜곡, 비교대상의 변경 등이 있다.",
+            "4": "봉급, 작업조건, 감독, 상사와의 관계는 허쯔버그(Herzberg)의 2요인 이론에서 동기요인(motivator)에 해당하는 것으로 위생요인이 충족되더라도 구성원을 동기화시키지 못하며 성과향상을 위해서는 동기요인을 충족시켜야 한다고 주장한다.",
+            "5": "기대이론(expectancy theory)은 개인의 동기수준이 기대감(expectancy), 수단성(instrumentality), 유의성(valence) 값의 곱으로 설명되고 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 213,
+        "category": "조직행동 : 개인",
+        "question": "사람의 행동이나 태도(attitude)를 이해하기 위해 그 사람의 가치관(values)을 이해하는 것이 중요하다. 가치관과 태도에 관한 다음 설명 중 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "태도가 구체적인 개념이라면 가치관은 보다 광범위하고 포괄적인 개념이다.",
+            "2": "어떤 두 사람의 태도가 같다고 해도 그것은 각각 다른 가치관에서 비롯될 수 있다.",
+            "3": "태도와 가치관은 모두 장기적이며 고정적인 특성을 갖지만 태도보다는 가치관이 더 안정적이다.",
+            "4": "\"내 상사가 이런 태도를 보이는 것은 이러이러한 가치관을 가졌기 때문이야\"라고 말할 수 있으며, 이것은 역으로도 성립된다.",
+            "5": "어떤 가치관이 조직구성원들 사이에 지속적으로 존재하게 될 때 그것은 하나의 문화적 요소가 될 수 "
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 214,
+        "category": "조직행동 : 개인",
+        "question": "어떤 사람들(내재론자)은 세상살이의 여러 가지 일들 대부분을 자기가 통제할 수 있다고 믿는 반면, 또 다른 사람들(외재론자)은 자기가 할 수 있는 것은 극히 적고 남이나 운명에 달려있다고 믿는다. 이들에 대한 설명으로 다음 중 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "내재론자는 외재론자보다 동기의 수준이 높다.",
+            "2": "외재론자에 비해 내재론자는 성과를 결정짓는 것이 자신의 노력이라고 생각한다.",
+            "3": "내재론자는 외재론자보다 걱정을 더 많이 하는 경향이 있다.",
+            "4": "외재론자에 비해 내재론자는 업무와 관련된 문제해결이나 학습에서 높은 성과를 보인다.",
+            "5": "단순 노동이나 규정대로만 해야 하는 직무, 완전 통제 하에서 움직여야 하는 조직에서는 외재론자가 더 효과적일 수 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 215,
+        "category": "조직행동 : 개인",
+        "question": "핵크맨(R. J. Hackman)과 올드햄(G. R. Oldham)의 직무특성이론(job characteristics theory)에서 5대 핵심 직무특성과 직무수행자의 심리적 상태에 관한 설명으로 다음 중 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기술다양성(skill variety)은 업무수행에 요구되는 기술이 얼마나 여러 가지인가를 뜻하며, 다양성이 높은 직무에서 수행자는 책임감(responsibility)을 느끼게 된다.",
+            "2": "과업정체성(task identity)은 업무내용이 시작부터 끝까지 전체에 관한 것인지 아니면 일부에만 관여하도록 되어 있는지에 관한 것으로 정체성이 높은 직무에서 수행자는 수행결과에 대한 지식을 얻게 된다.",
+            "3": "과업중요성(task significance)은 수행업무가 조직 내·외에서 타인의 삶과 일에 얼마나 큰 영향을 미치는가에 관한 것으로 중요성이 큰 직무에서 수행자는 업무에 대한 의미성(meaningfulness)을 느끼게 된다.",
+            "4": "자율성(autonomy)은 업무수행에서 개인에게 부여된 자유와 재량권 정도로서 자율성이 큰 직무에서 수행자는 업무에 대한 의미성(meaningfulness)을 느끼게 된다.",
+            "5": "피드백(feedback)은 업무자체가 주는 수행성과에 대한 정보의 유무를 뜻하며 수행자가 인지하는 상황의 불확실성을 가중시킨다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 216,
+        "category": "조직행동 : 개인",
+        "question": "동기부여 이론에 대한 서술 중 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "허쯔버그(Herzberg)가 주장한 2요인이론(two factor theory)에 의하면 작업환경을 개선하면 종업원의 만족도가 높아진다.",
+            "2": "공정성이론(equity theory)에 의하면 개인의 지각보다는 임금 수준 그 자체가 만족도를 결정하는 핵심적인 요소가 된다.",
+            "3": "기대이론(expectancy theory)에 의하면 종업원이 선호하는 보상 수단을 제공할 때 수단성(instrumentality)이 높아진다.",
+            "4": "직무특성이론에 의하면 성장욕구가 낮은 종업원에게는 단순한 직무를 부여하는 것이 효과적이다.",
+            "5": "직무특성이론에 의하면 과업의 분화가 많이 될수록 과업정체성(task identity)이 높아진다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 217,
+        "category": "조직행동 : 개인",
+        "question": "동기부여(motivation) 이론에 관한 설명으로 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "기대이론(expectancy theory)에서 수단성(instrumentality)은 행위자의 노력이 1차적 성과를 달성할 수 있을 지에 대한 객관적인 판단이다.",
+            "2": "아담스(Adams)의 공정성이론(equity theory)은 투입 대비 산출의 상호작용적 공정성, 절차적 공정성, 효율적 조직성과배분에 대한 분배적 공정성을 모두 고려하고 있다.",
+            "3": "허쯔버그(Herzberg)의 2요인이론에서 동기요인은 임금, 작업환경, 근로조건, 칭찬, 인정을 포함하고 근로자의 불만족을 제거하는 역할을 한다.",
+            "4": "MBO(Management by Objectives)는 목표설정이론을 조직에 적용한 예로서 목표의 구체성과 난이도, 피드백은 동기부여에 영향을 미친다.",
+            "5": "동기부여 이론을 크게 내용이론(content theory)과 과정이론(process theory)으로 분류할 때 직무특성이론, ERG이론, 내재적 동기이론은 과정이론에 속한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 218,
+        "category": "조직행동 : 개인",
+        "question": "조직에서 개인의 행동에 관한 설명으로 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "특정 직무 또는 과업에 대한 일련의 성공경험은 그 과업에 대한 자기효능감(self-efficacy)에 긍정적 영향을 미칠 수 있다.",
+            "2": "자기감시성향(self-monitoring)이 높은 사람은 자기감시성향이 낮은 사람보다 외부환경과 상황에 잘 대처하는 경향이 있다.",
+            "3": "타인을 존중하는 개인의 성향은 빅 5(Big Five) 성격유형에서 성실성(conscientiousness)에 속하며 성실성은 개인의 직무성과와 관련성이 없다.",
+            "4": "성격유형에서 A타입(Type A)은 B타입(Type B)보다 인내심이 적고 조급한 편이다.",
+            "5": "통제의 위치(locus of control)가 내부에 있는 사람(internals)은 외부에 있는 사람(externals) 보다 자신에게 일어나는 일을 스스로 통제할 수 있다는 믿음이 높다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 219,
+        "category": "조직행동 : 개인",
+        "question": "태도, 통제의 위치, 조직몰입, 귀인이론, 강화에 관한 다음의 서술 중에서 옳은 항목만을 모두 모은 것은?",
+        "box_content": "a. 태도의 구성요소는 인지적(cognitive) 요소, 정서적(affective) 요소, 행동의도적(behavioral intention) 요소로 나눌 수 있다.\nb. 통제의 위치(locus of control)에 따르면 외재론자에 비해 내재론자는 성과를 결정짓는 것이 자신의 노력이라고 생각한다.\nc. 마이어(Meyer)와 알렌(Allen)은 조직몰입을 정서적(affective) 몰입, 지속적(continuance) 몰입, 규범적(normative) 몰입으로 나누어 설명한다.\nd. 켈리(Kelley)의 귀인이론(attribution theory)에서는 행동의 원인을 합의성(consensus), 특이성(distinctiveness), 일관성(consistency)의 세 가지 차원으로 구분하여 해석한다.\ne. 부정적 강화(negative reinforcement)와 긍정적 강화(positive reinforcement) 모두 바람직한 행동의 빈도를 증가시킨다.",
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "a, b, d",
+            "2": "a, c, e",
+            "3": "a, b, c, d",
+            "4": "a, b, d, e",
+            "5": "a, b, c, d, e"
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 220,
+        "category": "조직행동 : 개인",
+        "question": "타인 평가 및 지각 과정에서 나타나는 오류와 관련된 설명으로 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "출신학교나 출신지역과 같이 그 사람이 속한 집단을 근거로 사람을 평가하는 오류를 후광효과(halo effect)라고 한다.",
+            "2": "피평가자가 가진 비슷한 특질들(근면성과 성실성)이 서로 관계가 있는 것으로 생각하여 유사하게 평가하려는 경향을 유사효과라고 한다.",
+            "3": "평가를 할 때, 처음에 주어진 정보에 더 큰 비중을 두는 경향을 최근효과(recency error)라고 한다.",
+            "4": "강제할당법을 사용하면 중심화 경향의 오류를 감소시킬 수 있다.",
+            "5": "정직성이 낮은 평가자가 정직한 평가자보다 피평가자를 덜 부정적으로 평가하는 경향을 투영효과(투사, 주관의 객관화, projection)라고 한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 221,
+        "category": "조직행동 : 개인",
+        "question": "동기부여 이론에 관한 설명으로 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "앨더퍼(Alderfer)의 ERG이론에서는 인간의 욕구를 존재욕구, 관계욕구, 성장욕구로 구분하고 있으며, 충족 진행의 원리와 좌절-퇴행의 원리를 제시하고 있다.",
+            "2": "허쯔버그(Herzberg)의 이요인이론(two factor theory)에 의하면 급여, 성취감과 같은 위생요인이 충족되면 만족도가 증가된다.",
+            "3": "핵크만(Hackman)과 올드햄(Oldham)의 직무특성이론에 의하면 성장욕구수준이 높은 사람은 직무정체성이 높은 직무를 수행할 때 동기부여수준이 높아진다.",
+            "4": "목표설정이론(goal setting theory)에 의하면 구체적인 목표를 설정할 때 성과가 높아진다.",
+            "5": "공정성이론(equity theory)에 의하면 허쯔버그(Herzberg)가 제시한 위생요인과 동기요인 모두가 개인이 받는 보상(산출물)에 포함될 수 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 222,
+        "category": "조직행동 : 개인",
+        "question": "성격과 태도에 관한 다음 설명 중 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "Big 5 성격유형 중 경험에 대한 개방성(openness to experience)이란 다른 사람들과 잘 어울리고 남을 신뢰하는 성향을 의미한다.",
+            "2": "MBTI(Myers-Briggs Type Indicator)에서는 개인이 정보를 수집하는 방식과 판단하는 방식에 근거하여 성격유형을 분석하고 성격유형에 적합한 직업을 제시하고 있다.",
+            "3": "성공의 원인은 자신의 능력이나 노력 등의 내재적 요인에서 찾고, 실패의 원인은 과업의 난이도나 운 등의 외재적 요인에서 찾으려는 경향을 자존적 편견(self-serving bias)이라고 한다.",
+            "4": "성격유형을 A형과 B형으로 구분할 때, A형의 성격을 지닌 사람은 B형의 성격을 지닌 사람보다 경쟁적이고 조급한 편이다.",
+            "5": "자기효능감(self-efficacy)이란 특정한 일을 성공적으로 수행할 수 있는지에 대한 스스로의 믿음을 의미한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 223,
+        "category": "조직행동 : 개인",
+        "question": "동기부여 이론에 관한 다음 설명 중 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "허쯔버그(Herzberg)의 2요인이론(Two Factor Theory)에 의하면, 회사의 정책, 작업조건, 급여 등의 요건이 충족되어도 만족도가 증가하지는 않는다.",
+            "2": "기대이론(Expectancy Theory)에 의하면, 개인이 특정한 성과를 달성했을 때 최종적인 보상을 받을 수 있는 가능성에 대한 주관적 믿음을 기대(expectancy)라고 하며, 이는 0부터 1까지의 값을 가진다.",
+            "3": "공정성 이론(Equity Theory)에 의하면, 과다보상을 받았다고 인식할 경우에도 비교대상이 되는 사람을 변경하거나 다른 사람의 투입과 산출을 다르게 해석하려고 노력할 수 있다.",
+            "4": "핵크만(Hackman)과 올드햄(Oldham)의 직무특성이론(Job Characteristics Theory)에 의하면, 직무의 자율성이 0의 값을 가지면 잠재적 동기지수(MPS: Motivating Potential Score)는 0의 값을 가진다.",
+            "5": "목표설정이론(Goal Setting Theory)에 의하면, 목표의 특성과 종류뿐만 아니라 상황적 요인에 따라서도 성과가 달라질 수 있다."
+        },
+        "answer": 2,
+        "explanation": "기대이론에 의하면, 개인이 특정한 성과를 달성했을 때 최종적인 보상을 받을 수 있는 가능성에 대한 주관적 믿음을 수단성(instrumentality)이라고 하며, 이는 -1부터 1까지의 값을 가진다."
+    },
+    {
+        "id": 224,
+        "category": "조직행동 : 개인",
+        "question": "동기부여 이론에 관한 설명으로 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "앨더퍼(Alderfer)의 ERG 이론에 의하면 높은 차원의 욕구인 관계욕구가 충족되지 않을 때 낮은 차원의 욕구인 성장욕구가 충족되어야 동기부여된다.",
+            "2": "공정성 이론(equity theory)에서는 보상의 상대적 수준보다는 절대적 수준을 강조한다.",
+            "3": "허쯔버그(Herzberg)의 이요인 이론(two factor theory)에 의하면 동료와의 관계가 좋다고 느낄수록 만족도가 높아진다.",
+            "4": "기대이론(expectancy theory)에 의하면 기대(expectancy), 수단성(instrumentality), 유의성(valence) 중 하나라도 0의 값을 가지면 전체 동기부여 수준은 0이 된다.",
+            "5": "기대이론에 의하면 개인의 성과와 임금의 상관관계가 높을 때 기대(expectancy) 값이 높아질 수 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 225,
+        "category": "조직행동 : 개인",
+        "question": "핵크만(Hackman)과 올드햄(Oldham)이 주장한 직무특성이론(job characteristics theory)에 관한 설명으로 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "과업정체성(task identity)이란 업무수행 방법이나 절차가 명확하고 체계적으로 정리되어 있는 정도를 의미한다.",
+            "2": "결과변수에는 작업의 질, 만족도, 이직율, 결근율이 포함된다.",
+            "3": "성장욕구가 강한 사람에게는 과업중요성(task significance)과 과업정체성(task identity)이 높은 직무가 적합하다.",
+            "4": "성장욕구가 강한 사람은 자율성(autonomy)이 많은 직무를 수행할수록 직무에 대한 책임감을 더 많이 경험하게 된다.",
+            "5": "중요 심리상태에는 작업의 의미에 대한 경험과 직무수행 결과에 대한 지식이 포함된다."
+        },
+        "answer": 1,
+        "explanation": "과업정체성(task identify)이란 업무의 내용이 시작부터 끝까지 전체에 관한 것인지 아니면 일부에만 관여하도록 되어 있는지를 의미한다. 결과변수에는 작업의 질, 만족도, 이직율, 결근율이 포함된다. 하지만 작업의 양은 늘어나지 않는다. 성장욕구가 강한 사람에게는 과업중요성과 과업정체성이 높은 직무가 적합하다. 더 나아가 성장욕구 수준이 높은 사람에게는 MPS(Motivating potential score)값이 높은 직무가 적합하다. 중요 심리상태에는 작업의 의미에 대한 경험(의미감), 책임감 그리고 직무수행 결과에 대한 지식으로 구성된다."
+    },
+    {
+        "id": 226,
+        "category": "조직행동 : 개인",
+        "question": "태도와 성격에 관한 설명으로 가장 적절하지 않은 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "켈리(Kelley)의 귀인이론에서는 행동의 원인을 특이성, 합의성, 일관성으로 구분하여 파악한다.",
+            "2": "자존적 편견(self-serving bias)은 평가자가 자신의 자존심을 지키기 위하여, 자신이 실패했을 때는 자신의 내부적 요인에서 원인을 찾고, 자신의 성공에 대해서는 외부적 요인에서 원인을 찾으려는 경향을 의미한다.",
+            "3": "성격유형을 A형 and B형으로 구분할 때, A형은 B형보다 업무처리 속도가 빠르고, 인내심이 부족한 편이다.",
+            "4": "조직시민행동(organizational citizenship behavior)이란 조직에서의 공식적인 역할이 아니더라도, 조직을 위해 자발적으로 희생하고 노력하며 동료를 돕는 행동을 의미한다.",
+            "5": "마이어(Meyer)와 알렌(Allen)이 주장하는 조직몰입 중 지속적(continuance) 몰입은 조직을 떠나면 경제적 비용이 많이 발생하기 때문에 조직에 머물러 있으려는 태도를 의미한다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 227,
+        "category": "조직행동 : 개인",
+        "question": "동기부여 이론에 관한 설명으로 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "브룸(Vroom)의 기대이론(expectancy theory)에 의하면, 수단성(instrumentality)을 높이기 위해서 종업원이 선호하는 보상 수단을 조사할 필요가 있다.",
+            "2": "허쯔버그(Herzberg)의 이요인이론(two factor theory)에 의하면, 임금을 높여주거나 작업환경을 개선하는 것으로는 종업원의 만족도를 높일 수 없다.",
+            "3": "브룸의 기대이론에서 기대(expectancy)는 노력했을 때 성과가 나타날 수 있는 객관적 확률이다.",
+            "4": "브룸의 기대이론에 의하면, 연공급을 도입하면 기대(expectancy)가 높아진다.",
+            "5": "아담스(Adams)의 공정성 이론(equity theory)에 의하면, 과다보상을 받았다고 느끼는 경우에는 만족도가 높기 때문에 행동의 변화가 나타나지 않는다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 228,
+        "category": "조직행동 : 개인",
+        "question": "귀인(attribution)에 관한 설명으로 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "내적 귀인(internal attribution)은 사건의 원인을 행위자의 운과 맡은 과업의 성격 탓으로 귀인하는 것이고 외적 귀인(external attribution)은 행위자의 외향적 성격과 대인관계 역량에 귀인하는 것이다.",
+            "2": "켈리(Kelley)의 귀인모형에서 합의성(consensus)이 높으면 행위자의 내적 요인에 귀인하는 경향이 있다.",
+            "3": "근원적 귀인오류(fundamental attribution error)는 사건의 원인에 대해서 외적 요인을 간과하거나 무시하고 행위자의 내적 요인으로 귀인하려는 오류이다.",
+            "4": "자존적 편견(self-serving bias)은 사건의 결과를 실패로 보지 않고 성공을 위한 학습으로 지각하여 실패를 행위자 자신의 탓으로 돌리려는 귀인오류이다.",
+            "5": "켈리(Kelley)의 귀인모형에서 특이성(distinctiveness)이 높으면 행위자의 내적 요인에 귀인하는 경향이 있다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 229,
+        "category": "조직행동 : 개인",
+        "question": "학습 및 동기부여 이론에 관한 설명으로 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "알더퍼(Alderfer)의 ERG이론, 브룸(Vroom)의 기대이론(expectancy theory), 허쯔버그(Herzberg)의 2요인이론(two factor theory)은 동기부여의 과정이론(process theory)에 해당된다.",
+            "2": "강화이론(reinforcement theory)에서 긍정적인 강화(positive reinforcement)와 부정적인 강화(negative reinforcement)는 바람직한 행동의 빈도를 증가시킨다.",
+            "3": "브룸(Vroom)의 기대이론에 따르면 유의성(valence)은 행위자의 성장욕구가 높을수록 크고 존재욕구가 높을수록 작으며 수단성에 영향을 미친다.",
+            "4": "매슬로우(Maslow)의 욕구단계이론에 따르면 성장욕구의 충족이 좌절되었을 때 관계욕구를 충족시키려는 좌절-퇴행(frustration regression)의 과정이 발생한다.",
+            "5": "아담스(Adams)의 공정성 이론(equity theory)에 의하면 절차적 공정성, 분배적 공정성, 상호작용적 공정성 순서로 동기부여가 일어난다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 230,
+        "category": "조직행동 : 개인",
+        "question": "동기부여 이론에 관한 설명으로 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "목표설정이론에 따르면 구체적인 목표보다 일반적인 목표를 제시하는 것이 구성원들의 동기부여에 더 효과적이다.",
+            "2": "공정성이론에 따르면 분배공정성, 절차공정성, 상호작용공정성의 순서로 동기부여가 이루어지는데, 하위 차원의 공정성이 달성된 이후에 상위차원의 공정성이 동기부여에 영향을 미친다.",
+            "3": "교육훈련이나 직무재배치는 기대이론(expectancy theory)에서 말하는 1차 결과(노력-성과 관계)에 대한 기대감을 높여주는 방법이다.",
+            "4": "앨더퍼(Alderfer)가 제시한 ERG 이론에 따르면 한 욕구의 충족을 위해 계속 시도함에도 불구하고 좌절되는 경우 개인은 이를 포기하는 대신 이보다 상위욕구를 달성하기 위해 노력한다.",
+            "5": "핵크만(Hackman)과 올드햄(Oldham)의 직무특성모형(job characteristics model)에 의하면, 다양한 기능을 사용하는 직무기회를 제공하는 경우보다 자신이 잘하는 한 가지 기능만 사용하는 직무를 부여하는 경우에 동기부여 수준이 더 높다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 231,
+        "category": "조직행동 : 개인",
+        "question": "지각, 귀인, 의사결정에 관한 설명으로 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "10명의 후보자가 평가위원과 일대일 최종 면접을 할 때 피평가자의 면접순서는 평가자의 중심화 경향 및 관대화 경향에 영향을 미칠 수 있으나 최근효과 및 대비효과와는 관련이 없다.",
+            "2": "켈리(Kelley)의 귀인모형에 따르면 특이성(distinctiveness)과 합의성(consensus)이 낮고 일관성(consistency)이 높은 경우에는 내적귀인을 하게 되고 특이성과 합의성이 높고 일관성이 낮은 경우에는 외적귀인을 하게 된다.",
+            "3": "행위자-관찰자효과(actor-observer effect)는 행위자 입장에서는 행동에 미치는 내적요인에 대한 이해가 충분하나, 관찰자 입장에서는 행위자의 능력과 노력 등의 내적요인을 간과하거나 무시하고 행위자의 외적요인으로 귀인하려는 오류이다.",
+            "4": "제한된 합리성(bounded rationality)하에서 개인은 만족할 만한 수준의 대안을 찾는 의사결정을 하기 보다는 인지적 한계와 탐색비용을 고려하지 않고 최적의 대안(optimal solution)을 찾는 의사결정을 한다.",
+            "5": "집단 사고(group think)는 응집력이 강한 대규모 집단에서 복잡한 의사결정을 할 때, 문제에 대한 토론을 진행할수록 집단 내의 의견이 양극화되는 현상이다."
+        },
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 232,
+        "category": "조직행동 : 개인",
+        "question": "동기부여 이론에 관한 설명으로 가장 적절한 것은?",
+        "box_content": null,
+        "table_content": null,
+        "image_url": null,
+        "has_image": false,
+        "options": {
+            "1": "내용 미완성"
+        },
+        "answer": 0,
+        "explanation": ""
     }
 ]
