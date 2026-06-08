@@ -77,8 +77,7 @@ func main() {
 
 	dbURL := os.Getenv("DATABASE_URL")
 	if dbURL == "" {
-		// ⚠️ 로컬 테스트용 본인 Supabase 주소
-		dbURL = "postgresql://postgres.wiqgzmarogefiomoocxp:Mgs%5E98092222@aws-1-ap-southeast-2.pooler.supabase.com:6543/postgres"
+		dbURL = "postgresql://postgres.slqdijguwqccgdkbillw:Mgs%5E98092222@aws-1-ap-northeast-2.pooler.supabase.com:6543/postgres"
 	}
 
 	var dbErr error
