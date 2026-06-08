@@ -10,9 +10,18 @@
 
 <body class="bg-white text-slate-900 max-w-md mx-auto p-4 font-sans">
 
-    <div class="flex justify-between items-center text-xs text-slate-500 mb-4 border-b pb-2">
-        <span>{{.Category}} · {{.OriginalNumber}}</span>
-        <span>ID: {{.ID}}</span>
+    <div class="flex items-center justify-between text-xs text-slate-500 mb-4 border-b pb-2">
+        <div class="flex items-center gap-2">
+            <span>{{.Category}} · {{.OriginalNumber}}</span>
+            <button id="bookmarkBtn" onclick="toggleBookmark()" class="text-sm focus:outline-none transition-transform active:scale-125">
+                {{if .IsBookmarked}}<span class="text-yellow-400">★</span>{{else}}<span class="text-slate-300">☆</span>{{end}}
+            </button>
+        </div>
+        <form action="/" method="GET" class="flex items-center gap-1">
+            <input type="number" name="id" placeholder="ID 입력" required
+                   class="w-24 border rounded px-1.5 py-0.5 text-center text-slate-800 focus:outline-none focus:border-slate-400 [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none">
+            <button type="submit" class="bg-slate-100 hover:bg-slate-200 border text-slate-600 px-2 py-0.5 rounded font-medium">이동</button>
+        </form>
     </div>
 
     <h2 class="text-base font-semibold leading-snug mb-4">{{.Question}}</h2>
@@ -54,6 +63,26 @@
     <script>
         const start = Date.now();
         let submitted = false;
+        let isBookmarked = {{.IsBookmarked}};
+
+        function toggleBookmark() {
+            const nextState = !isBookmarked;
+            fetch('/api/bookmark', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    problem_id: {{.ID}},
+                    bookmark: nextState
+                })
+            })
+            .then(res => {
+                if (res.ok) {
+                    isBookmarked = nextState;
+                    const btn = document.getElementById('bookmarkBtn');
+                    btn.innerHTML = isBookmarked ? '<span class="text-yellow-400">★</span>' : '<span class="text-slate-300">☆</span>';
+                }
+            });
+        }
 
         function submit(option) {
             if (submitted) return; // 중복 제출 방지
@@ -66,17 +95,15 @@
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
                     user_id: 1,
-                    problem_id: {{.ID }},
-                selected_option: parseInt(option),
-                time_spent: elapsed
+                    problem_id: {{.ID}},
+                    selected_option: parseInt(option),
+                    time_spent: elapsed
                 })
             })
             .then(res => res.json())
             .then(data => {
-                // 보기 영역 비활성화 비주얼 처리
                 document.getElementById('options').classList.add('opacity-50');
 
-                // 정오답 결과 반영
                 const status = document.getElementById('status');
                 if (data.is_correct) {
                     status.innerText = "✓ 정답입니다.";
@@ -86,11 +113,8 @@
                     status.className = "text-sm font-bold text-red-600 mb-2";
                 }
 
-                // 해설 주입 후 노출
                 document.getElementById('explanation').innerText = data.explanation;
                 document.getElementById('result').classList.remove('hidden');
-
-                // 결과 영역으로 스크롤 이동
                 document.getElementById('result').scrollIntoView({ behavior: 'smooth' });
             });
         }
