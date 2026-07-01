@@ -19688,7 +19688,7 @@
             "5": "어떤 수요 예측치와 실측치로부터 계산된 평균오차(mean error)가 0이라는 것은 그 예측이 완벽하게 맞았음을 의미하는 것이다."
         },
         "answer": 2,
-        "explanation": "① 단순이동평균법(simple moving average method)에서 이동평균기간을 짧게 잡을수록 최근의 추세변화에 민감하게 반응할 수 있다.\n③ 단순지수평활법(simple exponential smoothing method)에서 평활상수(smoothing parameter) $\alpha$가 크면 클수록 과거자료에 대한 가중치가 급격히 감소하므로 평활효과가 감소하게 된다.$$F_t = alpha D_{t-1} + alpha(1-alpha)D_{t-2} + alpha(1-alpha)^2 D_{t-3} + dots + alpha(1-alpha)^{t-2}D_1 + (1-alpha)^{t-1}F_1$$위 식을 보면 과거 정보의 중요성이 $(1-alpha)$만큼 감소한다는 것을 알 수 있다. 따라서 $alpha$값이 크면 클수록 먼 과거 자료에 대한 가중치는 급격하게 떨어진다.\n④ 수요의 평균치가 증가함에 따라 계절적 변동폭이 합산되면서 증가하는 것은 승법적 계절변동이다.\n⑤ 어떤 수요 예측치와 실측치로부터 계산된 평균오차(mean error)가 0이라는 것은 편의(bias)가 없음을 의미한다."
+        "explanation": "① 단순이동평균법(simple moving average method)에서 이동평균기간을 짧게 잡을수록 최근의 추세변화에 민감하게 반응할 수 있다.\n③ 단순지수평활법(simple exponential smoothing method)에서 평활상수(smoothing parameter) $alpha$가 크면 클수록 과거자료에 대한 가중치가 급격히 감소하므로 평활효과가 감소하게 된다.$$F_t = alpha D_{t-1} + alpha(1-alpha)D_{t-2} + alpha(1-alpha)^2 D_{t-3} + dots + alpha(1-alpha)^{t-2}D_1 + (1-alpha)^{t-1}F_1$$위 식을 보면 과거 정보의 중요성이 $(1-alpha)$만큼 감소한다는 것을 알 수 있다. 따라서 $alpha$값이 크면 클수록 먼 과거 자료에 대한 가중치는 급격하게 떨어진다.\n④ 수요의 평균치가 증가함에 따라 계절적 변동폭이 합산되면서 증가하는 것은 승법적 계절변동이다.\n⑤ 어떤 수요 예측치와 실측치로부터 계산된 평균오차(mean error)가 0이라는 것은 편의(bias)가 없음을 의미한다."
     },
     {
         "id": 1093,
