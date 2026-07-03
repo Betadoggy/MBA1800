@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"context"
 	"database/sql"
 	"encoding/json"
@@ -16,22 +17,29 @@ import (
 )
 
 type Problem struct {
-	ID             int               `json:"id"`
-	Category       string            `json:"category"`
-	Question       string            `json:"question"`
-	BoxContent     string            `json:"box_content"`
-	TableContent   string            `json:"table_content"`
-	ImageURL       string            `json:"image_url"`
-	HasImage       bool              `json:"has_image"`
-	Options        map[string]string `json:"options"`
-	Answer         int               `json:"answer"`
-	Explanation    string            `json:"explanation"`
+	ID           int               `json:"id"`
+	Category     string            `json:"category"`
+	Question     string            `json:"question"`
+	BoxContent   string            `json:"box_content"`
+	TableContent string            `json:"table_content"`
+	ImageURL     string            `json:"image_url"`
+	HasImage     bool              `json:"has_image"`
+	Options      map[string]string `json:"options"`
+	Answer       int               `json:"answer"`
+	Explanation  string            `json:"explanation"`
+}
+
+type CategoryGroup struct {
+	Name          string
+	Subcategories []string
 }
 
 type RenderData struct {
 	Problem
-	TableContent template.HTML
-	IsBookmarked bool
+	TableContent     template.HTML
+	IsBookmarked     bool
+	CategoryGroups   []CategoryGroup
+	SelectedCategory string
 }
 
 type SubmitRequest struct {
@@ -60,6 +68,66 @@ var (
 	problemMap     map[int]Problem
 	quizTemplate   *template.Template
 	db             *sql.DB
+	categoryGroups = []CategoryGroup{
+		{
+			Name: "Part 01 인사/조직/전략",
+			Subcategories: []string{
+				"경영일반",
+				"조직행동 : 개인",
+				"조직행동 : 집단과 조직",
+				"조직이론",
+				"인적자원관리",
+				"전략경영",
+				"국제경영",
+			},
+		},
+		{
+			Name: "Part 02 마케팅",
+			Subcategories: []string{
+				"마케팅 개요",
+				"마케팅 조사",
+				"마케팅 전략",
+				"제품, 서비스, 브랜드",
+				"가격",
+				"유통",
+				"촉진",
+				"소비자 행동",
+			},
+		},
+		{
+			Name: "Part 03 경영과학/운영관리",
+			Subcategories: []string{
+				"경영과학",
+				"생산시스템과 프로세스 관리",
+				"품질경영",
+				"생산능력 관리",
+				"공급사슬 관리",
+				"재고관리",
+				"운영계획과 자원계획",
+				"린 시스템 설계",
+				"경영정보시스템",
+			},
+		},
+		{
+			Name: "Part 04 회계",
+			Subcategories: []string{
+				"회계의 기초",
+				"회계처리와 CVP 분석",
+				"회계정보의 이용",
+			},
+		},
+		{
+			Name: "Part 05 재무관리",
+			Subcategories: []string{
+				"재무관리의 기초",
+				"위험과 수익률",
+				"자본시장과 증권평가",
+				"자본비용과 가치평가",
+				"파생상품",
+				"국제재무관리와 재무비율분석",
+			},
+		},
+	}
 )
 
 func main() {
@@ -118,6 +186,19 @@ func buildProblemMap(problems []Problem) map[int]Problem {
 	return m
 }
 
+func getCategories(problems []Problem) []string {
+	seen := make(map[string]struct{})
+	categories := make([]string, 0, len(problems))
+	for _, p := range problems {
+		if _, ok := seen[p.Category]; ok {
+			continue
+		}
+		seen[p.Category] = struct{}{}
+		categories = append(categories, p.Category)
+	}
+	return categories
+}
+
 func getDatabaseURL() string {
 	url := os.Getenv("DATABASE_URL")
 	if url == "" {
@@ -154,7 +235,8 @@ func handleQuiz(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	problem := chooseProblem(r.URL.Query().Get("id"))
+	selectedCategory := r.URL.Query().Get("category")
+	problem := chooseProblem(r.URL.Query().Get("id"), selectedCategory)
 	isBookmarked, err := getBookmark(problem.ID)
 	if err != nil {
 		http.Error(w, "즐겨찾기 상태 조회 중 오류가 발생했습니다.", http.StatusInternalServerError)
@@ -162,17 +244,25 @@ func handleQuiz(w http.ResponseWriter, r *http.Request) {
 	}
 
 	renderData := RenderData{
-		Problem:      problem,
-		TableContent: template.HTML(problem.TableContent),
-		IsBookmarked: isBookmarked,
+		Problem:          problem,
+		TableContent:     template.HTML(problem.TableContent),
+		IsBookmarked:     isBookmarked,
+		CategoryGroups:   categoryGroups,
+		SelectedCategory: selectedCategory,
 	}
 
-	if err := quizTemplate.Execute(w, renderData); err != nil {
+	var buf bytes.Buffer
+	if err := quizTemplate.Execute(&buf, renderData); err != nil {
 		http.Error(w, "템플릿 렌더링 실패: "+err.Error(), http.StatusInternalServerError)
+		return
 	}
+
+	w.Header().Set("Content-Type", "text/html; charset=utf-8")
+	w.WriteHeader(http.StatusOK)
+	w.Write(buf.Bytes())
 }
 
-func chooseProblem(idText string) Problem {
+func chooseProblem(idText string, category string) Problem {
 	if idText != "" {
 		id, err := strconv.Atoi(idText)
 		if err == nil {
@@ -182,7 +272,20 @@ func chooseProblem(idText string) Problem {
 		}
 	}
 
-	return globalProblems[rand.Intn(len(globalProblems))]
+	filtered := globalProblems
+	if category != "" {
+		filtered = make([]Problem, 0, len(globalProblems))
+		for _, p := range globalProblems {
+			if p.Category == category {
+				filtered = append(filtered, p)
+			}
+		}
+		if len(filtered) == 0 {
+			filtered = globalProblems
+		}
+	}
+
+	return filtered[rand.Intn(len(filtered))]
 }
 
 func getBookmark(problemID int) (bool, error) {

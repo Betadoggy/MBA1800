@@ -55,7 +55,7 @@
     },
     {
         "id": 4,
-        "category": "인사관리",
+        "category": "경영일반",
         "question": "MBO(management by objective)를 통한 목표 설정시 충족시켜야 할 조건에 해당하지 않는 것은?",
         "box_content": null,
         "table_content": null,
@@ -91,7 +91,7 @@
     },
     {
         "id": 6,
-        "category": "인사관리",
+        "category": "경영일반",
         "question": "목표관리에 관한 설명으로 옳지 않는 것은?",
         "box_content": null,
         "table_content": null,
@@ -109,7 +109,7 @@
     },
     {
         "id": 7,
-        "category": "전략경영",
+        "category": "경영일반",
         "question": "동종업종 또는 유사업종 기업간 수평적으로 맺는 협정은?",
         "box_content": null,
         "table_content": null,
@@ -217,7 +217,7 @@
     },
     {
         "id": 13,
-        "category": "인사관리",
+        "category": "경영일반",
         "question": "목표에 의한 관리(MBO)의 주요 특성이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -289,7 +289,7 @@
     },
     {
         "id": 17,
-        "category": "조직행동 : 개인",
+        "category": "경영일반",
         "question": "인간관계론의 내용에 관한 설명으로 옳은 것은?",
         "box_content": null,
         "table_content": null,
@@ -379,7 +379,7 @@
     },
     {
         "id": 22,
-        "category": "조직이론",
+        "category": "경영일반",
         "question": "막스 베버(Max Weber)가 제시한 관료제 이론의 주요 내용이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -397,7 +397,7 @@
     },
     {
         "id": 23,
-        "category": "조직행동 : 집단과 조직",
+        "category": "경영일반",
         "question": "인간관계론에 해당하는 내용은?",
         "box_content": null,
         "table_content": null,
@@ -433,7 +433,7 @@
     },
     {
         "id": 25,
-        "category": "조직행동 : 집단과 조직",
+        "category": "경영일반",
         "question": "호손실험(Hawthorne experiment)의 순서가 바르게 나열된 것은?",
         "box_content": "ㄱ. 면접실험\nㄴ. 조명실험\nㄷ. 배전기 전선작업실 관찰\nㄹ. 계전기 조립실험",
         "table_content": null,
@@ -451,7 +451,7 @@
     },
     {
         "id": 26,
-        "category": "전략경영",
+        "category": "경영일반",
         "question": "동종 또는 유사업종의 기업들이 법적, 경제적 독립성을 유지하면서 협정을 통해 수평적으로 결합하는 형태는?",
         "box_content": null,
         "table_content": null,
@@ -523,7 +523,7 @@
     },
     {
         "id": 30,
-        "category": "조직행동 : 집단과 조직",
+        "category": "경영일반",
         "question": "호손(Hawthorne)실험의 주요 결론에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -613,7 +613,7 @@
     },
     {
         "id": 35,
-        "category": "인사관리",
+        "category": "경영일반",
         "question": "목표관리(MBO: management by objective)의 주요 특성이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -775,7 +775,7 @@
     },
     {
         "id": 44,
-        "category": "전략경영",
+        "category": "경영일반",
         "question": "자회사 주식의 일부 또는 전부를 소유해서 자회사 경영권을 지배하는 지주회사와 관련이 있는 기업결합은?",
         "box_content": null,
         "table_content": null,
@@ -901,7 +901,7 @@
     },
     {
         "id": 51,
-        "category": "조직행동 : 개인",
+        "category": "경영일반",
         "question": "인간관계론에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -919,7 +919,7 @@
     },
     {
         "id": 52,
-        "category": "인사관리",
+        "category": "경영일반",
         "question": "목표관리(MBO: Management By Objectives)에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -937,7 +937,7 @@
     },
     {
         "id": 53,
-        "category": "조직이론",
+        "category": "경영일반",
         "question": "막스 베버(M. Weber)가 제시한 이상적 관료조직의 원칙으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -4269,7 +4269,7 @@
     },
     {
         "id": 236,
-        "category": "가맹거래사",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십에 대한 다음의 설명 중 틀린 것은?",
         "box_content": null,
         "table_content": null,
@@ -4287,7 +4287,7 @@
     },
     {
         "id": 237,
-        "category": "가맹거래사",
+        "category": "조직행동 : 집단과 조직",
         "question": "브레인스토밍(brainstorming)에 대한 설명으로 맞는 것은?",
         "box_content": null,
         "table_content": null,
@@ -4305,7 +4305,7 @@
     },
     {
         "id": 238,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "집단의사결정의 장점이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -4323,7 +4323,7 @@
     },
     {
         "id": 239,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직변화에 대한 저항요인이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -4341,7 +4341,7 @@
     },
     {
         "id": 240,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "다음 중 전문가 집단을 이메일이나 팩스 또는 우편을 이용하여 질문에 응하도록 하고 그 응답의 결과를 요약한 보고서를 다시 이메일이나 팩스 또는 우편으로 돌리는 과정을 반복함으로써 최적의 집단의견을 도출하는 방법은?",
         "box_content": null,
         "table_content": null,
@@ -4359,7 +4359,7 @@
     },
     {
         "id": 241,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "다음은 어떠한 리더십에 대한 설명인가?",
         "box_content": "추종자들에게 장기적 비전을 제시하고, 그 비전달성을 위해서 함께 매진할 것을 호소하며, 비전성취에 대한 자신감을 고취시킴으로써 조직에 대한 몰입을 강조하며 부하를 성장시키는 리더십",
         "table_content": null,
@@ -4377,7 +4377,7 @@
     },
     {
         "id": 242,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "다음 리더십 이론에 대한 설명 중 거리가 먼 것은?",
         "box_content": null,
         "table_content": null,
@@ -4395,7 +4395,7 @@
     },
     {
         "id": 243,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "다음의 리더십 이론에 관련된 설명 중 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -4413,7 +4413,7 @@
     },
     {
         "id": 244,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직내 집단 간의 갈등해소를 위한 방법으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -4431,7 +4431,7 @@
     },
     {
         "id": 245,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "극도로 응집성이 강한 집단에서 조화와 만장일치에 대한 열망이 지나쳐 집단구성원들이 집단의 결정을 현실적으로 평가하려는 노력을 묵살하는 경향을 나타내는 개념은?",
         "box_content": null,
         "table_content": null,
@@ -4449,7 +4449,7 @@
     },
     {
         "id": 246,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "공식적 커뮤니케이션 네트워크에 해당하는 것은?",
         "box_content": null,
         "table_content": null,
@@ -4467,7 +4467,7 @@
     },
     {
         "id": 247,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "부하 개개인의 관심사와 발전적 욕구에 관심을 기울이며, 부하들의 기존 사고를 새로운 방식으로 변화시켜 나아가는 리더십은?",
         "box_content": null,
         "table_content": null,
@@ -4485,7 +4485,7 @@
     },
     {
         "id": 248,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직 내 집단 간의 갈등을 유발하는 원인이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -4503,7 +4503,7 @@
     },
     {
         "id": 249,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더의 개인적인 성격특성에 기반을 둔 권력은?",
         "box_content": null,
         "table_content": null,
@@ -4521,7 +4521,7 @@
     },
     {
         "id": 250,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "갈등해결을 위한 협상전략 중 통합적 협상(integrative bargaining)의 특성이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -4539,7 +4539,7 @@
     },
     {
         "id": 251,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직문화에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -4557,7 +4557,7 @@
     },
     {
         "id": 252,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "다음 설명 중 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -4575,7 +4575,7 @@
     },
     {
         "id": 253,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "다음에서 설명하는 방법은?",
         "box_content": "합의된 예측을 달성하기 위해 이전의 조사결과로부터 작성된 일련의 설문지를 전문가들에게 반복적인 절차를 통해 예측치를 구하는 방법",
         "table_content": null,
@@ -4593,7 +4593,7 @@
     },
     {
         "id": 254,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직차원의 공식적 커뮤니케이션이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -4611,7 +4611,7 @@
     },
     {
         "id": 255,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "A부장은 부하들이 자신의 지시를 성실하게 수행하지 않으면 부하들의 승진 누락, 원하지 않는 부서로의 이동, 악성 루머 확산 등의 방식으로 대응한다. 부하들은 A부장의 이러한 보복이 두려워서 A부장의 지시를 따른다. A부장이 주로 사용하는 권력은?",
         "box_content": null,
         "table_content": null,
@@ -4629,7 +4629,7 @@
     },
     {
         "id": 256,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십이론 중 피들러(F. E. Fiedler) 모형에 관한 설명으로 옳은 것을 모두 고른 것은?",
         "box_content": "ㄱ. 리더의 행동차원을 인간에 대한 관심과 과업에 대한 관심 두 가지로 나누어 다섯 가지 형태의 리더십으로 구분하였다. ㄴ. 상황요인으로 과업이 짜여진 정도, 리더와 부하 사이의 신뢰정도, 리더 지위의 권력정도를 제시하였다. ㄷ. 상황이 리더에게 아주 유리하거나 불리할 때는 과업주도형 리더십이 효과적이라고 주장하였다. ㄹ. 리더의 유형을 파악하기 위해 LPC(least preferred co-worker) 점수를 측정해서 구분하였다.",
         "table_content": null,
@@ -4647,7 +4647,7 @@
     },
     {
         "id": 257,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "집단 발달의 5단계 모형에서 집단구성원들 간에 집단의 목표와 수단에 대해 합의가 이루어지고 응집력이 높아지며, 구성원들의 역할과 권한 관계가 정해지는 단계는?",
         "box_content": null,
         "table_content": null,
@@ -4665,7 +4665,7 @@
     },
     {
         "id": 258,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "레원(K. Lewin)의 3단계 변화모형에서 변화과정을 순서대로 나열한 것은?",
         "box_content": null,
         "table_content": null,
@@ -4683,7 +4683,7 @@
     },
     {
         "id": 259,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "집단 내에 강력한 리더가 있는 것은 아니지만 어느 정도 대표성 있는 인물을 통해 비교적 공식적인 계층을 따라 의사소통이 신속하게 이루어지는 의사소통 네트워크 유형은?",
         "box_content": null,
         "table_content": null,
@@ -4701,7 +4701,7 @@
     },
     {
         "id": 260,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십연구 학자와 그 리더십이론의 연결이 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -4719,7 +4719,7 @@
     },
     {
         "id": 261,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "현대적 리더십이론의 하나인 변혁적 리더십에서 변혁적 리더의 특성이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -4737,7 +4737,7 @@
     },
     {
         "id": 262,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "피터 생게(Peter Senge)가 주장한 학습조직 모형의 내용에 해당하지 않는 것은?",
         "box_content": null,
         "table_content": null,
@@ -4755,7 +4755,7 @@
     },
     {
         "id": 263,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "허시와 블랜차드(P. Hersey & K. H. Blanchard)의 상황적 리더십 이론에 관한 설명으로 옳은 것은?",
         "box_content": null,
         "table_content": null,
@@ -4773,7 +4773,7 @@
     },
     {
         "id": 264,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "오하이오 주립대학 모형의 리더십 유형구분은?",
         "box_content": null,
         "table_content": null,
@@ -4791,7 +4791,7 @@
     },
     {
         "id": 265,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직행동의 집단수준 변수에 해당하는 것은?",
         "box_content": null,
         "table_content": null,
@@ -4809,7 +4809,7 @@
     },
     {
         "id": 266,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "부하들 스스로가 자신을 리드하도록 만드는 리더십은?",
         "box_content": null,
         "table_content": null,
@@ -4827,7 +4827,7 @@
     },
     {
         "id": 267,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "변혁적 리더가 갖추어야 할 자질이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -4845,7 +4845,7 @@
     },
     {
         "id": 268,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "약한 문화를 가진 조직의 특성에 해당되는 것은?",
         "box_content": null,
         "table_content": null,
@@ -4863,7 +4863,7 @@
     },
     {
         "id": 269,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "분배적 교섭의 특성에 해당되는 것은?",
         "box_content": null,
         "table_content": null,
@@ -4881,7 +4881,7 @@
     },
     {
         "id": 270,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직에서 권력을 강화하기 위한 전술이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -4899,7 +4899,7 @@
     },
     {
         "id": 271,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "델파이 기법에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -4917,7 +4917,7 @@
     },
     {
         "id": 272,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "Communication에서 전달된 메시지를 자신에게 주는 의미로 변환시키는 사고 과정은?",
         "box_content": null,
         "table_content": null,
@@ -4935,7 +4935,7 @@
     },
     {
         "id": 273,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "프렌치(J. R. P. French)와 레이븐(B. Raven)이 구분한 5가지 권력 유형이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -4953,7 +4953,7 @@
     },
     {
         "id": 274,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -4971,7 +4971,7 @@
     },
     {
         "id": 275,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "서번트(servant) 리더의 특성으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -4989,7 +4989,7 @@
     },
     {
         "id": 276,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "프렌치와 레이븐(French & Raven)의 권력원천 분류에 따라 개인적 원천의 권력에 해당하는 것을 모두 고른 것은?",
         "box_content": "ㄱ. 강제적 권력 ㄴ. 준거적 권력 ㄷ. 전문적 권력 ㄹ. 합법적 권력 ㅁ. 보상적 권력",
         "table_content": null,
@@ -5007,7 +5007,7 @@
     },
     {
         "id": 277,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "집단의사결정의 특징에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5025,7 +5025,7 @@
     },
     {
         "id": 278,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "예측하고자 하는 특정문제에 대해 전문가들의 의견을 모으고 조직화하여 합의에 기초한 하나의 결정안을 만드는 시스템적 의사결정 방법은?",
         "box_content": null,
         "table_content": null,
@@ -5043,7 +5043,7 @@
     },
     {
         "id": 279,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직변화에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5061,7 +5061,7 @@
     },
     {
         "id": 280,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십 이론에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5079,7 +5079,7 @@
     },
     {
         "id": 281,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "전문가들을 한 자리에 모으지 않고, 이들을 대상으로 서면으로 정보를 수집하여 의견을 종합한 후 종합의견에 대한 이들의 의견을 재차 묻는 식의 지속적인 피드백 과정을 수 회 거쳐 의견을 수렴하는 방법은?",
         "box_content": null,
         "table_content": null,
@@ -5097,7 +5097,7 @@
     },
     {
         "id": 282,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "배스(B. M. Bass)의 변혁적 리더십에 포함되는 4가지 특성이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -5115,7 +5115,7 @@
     },
     {
         "id": 283,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "프렌치와 레이븐(J. R. P. French & B. Raven)이 제시한 조직 내 권력(power)의 원천 5가지에 포함되지 않는 것은?",
         "box_content": null,
         "table_content": null,
@@ -5133,7 +5133,7 @@
     },
     {
         "id": 284,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십 이론에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5151,7 +5151,7 @@
     },
     {
         "id": 285,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "의사소통(communication) 과정이 옳은 것은?",
         "box_content": "ㄱ. 발신자\tㄴ. 메시지\nㄷ. 매체\tㄹ. 수신자\nㅁ. 피드백",
         "table_content": null,
@@ -5169,7 +5169,7 @@
     },
     {
         "id": 286,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "기업의 경영의사결정에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5187,7 +5187,7 @@
     },
     {
         "id": 287,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "집단의사결정의 특징이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -5205,7 +5205,7 @@
     },
     {
         "id": 288,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "집단의사결정기법에 해당하지 않는 것은?",
         "box_content": null,
         "table_content": null,
@@ -5223,7 +5223,7 @@
     },
     {
         "id": 289,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직정치에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5241,7 +5241,7 @@
     },
     {
         "id": 290,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "허시와 브랜차드(Hersey & Blanchard)의 리더십 유형 중 낮은 지시 행동과 낮은 지원행동을 보이는 유형은?",
         "box_content": null,
         "table_content": null,
@@ -5259,7 +5259,7 @@
     },
     {
         "id": 291,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "미국의 랜드연구소에서 개발한 의사결정기법으로, 전문가들을 한 장소에 대면시키지 않아 상호간의 영향을 배제하면서 전문적인 견해를 얻는 방법은?",
         "box_content": null,
         "table_content": null,
@@ -5277,7 +5277,7 @@
     },
     {
         "id": 292,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "블레이크(R. R. Blake)와 모우튼(J. S. Mouton)의 리더십 관리격자모델의 리더 유형에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5295,7 +5295,7 @@
     },
     {
         "id": 293,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "변혁적 리더십의 특징에 해당하지 않는 것을 모두 고른 것은?",
         "box_content": "ㄱ. 부하들에게 장기적인 목표를 위해 노력하도록 동기부여한다. ㄴ. 부하들을 위해 문제를 해결하거나 해답을 찾을 수 있는 곳을 알려준다. ㄷ. 부하들에게 즉각적이고도 가시적인 보상으로 동기부여한다. ㄹ. 부하들에게 자아실현과 같은 높은 수준의 개인적인 목표를 동경하도록 동기 부여한다. ㅁ. 질문을 하여 부하들에게 스스로 해결책을 찾도록 격려하거나 함께 일을 한다.",
         "table_content": null,
@@ -5313,7 +5313,7 @@
     },
     {
         "id": 294,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "집단 내에 중심적인 인물 또는 리더가 존재하여 구성원들 간의 정보전달이 그 한 사람에게 집중되는 커뮤니케이션 네트워크 유형은?",
         "box_content": null,
         "table_content": null,
@@ -5331,7 +5331,7 @@
     },
     {
         "id": 295,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직문화에 의하여 설정된 규범, 공유된 가치, 전통, 신념, 의식, 기대 등을 통하여 이루어지는 통제의 유형은?",
         "box_content": null,
         "table_content": null,
@@ -5349,7 +5349,7 @@
     },
     {
         "id": 296,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "하우스(R. House)의 경로-목표 이론에서 정의한 리더십 행동 유형이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -5367,7 +5367,7 @@
     },
     {
         "id": 297,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "프렌치와 레이븐(J. French & B. Raven)이 제시한 조직 내 권력의 원천 5가지가 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -5385,7 +5385,7 @@
     },
     {
         "id": 298,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "경영의사결정에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5403,7 +5403,7 @@
     },
     {
         "id": 299,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "델파이법에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5421,7 +5421,7 @@
     },
     {
         "id": 300,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "허쉬와 블랜차드(P. Hersey & K. Blanchard)의 상황적 리더십 이론에서 설명한 4가지 리더십 스타일이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -5439,7 +5439,7 @@
     },
     {
         "id": 301,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "사회적 태만(social loafing) 또는 무임승차는 개인이 혼자 일할 때보다 집단으로 일하면 노력을 덜 하려는 경향을 일컫는다. 이러한 현상을 줄이기 위한 방안으로 가장 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5457,7 +5457,7 @@
     },
     {
         "id": 302,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십이론에 대한 설명 중 가장 옳은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5475,7 +5475,7 @@
     },
     {
         "id": 303,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "의사결정을 위한 근거자료가 부족한 상황에서 전문가집단의 각 구성원에게 설문을 보내고 이에 대한 응답을 모아 요약정리한 후, 다시 전문가에게 보내는 과정을 반복함으로써 의사결정을 행하는 방법은?",
         "box_content": null,
         "table_content": null,
@@ -5493,7 +5493,7 @@
     },
     {
         "id": 304,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "다음의 특성을 가지고 있는 집단의사결정 기법은?",
         "box_content": "첫째, 문제가 제시되고 참가자들간의 대화는 차단된다. 둘째, 각 참가자들은 자기의 생각과 해결안을 가능한 한 많이 기록한다. 셋째, 참가자들이 돌아가면서 자신의 해결안을 집단을 대상으로 설명하며 사회자는 칠판에 그 내용을 정리한다. 넷째, 참가자들이 발표한 내용에 대해 보충설명 등이 추가된다. 다섯째, 발표가 끝나면 제시된 의견들의 우선순위를 묻는 비밀투표를 실시하여 최종적으로 해결안을 선택한다.",
         "table_content": null,
@@ -5511,7 +5511,7 @@
     },
     {
         "id": 305,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "집단의사결정 과정에서 나타나는 집단사고(group think)에 대한 설명으로 옳은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5529,7 +5529,7 @@
     },
     {
         "id": 306,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더와 리더십에 대한 설명으로 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5547,7 +5547,7 @@
     },
     {
         "id": 307,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직관리에 있어 집단이나 부서 간 갈등 해소는 중요한 관리 요소이다. 이러한 갈등을 해소하는 데 적합한 것으로만 고른 것은?",
         "box_content": "ㄱ. 직접 대면 ㄴ. 상위목표의 설정 ㄷ. 자원의 확충 ㄹ. 상호의존성 제고",
         "table_content": null,
@@ -5565,7 +5565,7 @@
     },
     {
         "id": 308,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십 이론에 대한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5583,7 +5583,7 @@
     },
     {
         "id": 309,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "국가간 문화적 차이를 이해하기 위해 홉스테드(G. Hofstede)가 제시한 모형에 대한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5601,7 +5601,7 @@
     },
     {
         "id": 310,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십 유형을 크게 거래적 리더십과 변혁적 리더십으로 구분할 때, 변혁적 리더십 유형의 설명으로 옳은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5619,7 +5619,7 @@
     },
     {
         "id": 311,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "루블(Ruble)과 토마스(Thomas)의 갈등관리(갈등해결) 전략유형에 대한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5637,7 +5637,7 @@
     },
     {
         "id": 312,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직 내에서 권한(authority)과 권력(power)에 대한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5654,7 +5654,7 @@
     },
     {
         "id": 313,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직에서의 집단의사결정에 대한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5671,7 +5671,7 @@
     },
     {
         "id": 314,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "변혁적 리더십(transformational leadership)에 대한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5688,7 +5688,7 @@
     },
     {
         "id": 315,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십 이론의 설명으로 옳은 것을 모두 고른 것은?",
         "box_content": "ㄱ. 블레이크(R. Blake)와 머튼(J. Mouton)의 리더십 관리격자 모형에 의하면 일(생산)에 대한 관심과 사람에 대한 관심이 모두 높은 리더가 이상적 리더이다.\nㄴ. 피들러(F. Fiedler)의 리더십 상황이론에 의하면 상황이 호의적일 때 인간중심형 리더가 과업지향형 리더보다 효과적인 리더이다.\nㄷ. 리더-부하 교환이론(leader-member exchange theory)에 의하면 효율적인 리더는 믿을만한 부하들을 내 집단(in-group)으로 구분하여, 그들에게 더 많은 정보를 제공하고, 경력개발 지원 등의 특별한 대우를 한다.\nㄹ.변혁적 리더는 예외적인 사항에 대해 개입하고, 부하가 좋은 성과를 내도록 하기 위해 보상시스템을 잘 설계한다.\nㅁ. 카리스마 리더는 강한 자기 확신, 인상관리, 매력적인 비전 제시 등을 특징으로 한다.",
         "table_content": null,
@@ -5706,7 +5706,7 @@
     },
     {
         "id": 316,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "",
         "box_content": "a. 합리적 의사결정 모형은 의사결정자가 완전한 합리성에 기초하여 최적의 의사결정을 한다고 보는 규범적인 의사결정 모형이다.\nb. 의사결정이 이루어지는 과정은 문제의 인식, 대체안의 개발, 대체안의 선택, 선택안의 실행, 결과의 평가로 이루어진다.\nc. 집단의사결정에서는 창의성 발휘가 쉬워서 창의성을 촉진하기 위한 별도의 조치는 필요하지 않다.\nd. 집단의사결정에서는 리더가 정보를 충분히 공개하고, 자신의 의견을 먼저 명확하게 제시하는 것이 효과적이다.",
         "table_content": null,
@@ -5724,7 +5724,7 @@
     },
     {
         "id": 317,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "의사결정(decision making)과 관련한 다음의 설명 가운데 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5742,7 +5742,7 @@
     },
     {
         "id": 318,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십에 관한 다음의 설명 가운데 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5760,7 +5760,7 @@
     },
     {
         "id": 319,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "신입 조직구성원의 조직사회화 과정에 대한 다음의 설명 가운데 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5778,7 +5778,7 @@
     },
     {
         "id": 320,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "집단에 관한 다음의 서술 중 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5796,7 +5796,7 @@
     },
     {
         "id": 321,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십이론에 관한 다음의 서술 중 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -5814,7 +5814,7 @@
     },
     {
         "id": 322,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십의 상황이론에 대한 설명으로 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -5832,7 +5832,7 @@
     },
     {
         "id": 323,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "프렌치(French)와 레이븐(Raven)이 제시한 권력의 원천 중 조직의 공식적 지위와 관련되지 않은 것만으로 묶인 것은?",
         "box_content": "a. 보상적 권력(reward power) b. 강압적 권력(coercive power) c. 합법적 권력(legitimate power) d. 전문적 권력(expert power) e. 준거적 권력(referent power)",
         "table_content": null,
@@ -5850,7 +5850,7 @@
     },
     {
         "id": 324,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "조직의 의사결정을 설명하는 것 중 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5868,7 +5868,7 @@
     },
     {
         "id": 325,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "피들러(Fiedler)의 리더십이론에 관한 서술 중에 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -5886,7 +5886,7 @@
     },
     {
         "id": 326,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십이론에 대한 설명 중 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5904,7 +5904,7 @@
     },
     {
         "id": 327,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "집단에서 함께 일을 하다보면 무임승차 또는 편승(social loafing)하려는 사람이 생기게 마련이다. 개인이 혼자 일할 때보다 집단으로 일하면 노력을 덜 하려는 이 같은 현상을 줄이기 위한 방안으로서 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5922,7 +5922,7 @@
     },
     {
         "id": 328,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "의사결정과 관련된 서술 중 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5940,7 +5940,7 @@
     },
     {
         "id": 329,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십 이론에 관한 서술 중 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5958,7 +5958,7 @@
     },
     {
         "id": 330,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "변혁적 리더시(transformational leadership)에 관한 다음의 설명 중 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5976,7 +5976,7 @@
     },
     {
         "id": 331,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "동기부여이론과 리더십이론에 관한 다음의 설명 중 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -5994,7 +5994,7 @@
     },
     {
         "id": 332,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십(leadership) 이론에 관한 설명으로 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -6012,7 +6012,7 @@
     },
     {
         "id": 333,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십 이론에 관한 설명으로 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -6030,7 +6030,7 @@
     },
     {
         "id": 334,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "의사결정 이론에 관한 다음 설명 중 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -6048,7 +6048,7 @@
     },
     {
         "id": 335,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십 이론에 관한 다음 설명 중 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -6066,7 +6066,7 @@
     },
     {
         "id": 336,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십 이론에 관한 설명으로 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -6084,7 +6084,7 @@
     },
     {
         "id": 337,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십 이론에 관한 설명으로 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -6102,7 +6102,7 @@
     },
     {
         "id": 338,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십이론에 관한 설명으로 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -6120,7 +6120,7 @@
     },
     {
         "id": 339,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십 이론에 관한 설명으로 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -6138,7 +6138,7 @@
     },
     {
         "id": 340,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "다음 중 적절한 항목만을 모두 선택한 것은?",
         "box_content": "a. 프렌치(French)와 레이븐(Raven)이 제시한 권력의 원천 중 준거적 권력(referent power)은 개인의 특성보다는 조직의 특성에 기반을 둔 권력이다. b. 집단의사결정 방식 중 구성원간 상호작용을 제한하는 정도는 브레인스토밍(brainstorming)보다 명목집단법(nominal group technique)이 더 강하다. c. 자원의 크기가 고정되어 있을 때, 이해관계가 상반되는 양 당사자가 자신의 몫을 극대화하려는 협상방식을 분배적 협상(distributive bargaining)이라고 한다. d. 몰입상승(escalation of commitment)이란 의사결정의 속도와 질을 높여주는 의사결정 현상을 말한다.",
         "table_content": null,
@@ -6156,7 +6156,7 @@
     },
     {
         "id": 341,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십이론에 관한 설명으로 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -6174,7 +6174,7 @@
     },
     {
         "id": 342,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "갈등과 협상에 관한 설명으로 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -6192,7 +6192,7 @@
     },
     {
         "id": 343,
-        "category": "조직행동: 집단과 조직",
+        "category": "조직행동 : 집단과 조직",
         "question": "리더십이론에 관한 설명으로 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -8748,7 +8748,7 @@
     },
     {
         "id": 485,
-        "category": "공인노무사",
+        "category": "인적자원관리",
         "question": "인사고과의 오류 중 피고과자가 속한 사회적 집단에 대한 평가에 기초하여 판단하는 것은?",
         "box_content": null,
         "table_content": null,
@@ -8766,7 +8766,7 @@
     },
     {
         "id": 486,
-        "category": "경영지도사",
+        "category": "인적자원관리",
         "question": "동기부여적 직무설계 방법에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -8784,7 +8784,7 @@
     },
     {
         "id": 487,
-        "category": "경영지도사",
+        "category": "인적자원관리",
         "question": "기업의 임금지급방법 중 성과급제에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -8802,7 +8802,7 @@
     },
     {
         "id": 488,
-        "category": "경영지도사",
+        "category": "인적자원관리",
         "question": "현대적 직무설계 방안에 해당되지 않는 것은?",
         "box_content": null,
         "table_content": null,
@@ -8820,7 +8820,7 @@
     },
     {
         "id": 489,
-        "category": "경영지도사",
+        "category": "인적자원관리",
         "question": "훈련의 방법을 직장 내 훈련(OJT)과 직장 외 훈련(Off-JT)으로 구분할 때 직장 외 훈련에 해당되지 않는 것은?",
         "box_content": null,
         "table_content": null,
@@ -8838,7 +8838,7 @@
     },
     {
         "id": 490,
-        "category": "경영지도사",
+        "category": "인적자원관리",
         "question": "기업 내 직무들 간의 상대적 가치를 기준으로 임금을 결정하는 유형은?",
         "box_content": null,
         "table_content": null,
@@ -8856,7 +8856,7 @@
     },
     {
         "id": 491,
-        "category": "경영지도사",
+        "category": "인적자원관리",
         "question": "임금체계에 관한 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -8874,7 +8874,7 @@
     },
     {
         "id": 492,
-        "category": "경영지도사",
+        "category": "인적자원관리",
         "question": "관리직 인력을 선발할 때 주로 사용하며, 다수의 지원자를 특정 장소에 모아놓고 여러 종류의 선발도구를 적용하여 지원자를 평가하는 방법은?",
         "box_content": null,
         "table_content": null,
@@ -8892,7 +8892,7 @@
     },
     {
         "id": 493,
-        "category": "경영지도사",
+        "category": "인적자원관리",
         "question": "사용자가 노동조합원이 아닌 자도 고용할 수 있지만, 일단 고용된 근로자는 일정 기간 내 노동조합에 가입해야 하는 제도는?",
         "box_content": null,
         "table_content": null,
@@ -8910,7 +8910,7 @@
     },
     {
         "id": 494,
-        "category": "경영지도사",
+        "category": "인적자원관리",
         "question": "우리나라의 최저임금제도 운영에서 실시되지 않았던 것은?",
         "box_content": null,
         "table_content": null,
@@ -8928,7 +8928,7 @@
     },
     {
         "id": 495,
-        "category": "경영지도사",
+        "category": "인적자원관리",
         "question": "직무수행에 요구되는 지식, 기능, 행동, 능력 등을 기술한 문서는?",
         "box_content": null,
         "table_content": null,
@@ -8946,7 +8946,7 @@
     },
     {
         "id": 496,
-        "category": "경영지도사",
+        "category": "인적자원관리",
         "question": "탄력적 근로시간제를 근로자대표와 합의하에 실시할 경우 단위기간 한도는?",
         "box_content": null,
         "table_content": null,
@@ -8964,7 +8964,7 @@
     },
     {
         "id": 497,
-        "category": "2019 경영지도사",
+        "category": "인적자원관리",
         "question": "현대적 직무설계방안이 아닌 것은?",
         "box_content": null,
         "table_content": null,
@@ -8982,7 +8982,7 @@
     },
     {
         "id": 498,
-        "category": "2016 7급 서울시",
+        "category": "인적자원관리",
         "question": "다음 중 경력관리의 목적으로 가장 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -9000,7 +9000,7 @@
     },
     {
         "id": 499,
-        "category": "2017 7급 서울시",
+        "category": "인적자원관리",
         "question": "교육 훈련의 효과성을 평가하기 위해 커크패트릭(Kirkpatrick)은 4단계 평가 기준을 제안하였다. 평가의 기초를 기준으로 쉬운 것부터 차례대로 나열한 것으로 옳은 것은?",
         "box_content": null,
         "table_content": null,
@@ -9018,7 +9018,7 @@
     },
     {
         "id": 500,
-        "category": "2019 7급 서울시",
+        "category": "인적자원관리",
         "question": "행위기준고과법(BARS; Behaviorally Anchored Rating Scales)에 대한 설명으로 가장 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -9036,7 +9036,7 @@
     },
     {
         "id": 501,
-        "category": "2019 7급 서울시",
+        "category": "인적자원관리",
         "question": "직무급(job-based payment)에 대한 설명으로 가장 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -9054,7 +9054,7 @@
     },
     {
         "id": 502,
-        "category": "2007 7급 국가직",
+        "category": "인적자원관리",
         "question": "다음 중 인적자원관리(human resource management)의 영역에 포함되지 않는 것은?",
         "box_content": null,
         "table_content": null,
@@ -9072,7 +9072,7 @@
     },
     {
         "id": 503,
-        "category": "2008 7급 국가직",
+        "category": "인적자원관리",
         "question": "다음 중 부가급(fringe benefit)에 해당하지 않는 것은?",
         "box_content": null,
         "table_content": null,
@@ -9090,7 +9090,7 @@
     },
     {
         "id": 504,
-        "category": "2010 7급 국가직",
+        "category": "인적자원관리",
         "question": "직무평가의 방법에는 분류법, 서열법, 점수법, 요소비교법의 4가지가 있다. 이 방법들은 성격상 계량적 방법과 비계량적 방법으로 구분되기도 하고, 또한 직무 대 기준 그리고 직무 대 직무를 평가하는 방법으로 구분되기도 한다. 계량적 방법이면서 직무 대 직무를 평가하는 방법은?",
         "box_content": null,
         "table_content": null,
@@ -9108,7 +9108,7 @@
     },
     {
         "id": 505,
-        "category": "2011 7급 국가직",
+        "category": "인적자원관리",
         "question": "직무설계 방법 중 작업자가 수행하는 직무에 대한 의사결정의 자율권과 재량, 책임을 부여하기 위해 직무수행과 관련된 계획, 조직, 통제, 평가기능 등을 추가하여 수행하도록 하는 것은?",
         "box_content": null,
         "table_content": null,
@@ -9126,7 +9126,7 @@
     },
     {
         "id": 506,
-        "category": "2012 7급 국가직",
+        "category": "인적자원관리",
         "question": "종업원의 복리 및 안전욕구를 충족하기 위해 기업이 제공하는 복리후생제도는 크게 법정 복리후생과 법정외 복리후생(자발적 복리후생)으로 구분할 수 있다. 법정외 복리후생에 해당하지 않는 것은?",
         "box_content": null,
         "table_content": null,
@@ -9144,7 +9144,7 @@
     },
     {
         "id": 507,
-        "category": "2014 7급 국가직",
+        "category": "인적자원관리",
         "question": "최근 확산되고 있는 연봉제의 설명으로 옳지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -9162,7 +9162,7 @@
     },
     {
         "id": 508,
-        "category": "2014 7급 국가직",
+        "category": "인적자원관리",
         "question": "인력 채용 시에 외부 모집의 유리한 점으로 옳은 것은?",
         "box_content": null,
         "table_content": null,
@@ -22302,7 +22302,7 @@
     },
     {
         "id": 1236,
-        "category": "생산관리",
+        "category": "생산능력 관리",
         "question": "K사의 조립라인은 5개의 과업(task)으로 구성된다. 현재는 3개의 작업장(work-station)에 아래 그림과 같이 과업들을 할당하여 생산을 하고 있다. 다음 설명 중 가장 적절하지 않은 것은? 단, 과업은 Ⓐ, Ⓑ, ⓒ, Ⓓ, ⓔ의 순으로 순차적으로 수행되며, 과업 밑에 표시된 수치는 각 과업의 수행시간이다.",
         "box_content": "1번 작업장: (Ⓐ 14분) -> 2번 작업장: (Ⓑ 10분, ⓒ 20분) -> 3번 작업장: (Ⓓ 12분, ⓔ 15분)",
         "table_content": null,
@@ -22320,7 +22320,7 @@
     },
     {
         "id": 1237,
-        "category": "생산관리",
+        "category": "생산능력 관리",
         "question": "라인밸런싱(line balancing)에 관한 설명으로 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -22338,7 +22338,7 @@
     },
     {
         "id": 1238,
-        "category": "생산관리",
+        "category": "생산능력 관리",
         "question": "주기시간(cycle time)마다 일련의 작업장을 통과하는 이동 컨베이어 시스템이 설치된 조립라인에 관한 설명 중 적절한 항목만을 모두 선택한 것은?",
         "box_content": "a. 조립라인의 변경 없이 주기시간을 늘리는 경우, 조립라인 균형의 효율성은 감소한다. b. 조립라인의 생산능력(capacity) 비교를 위해 각 조립라인의 주기시간 당 생산되는 제품의 수가 활용된다. c. 조립라인에 존재하는 재공품이 20개이고 주기시간이 2분인 경우, 조립라인의 처리시간(flow/throughput time)은 30분 이내이다. d. 주기시간은 가장 짧은 작업시간을 갖는 작업장과 가장 긴 작업시간을 갖는 작업장의 작업시간 사이의 값을 갖는다.",
         "table_content": null,
@@ -22356,7 +22356,7 @@
     },
     {
         "id": 1239,
-        "category": "생산관리",
+        "category": "생산능력 관리",
         "question": "다음 그림은 병렬로 배치된 공정 A와 B에서 각각 생산된 부품을 공정 C에서 조립한 후 공정 D에서 마무리 작업을 실시하는 생산시스템을 나타낸 것이다. 버퍼(buffer)는 존재하지 않으며, 각 공정의 ( )안에 표시된 숫자는 공정의 작업시간(단위: 분)이다. 생산시스템은 최소주기시간에 맞추어 운영되고 있으며, 생산시스템 가동 전 모든 공정에는 작업가능한 재공품이 존재한다. 이 생산시스템에 관한 설명으로 가장 적절한 것은?",
         "box_content": "A(2) -> [화살표] -> C(5) -> [화살표] -> D(3), B(4) -> [화살표] -> C(5) -> [화살표] -> D(3)",
         "table_content": null,
@@ -22374,7 +22374,7 @@
     },
     {
         "id": 1240,
-        "category": "생산관리",
+        "category": "생산능력 관리",
         "question": "공정성능을 나타내는 지표들에 관한 설명으로 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
@@ -22392,7 +22392,7 @@
     },
     {
         "id": 1241,
-        "category": "생산관리",
+        "category": "생산능력 관리",
         "question": "다음 표는 6개의 작업(task) A~F로 이루어진 조립라인에서 각 작업의 작업시간과 직전 선행작업을 나타낸 것이다. 이 조립라인에서는 하루 400분 동안 100개의 제품이 생산되도록 주기시간을 설정하고 작업장을 구성하였다. 또한, 작업장의 수가 최소가 되도록 각 작업을 작업장에 할당하였으며, 각 작업장에는 1명의 작업자를 배치하였다. 이 조립라인에 관한 설명으로 가장 적절한 것은?",
         "box_content": null,
         "table_content": "활동|A|B|C|D|E|F|합계\n작업시간(분)|2|1.5|1.5|2|2.5|2.5|12\n직전 선행작업|-|A|A|B|C|D, E|-",
@@ -22410,7 +22410,7 @@
     },
     {
         "id": 1242,
-        "category": "생산관리",
+        "category": "생산능력 관리",
         "question": "라인밸런싱(line balancing)에 관한 설명으로 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
@@ -22428,7 +22428,7 @@
     },
     {
         "id": 1243,
-        "category": "생산관리",
+        "category": "생산능력 관리",
         "question": "다음은 장기적인 생산능력(capacity)의 측정과 평가에 대한 설명이다. 가장 적절하지 않은 것은?",
         "box_content": null,
         "table_content": null,
