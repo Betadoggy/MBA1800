@@ -40,11 +40,13 @@
 
     <div class="space-y-2" id="options">
         {{range $key, $value := .Options}}
-        <button onclick="submit('{{$key}}')"
-            class="w-full text-left p-3 border rounded text-sm hover:bg-slate-50 active:bg-slate-100 flex gap-2">
-            <span class="font-bold text-slate-400">{{$key}}.</span>
-            <span>{{$value}}</span>
-        </button>
+            {{if $value}}
+            <button onclick="submit('{{$key}}')"
+                class="w-full text-left p-3 border rounded text-sm hover:bg-slate-50 active:bg-slate-100 flex gap-2">
+                <span class="font-bold text-slate-400">{{$key}}.</span>
+                <span>{{$value}}</span>
+            </button>
+            {{end}}
         {{end}}
     </div>
 
