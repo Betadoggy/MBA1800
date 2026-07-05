@@ -11936,7 +11936,7 @@
         "id": 662,
         "category": "전략경영",
         "question": "전략적 경영(strategic management) 및 전략적 인적자원관리(strategic human resource management)에 관한 다음 설명 중 적절하지 않은 항목만으로 구성된 것은?",
-        "box_content": "a. 전략적 인적자원관리는 경영전략과 인적자원관리를 통합하여 상호 연계시키는 인적자원관리 활동 및 체계이다. b. 전략적 경영의 수준은 의사결정의 수준과 범위에 따라 기업수준의 전략(corporate strategy), 사업수준의 전략(business strategy), 기능수준의 전략(functional strategy)으로 나눌 수 있다. c. 후방 통합(backward integration)은 공급업자의 사업을 인수하거나 공급업자가 공급하던 제품이나 서비스를 직접 생산, 공급하는 방식의 전략으로 수평적 통합(horizontal integration) 전략의 하나이다. d. 전략적 인적자원관리는 전통적인 인사관리(personnel management)와 달리 기업의 경영전략과 인적자원관리시스템간의 적합성(fitness)을 강조한다. e. 전략적 인적자원관리는 경쟁우위의 원천으로 인적자원(human resource)보다 물적 자원(physical resource)을 중시한다.",
+        "box_content": "a. 전략적 인적자원관리는 경영전략과 인적자원관리를 통합하여 상호 연계시키는 인적자원관리 활동 및 체계이다.\nb. 전략적 경영의 수준은 의사결정의 수준과 범위에 따라 기업수준의 전략(corporate strategy), 사업수준의 전략(business strategy), 기능수준의 전략(functional strategy)으로 나눌 수 있다.\nc. 후방 통합(backward integration)은 공급업자의 사업을 인수하거나 공급업자가 공급하던 제품이나 서비스를 직접 생산, 공급하는 방식의 전략으로 수평적 통합(horizontal integration) 전략의 하나이다.\nd. 전략적 인적자원관리는 전통적인 인사관리(personnel management)와 달리 기업의 경영전략과 인적자원관리시스템간의 적합성(fitness)을 강조한다.\ne. 전략적 인적자원관리는 경쟁우위의 원천으로 인적자원(human resource)보다 물적 자원(physical resource)을 중시한다.",
         "table_content": null,
         "image_url": null,
         "has_image": false,
@@ -24699,7 +24699,7 @@
         "category": "운영계획과 자원계획",
         "question": "인쇄소에 대기작업이 3개 있고, 이들의 예상 작업시간과 납기시간은 다음 표와 같다. 긴급률(critical ratio) 규칙에 따라 작업을 진행하였다면 평균 납기지연시간은?",
         "box_content": null,
-        "table_content": "작업: 가, 나, 다 / 작업시간: 4, 4, 5 / 납기시간: 6, 5, 9",
+        "table_content": "<table class='w-full border-collapse border border-slate-300 text-center text-xs'><thead class='bg-slate-50'><tr><th class='border border-slate-300 p-2 font-semibold text-slate-600'>작업</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>작업시간</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>납기시간</th></tr></thead><tbody><tr><td class='border border-slate-300 p-2 text-slate-700'>가</td><td class='border border-slate-300 p-2 text-slate-700'>4</td><td class='border border-slate-300 p-2 text-slate-700'>6</td></tr><tr><td class='border border-slate-300 p-2 text-slate-700'>나</td><td class='border border-slate-300 p-2 text-slate-700'>4</td><td class='border border-slate-300 p-2 text-slate-700'>5</td></tr><tr><td class='border border-slate-300 p-2 text-slate-700'>다</td><td class='border border-slate-300 p-2 text-slate-700'>5</td><td class='border border-slate-300 p-2 text-slate-700'>9</td></tr></tbody></table>",
         "image_url": null,
         "has_image": false,
         "options": {
