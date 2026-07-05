@@ -20072,8 +20072,8 @@
         "id": 1114,
         "category": "경영과학",
         "question": "P제조업체에서는 비용-조업도 분석(cost-volume analysis)을 활용하여 생산방식에 대한 두 가지 대안을 검토 중이다. 생산품목은 단일품목이고 판매가는 단위당 7만원이다. 각 대안에 대한 비용요소가 다음과 같을 때 분석 결과로 가장 적절하지 않은 것은? 단, 생산량은 발생하는 수요량과 동일하다고 가정한다.",
-        "box_content": "대안 A: 고정비 8억원, 단위당 변동비 5만원 / 대안 B: 고정비 9억 3천만원, 단위당 변동비 1만원",
-        "table_content": "대안 A,고정비 8억원,단위당 변동비 5만원;대안 B,고정비 9억 3천만원,단위당 변동비 1만원",
+        "box_content": null,
+        "table_content": "<table class='w-full border-collapse border border-slate-300 text-center text-xs'><tbody><tr><td class='border border-slate-300 p-2 font-semibold text-slate-600 bg-slate-50'>대안 A</td><td class='border border-slate-300 p-2 text-slate-700'>고정비 8억원,</td><td class='border border-slate-300 p-2 text-slate-700'>단위당 변동비 5만원</td></tr><tr><td class='border border-slate-300 p-2 font-semibold text-slate-600 bg-slate-50'>대안 B</td><td class='border border-slate-300 p-2 text-slate-700'>고정비 9억 3천만원,</td><td class='border border-slate-300 p-2 text-slate-700'>단위당 변동비 1만원</td></tr></tbody></table>",
         "image_url": null,
         "has_image": false,
         "options": {
