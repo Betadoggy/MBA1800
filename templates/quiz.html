@@ -17,7 +17,7 @@
             pointer-events: auto;
         }
         #categoryMenu {
-            transform: translateX(100%);
+            transform: translateX(-100%);
             transition: transform 250ms ease;
         }
         #categoryMenu.open {
@@ -28,41 +28,64 @@
 
 <body class="bg-white text-slate-900 max-w-md mx-auto p-4 font-sans">
 
-    <div class="flex items-center justify-between text-xs text-slate-500 mb-4 border-b pb-2">
-        <div class="flex items-center gap-2">
-            <span>{{.Category}} · {{.ID}}</span>
-            <button id="bookmarkBtn" onclick="toggleBookmark()" class="text-sm focus:outline-none transition-transform active:scale-125">
-                {{if .IsBookmarked}}<span class="text-yellow-400">★</span>{{else}}<span class="text-slate-300">☆</span>{{end}}
-            </button>
-        </div>
-        <div class="flex items-center gap-2">
-            <form action="/" method="GET" class="flex items-center gap-1">
-                <input type="number" name="id" placeholder="ID 입력" required
-                       class="w-24 border rounded px-1.5 py-0.5 text-center text-slate-800 focus:outline-none focus:border-slate-400 [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none">
-            </form>
-            <button id="menuBtn" onclick="toggleMenu()" class="p-2 rounded bg-slate-100 hover:bg-slate-200 focus:outline-none">
-                ☰
-            </button>
+    <div class="mb-4 border-b pb-3">
+        <div class="flex items-center justify-between gap-2 text-xs text-slate-500">
+            <div class="flex items-center gap-2">
+                <button id="menuBtn" onclick="toggleMenu()" class="p-2 rounded hover:bg-slate-200 focus:outline-none">
+                    ☰
+                </button>
+                <span>{{.Category}} · {{.ID}}</span>
+                <button id="bookmarkBtn" onclick="toggleBookmark()" class="text-sm focus:outline-none transition-transform active:scale-125">
+                    {{if .IsBookmarked}}<span class="text-yellow-400">★</span>{{else}}<span class="text-slate-300">☆</span>{{end}}
+                </button>
+            </div>
+            <div class="relative flex items-center gap-2">
+                <form action="/" method="GET" class="flex items-center gap-1">
+                    <input type="number" name="id" placeholder="ID 입력" required
+                           class="w-24 border rounded px-1.5 py-0.5 text-center text-slate-800 focus:outline-none focus:border-slate-400 [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none">
+                </form>
+                {{if .IsAuthenticated}}
+                <button id="accountBtn" onclick="toggleAccountMenu()" class="flex h-8 w-8 items-center justify-center rounded-full text-slate-400 shadow-sm transition hover:bg-slate-200" aria-label="계정 메뉴">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" class="h-4 w-4">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 7.5a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0Zm-9 10.5a6.75 6.75 0 0 1 13.5 0" />
+                    </svg>
+                </button>
+                <div id="accountMenu" class="hidden absolute right-0 top-10 z-50 w-56 rounded-xl border border-slate-200 bg-white p-3 shadow-lg">
+                    <div class="mb-2 text-sm font-medium text-slate-800">{{.UserEmail}}</div>
+                    <a href="/weaknesses" class="mb-2 block rounded-lg border border-slate-200 px-3 py-2 text-center text-sm font-medium text-slate-700 hover:bg-slate-50">영역별 취약점 보기</a>
+                    <a href="/frequent-wrong" class="mb-2 block rounded-lg border border-slate-200 px-3 py-2 text-center text-sm font-medium text-slate-700 hover:bg-slate-50">자주 틀린 문제 보기</a>
+                    <a href="/logout" class="block rounded-lg bg-slate-900 px-3 py-2 text-center text-sm font-medium text-white hover:bg-slate-700">로그아웃</a>
+                </div>
+                {{else}}
+                <a href="/login" class="rounded bg-slate-900 px-2 py-1 text-[11px] font-medium text-white hover:bg-slate-700">로그인</a>
+                {{end}}
+            </div>
         </div>
     </div>
     <div id="menuOverlay" onclick="closeMenu()" class="fixed inset-0 z-40 bg-slate-900/40"></div>
-    <div id="categoryMenu" class="fixed inset-y-0 right-0 z-50 w-72 max-w-[85vw] overflow-y-auto bg-white shadow-2xl p-4 text-sm text-slate-700">
+    <div id="categoryMenu" class="fixed inset-y-0 left-0 z-50 w-72 max-w-[85vw] overflow-y-auto bg-white shadow-2xl p-4 text-sm text-slate-700">
         <div class="space-y-3">
             <a href="/" onclick="closeMenu()" class="block px-3 py-1 text-left text-slate-700 hover:text-slate-900">전체</a>
-            {{range $groupIndex, $group := .CategoryGroups}}
-            <div>
-                <div onclick="toggleGroup({{$groupIndex}})"
-                    class="cursor-pointer flex items-center gap-2 px-3 py-2 text-sm font-medium text-slate-800 hover:text-slate-900">
-                    <span id="group-arrow-{{$groupIndex}}" class="text-slate-500">▶</span>
-                    <span>{{$group.Name}}</span>
-                </div>
-                <div id="group-{{$groupIndex}}" class="hidden mt-2 space-y-1 px-2">
-                    {{range $group.Subcategories}}
-                    <a href="/?category={{urlquery .}}" onclick="closeMenu()" class="block px-3 py-1 text-left text-slate-700 hover:text-slate-900">{{.}}</a>
-                    {{end}}
-                </div>
-            </div>
+            {{if .IsAuthenticated}}
+            <a href="/?bookmarks=1" onclick="closeMenu()" class="block px-3 py-2 rounded bg-amber-50 text-left font-medium text-amber-700 hover:bg-amber-100">★ 북마크만 풀기</a>
             {{end}}
+            <div class="rounded-lg border border-slate-200 p-2">
+                <div class="px-2 py-1 text-[11px] font-semibold uppercase tracking-wide text-slate-400">유형별 풀기</div>
+                {{range $groupIndex, $group := .CategoryGroups}}
+                <div class="mt-1">
+                    <div onclick="toggleGroup({{$groupIndex}})"
+                        class="cursor-pointer flex items-center gap-2 px-2 py-2 text-sm font-medium text-slate-800 hover:text-slate-900 rounded">
+                        <span id="group-arrow-{{$groupIndex}}" class="text-slate-500">▶</span>
+                        <span>{{$group.Name}}</span>
+                    </div>
+                    <div id="group-{{$groupIndex}}" class="hidden mt-1 space-y-1 px-2">
+                        {{range $group.Subcategories}}
+                        <a href="/?category={{urlquery .}}" onclick="closeMenu()" class="block px-2 py-1 text-left text-slate-700 hover:text-slate-900">{{.}}</a>
+                        {{end}}
+                    </div>
+                </div>
+                {{end}}
+            </div>
         </div>
     </div>
 
@@ -112,6 +135,11 @@
             overlay.classList.toggle('open');
         }
 
+        function toggleAccountMenu() {
+            const menu = document.getElementById('accountMenu');
+            menu.classList.toggle('hidden');
+        }
+
         function closeMenu() {
             const menu = document.getElementById('categoryMenu');
             const overlay = document.getElementById('menuOverlay');
@@ -155,7 +183,7 @@
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
-                    user_id: 1,
+                    user_id: {{.UserID}},
                     problem_id: {{.ID}},
                     selected_option: parseInt(option),
                     time_spent: elapsed

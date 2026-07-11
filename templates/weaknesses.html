@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>영역별 취약점</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900 max-w-md mx-auto p-4 font-sans">
+    <div class="mb-4 flex items-center justify-between">
+        <div>
+            <h1 class="text-lg font-semibold">영역별 취약점</h1>
+        </div>
+        <div class="flex gap-2">
+            <a href="/" class="rounded bg-slate-900 px-3 py-2 text-sm font-medium text-white">돌아가기</a>
+        </div>
+    </div>
+
+    <div class="space-y-3">
+        {{range .Groups}}
+        <div class="rounded-lg border border-slate-200 p-3">
+            <button type="button" class="flex w-full items-center justify-between text-left" onclick="toggleGroup(this)">
+                <div class="font-semibold text-slate-800">{{.Name}}</div>
+                <div class="flex items-center gap-2">
+                    <div class="text-base font-bold text-amber-600">{{.WrongCount}}회</div>
+                    <span class="text-sm text-slate-400 transition-transform" data-arrow>▶</span>
+                </div>
+            </button>
+            <div class="mt-2 hidden space-y-2" data-content>
+                {{range .Subcategories}}
+                <div class="flex items-center justify-between rounded bg-slate-50 px-3 py-2">
+                    <div>
+                        <div class="text-sm font-medium text-slate-700">{{.Name}}</div>
+                        <div class="text-xs text-slate-500">{{.ProblemCount}} 문제</div>
+                    </div>
+                    <div class="text-right">
+                        <div class="text-base font-bold text-amber-600">{{.WrongCount}}회</div>
+                    </div>
+                </div>
+                {{else}}
+                <div class="rounded border border-dashed border-slate-300 px-3 py-2 text-sm text-slate-500">이 대분류에는 표시할 소분류가 없습니다.</div>
+                {{end}}
+            </div>
+        </div>
+        {{else}}
+        <div class="rounded-lg border border-dashed border-slate-300 p-4 text-sm text-slate-500">아직 틀린 문제가 없습니다.</div>
+        {{end}}
+    </div>
+
+    <script>
+        function toggleGroup(button) {
+            const content = button.nextElementSibling;
+            const arrow = button.querySelector('[data-arrow]');
+            const isHidden = content.classList.contains('hidden');
+            content.classList.toggle('hidden', !isHidden);
+            if (arrow) {
+                arrow.textContent = isHidden ? '▼' : '▶';
+            }
+        }
+    </script>
+</body>
+</html>

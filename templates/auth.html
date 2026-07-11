@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MBA 1800 로그인</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 min-h-screen flex items-center justify-center p-4">
+    <div class="w-full max-w-sm rounded-2xl border bg-white p-6 shadow-sm">
+        <p class="text-sm text-slate-500 mb-6">{{if eq .Mode "signup"}}회원가입{{else}}로그인{{end}}</p>
+        {{if .Error}}
+        <div class="mb-4 rounded border border-red-200 bg-red-50 px-3 py-2 text-sm text-red-600">{{.Error}}</div>
+        {{end}}
+        <form method="POST" class="space-y-3">
+            <input type="email" name="email" placeholder="이메일" required class="w-full rounded border px-3 py-2" />
+            <input type="password" name="password" placeholder="비밀번호" required class="w-full rounded border px-3 py-2" />
+            <button type="submit" class="w-full rounded bg-slate-900 px-3 py-2 text-white">{{if eq .Mode "signup"}}가입하기{{else}}로그인{{end}}</button>
+        </form>
+        <div class="mt-4 text-center text-sm text-slate-500">
+            {{if eq .Mode "signup"}}
+            <a href="/login" class="text-slate-700">로그인으로 돌아가기</a>
+            {{else}}
+            <a href="/signup" class="text-slate-700">회원가입</a>
+            {{end}}
+        </div>
+    </div>
+</body>
+</html>
