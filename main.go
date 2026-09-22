@@ -404,6 +404,50 @@ func ensureSchema() error {
 		}
 	}
 
+	_, err = db.ExecContext(context.Background(), `
+		DO $$
+		DECLARE
+			constraint_name text;
+			index_name text;
+		BEGIN
+			FOR constraint_name IN
+				SELECT con.conname
+				FROM pg_constraint con
+				WHERE con.conrelid = 'user_progress'::regclass
+					AND con.contype IN ('p', 'u')
+					AND (
+						pg_get_constraintdef(con.oid) = 'PRIMARY KEY (problem_id)'
+						OR pg_get_constraintdef(con.oid) = 'UNIQUE (problem_id)'
+					)
+			LOOP
+				EXECUTE format('ALTER TABLE user_progress DROP CONSTRAINT %I', constraint_name);
+			END LOOP;
+
+			FOR index_name IN
+				SELECT idx.relname
+				FROM pg_class table_ref
+				JOIN pg_index index_ref ON index_ref.indrelid = table_ref.oid
+				JOIN pg_class idx ON idx.oid = index_ref.indexrelid
+				JOIN pg_attribute column_ref
+					ON column_ref.attrelid = table_ref.oid
+					AND column_ref.attnum = index_ref.indkey[0]
+				WHERE table_ref.oid = 'user_progress'::regclass
+					AND index_ref.indisunique
+					AND NOT index_ref.indisprimary
+					AND index_ref.indnatts = 1
+					AND column_ref.attname = 'problem_id'
+			LOOP
+				EXECUTE format('DROP INDEX IF EXISTS %I', index_name);
+			END LOOP;
+
+			CREATE UNIQUE INDEX IF NOT EXISTS user_progress_user_problem_idx
+				ON user_progress (user_id, problem_id);
+		END $$;
+	`)
+	if err != nil {
+		return err
+	}
+
 	return nil
 }
 
