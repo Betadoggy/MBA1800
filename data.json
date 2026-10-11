@@ -3611,7 +3611,7 @@
         "image_url": null,
         "has_image": false,
         "options": {
-            "1": "X이론적 관점에 따르면 직원은 부정적 강화(Reinforcement)에 의해 동기부여가 된다.",
+            "1": "Y이론적 관점에 따르면 직원은 부정적 강화(Reinforcement)에 의해 동기부여가 된다.",
             "2": "아담스(J. S. Adams)의 공정성이론에 따르면 사람은 자신의 일에 투입한 요소와 그로부터 받은 보상의 비율을 다른 사람의 그것과 비교한다.",
             "3": "2요인이론에서 동기유발요인은 직무에 내재하는 요인들이 다.",
             "4": "기대이론에서 동기부여가 되는 정도는 노력과 성과 관련성, 성과와 결과 관련성, 결과와 개인의 욕구 사이의 관련성의 영향을 받는다."
@@ -18446,7 +18446,7 @@
         "category": "소비자 행동",
         "question": "태도 또는 태도변화 관련 모델들에 관한 설명으로 내용 연결(연구자 - 모델 - 주요 내용 또는 특징)이 가장 적절하지 않은 것은?",
         "box_content": null,
-        "table_content": "속성|연구자|모델|주요 내용 또는 특징\n①|올리버(Oliver)|기대불일치모델(expectancy disconfirmation model)|광고 태도, 상표 태도\n②|피쉬바인과 에이전(Fishbein and Ajzen)|피쉬바인확장모델(Fishein's extended model) 또는 이성적행동모델(theory of reasoned action)|행동에 대한 태도, 주관적 규범\n③|바고지(Bagozzi)|의도적 행동모델(purposeful behavior model)|신념, 조건적 접근/회피 반응\n④|페티와 카치오프(Petty and Cacioppo)|정교화가능성모델(elaboration likelihood model)|중심경로, 주변경로\n⑤|피쉬바인(Fishbein)|다속성태도모델(multi-attribute attitude model)|신념, 속성 평가",
+        "table_content": "<table class='w-full border-collapse border border-slate-300 text-center text-xs'><thead class='bg-slate-50'><tr><th class='border border-slate-300 p-2 font-semibold text-slate-600'>속성</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>연구자</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>모델</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>주요 내용 또는 특징</th></tr></thead><tbody><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>①</td><td class='border border-slate-300 p-2 text-slate-700'>올리버(Oliver)</td><td class='border border-slate-300 p-2 text-slate-700'>기대불일치모델(expectancy disconfirmation model)</td><td class='border border-slate-300 p-2 text-slate-700'>광고 태도, 상표 태도</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>②</td><td class='border border-slate-300 p-2 text-slate-700'>피쉬바인과 에이전(Fishbein and Ajzen)</td><td class='border border-slate-300 p-2 text-slate-700'>피쉬바인확장모델(Fishbein's extended model) 또는 이성적행동모델(theory of reasoned action)</td><td class='border border-slate-300 p-2 text-slate-700'>행동에 대한 태도, 주관적 규범</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>③</td><td class='border border-slate-300 p-2 text-slate-700'>바고지(Bagozzi)</td><td class='border border-slate-300 p-2 text-slate-700'>의도적 행동모델(purposeful behavior model)</td><td class='border border-slate-300 p-2 text-slate-700'>신념, 조건적 접근/회피 반응</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>④</td><td class='border border-slate-300 p-2 text-slate-700'>페티와 카치오프(Petty and Cacioppo)</td><td class='border border-slate-300 p-2 text-slate-700'>정교화가능성모델(elaboration likelihood model)</td><td class='border border-slate-300 p-2 text-slate-700'>중심경로, 주변경로</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>⑤</td><td class='border border-slate-300 p-2 text-slate-700'>피쉬바인(Fishbein)</td><td class='border border-slate-300 p-2 text-slate-700'>다속성태도모델(multi-attribute attitude model)</td><td class='border border-slate-300 p-2 text-slate-700'>신념, 속성 평가</td></tr></tbody></table>",
         "image_url": null,
         "has_image": false,
         "options": {
