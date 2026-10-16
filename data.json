@@ -28574,7 +28574,7 @@
             "5": "주식발행초과금"
         },
         "answer": 5,
-        "explanation": "⑤ 자본잉여금에는 주식발행초과금, 감자차익, 자기주식처분이익 등이 포함된다. 한편 법정적립금, 임의적립금, 미처분이익잉여금은 '이익잉여금'에 속한다. 미교부주식배당금은 '자본잉여금'에 속한다."
+        "explanation": "⑤ 자본잉여금에는 주식발행초과금, 감자차익, 자기주식처분이익 등이 포함된다. 한편 법정적립금, 임의적립금, 미처분이익잉여금은 '이익잉여금'에 속한다. 미교부주식배당금은 '자본조정'에 속한다."
     },
     {
         "id": 1596,
@@ -28994,7 +28994,7 @@
         "category": "회계처리와 CVP 분석",
         "question": "(주)가맹은 20X1년에 3가지 제품을 생산하여 판매하였는데, 각 제품의 판매단가, 단위당 변동비, 각 제품의 매출액이 총매출액에서 차지하는 비율은 아래와 같다. 이 회사의 20X1년 연간 총고정비용은 550,000 원이며, 원가-조업도-이익분석의 일반적인 가정에 추가하여 각 제품의 매출액 구성 비율은 변하지 않는다고 가정한다. (주)가맹의 20X1년 손익분기점에서 3가지 제품 A, B, C의 매출액 합계는?",
         "box_content": null,
-        "table_content": "제품 판매단가(원) 단위당 변동비(원) 매출액 구성 비율(%) A 500 400 20 B 1,100 880 30 C 2,000 1,300 50",
+        "table_content": "<table class='w-full border-collapse border border-slate-300 text-center text-xs'><thead class='bg-slate-50'><tr><th class='border border-slate-300 p-2 font-semibold text-slate-600'>구분</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>제품 판매단가(원)</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>단위당 변동비(원)</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>매출액 구성 비율(%)</th></tr></thead><tbody><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>A</td><td class='border border-slate-300 p-2 text-slate-700'>500</td><td class='border border-slate-300 p-2 text-slate-700'>400</td><td class='border border-slate-300 p-2 text-slate-700'>20</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>B</td><td class='border border-slate-300 p-2 text-slate-700'>1,100</td><td class='border border-slate-300 p-2 text-slate-700'>880</td><td class='border border-slate-300 p-2 text-slate-700'>30</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>C</td><td class='border border-slate-300 p-2 text-slate-700'>2,000</td><td class='border border-slate-300 p-2 text-slate-700'>1,300</td><td class='border border-slate-300 p-2 text-slate-700'>50</td></tr></tbody></table>",
         "image_url": null,
         "has_image": false,
         "options": {
