@@ -22183,7 +22183,7 @@
         "question": "다음 그림은 병렬로 배치된 공정 A와 B에서 각각 생산된 부품을 공정 C에서 조립한 후 공정 D에서 마무리 작업을 실시하는 생산시스템을 나타낸 것이다. 버퍼(buffer)는 존재하지 않으며, 각 공정의 ( )안에 표시된 숫자는 공정의 작업시간(단위: 분)이다. 생산시스템은 최소주기시간에 맞추어 운영되고 있으며, 생산시스템 가동 전 모든 공정에는 작업가능한 재공품이 존재한다. 이 생산시스템에 관한 설명으로 가장 적절한 것은?",
         "box_content": null,
         "table_content": null,
-        "image_url": "ibb.co/wFnLx9Rw",
+        "image_url": "https://ibb.co/wFnLx9Rw",
         "has_image": true,
         "options": {
             "1": "A는 병목공정(bottleneck process)이다.",
