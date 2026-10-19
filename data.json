@@ -18840,7 +18840,7 @@
     {
         "id": 1053,
         "category": "경영과학",
-        "question": "PERT/CPM의 확률적 모형에서 각 활동시간은 낙관적 시간, 비관적 시간, 최빈시간의 3가지로 추정한다. 또한, 각 활동시간은 베타분포(beta distribution)를 따른다고 가정한다. 활동 K의 낙관적 시간이 3일, 비관적 시간이 7일, 최빈 시간이 7일이라고 추정될 경우에, 활동 K의 완료에 소요되는 시간의 기대치는 몇 일인가?",
+        "question": "PERT/CPM의 확률적 모형에서 각 활동시간은 낙관적 시간, 비관적 시간, 최빈시간의 3가지로 추정한다. 또한, 각 활동시간은 베타분포(beta distribution)를 따른다고 가정한다. 활동 K의 낙관적 시간이 3일, 비관적 시간이 11일, 최빈 시간이 7일이라고 추정될 경우에, 활동 K의 완료에 소요되는 시간의 기대치는 몇 일인가?",
         "box_content": null,
         "table_content": null,
         "image_url": null,
@@ -21913,7 +21913,7 @@
         "category": "생산능력 관리",
         "question": "다음과 같이 순서의 변경이 가능한 7개의 작업요소로 구성된 조립라인에서 시간당 20개의 제품을 생산한다. 공정균형화(Line-Balancing)를 고려한 주기시간(Cycle Time)과 공정효율(Efficiency)은?",
         "box_content": null,
-        "table_content": "작업요소:A,시간(초):100|작업요소:B,시간(초):90|작업요소:C,시간(초):45|작업요소:D,시간(초):110|작업요소:E,시간(초):50|작업요소:F,시간(초):100|작업요소:G,시간(초):85",
+        "table_content": "<table class='w-full border-collapse border border-slate-300 text-center text-xs'><thead class='bg-slate-50'><tr><th class='border border-slate-300 p-2 font-semibold text-slate-600'>작업요소</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>시간(초)</th></tr></thead><tbody><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>A</td><td class='border border-slate-300 p-2 text-slate-700'>100</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>B</td><td class='border border-slate-300 p-2 text-slate-700'>90</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>C</td><td class='border border-slate-300 p-2 text-slate-700'>45</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>D</td><td class='border border-slate-300 p-2 text-slate-700'>110</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>E</td><td class='border border-slate-300 p-2 text-slate-700'>50</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>F</td><td class='border border-slate-300 p-2 text-slate-700'>100</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>G</td><td class='border border-slate-300 p-2 text-slate-700'>85</td></tr></tbody></table>",
         "image_url": null,
         "has_image": false,
         "options": {
