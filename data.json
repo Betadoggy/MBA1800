@@ -16144,7 +16144,7 @@
         "category": "가격",
         "question": "AB사는 불황으로 매출이 감소하고 있어 자사 제품 3종류에 대한 가격 인하를 전격적으로 추진하였다. 소비자들이 가격 인하를 느낄 수 있도록 웨버의 법칙(Weber's Law)을 이용해 최소한의 가격인하 폭을 결정하였다. 현재가격 (가), (나), (다)의 합에 대한 설명으로 가장 적절한 것은? (단, 웨버상수는 주관적으로 느낀 가격변화의 크기 또는 변화를 감지할 수 있는 증가/감소율을 의미한다.)",
         "box_content": null,
-        "table_content": "제품|A|B|C\n과거가격|1,000원|5,000원|10,000원\n웨버상수|0.7|0.2|0.5\n현재가격|(가)|(나)|(다)",
+        "table_content": "<table class='w-full border-collapse border border-slate-300 text-center text-xs'><thead class='bg-slate-50'><tr><th class='border border-slate-300 p-2 font-semibold text-slate-600'>제품</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>A</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>B</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>C</th></tr></thead><tbody><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>과거가격</td><td class='border border-slate-300 p-2 text-slate-700'>1,000원</td><td class='border border-slate-300 p-2 text-slate-700'>5,000원</td><td class='border border-slate-300 p-2 text-slate-700'>10,000원</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>웨버상수</td><td class='border border-slate-300 p-2 text-slate-700'>0.7</td><td class='border border-slate-300 p-2 text-slate-700'>0.2</td><td class='border border-slate-300 p-2 text-slate-700'>0.5</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>현재가격</td><td class='border border-slate-300 p-2 text-slate-700'>(가)</td><td class='border border-slate-300 p-2 text-slate-700'>(나)</td><td class='border border-slate-300 p-2 text-slate-700'>(다)</td></tr></tbody></table>",
         "image_url": null,
         "has_image": false,
         "options": {
@@ -19657,7 +19657,7 @@
         "category": "경영과학",
         "question": "책상을 만드는 데 목재가 1kg, 플라스틱이 3kg 소요된다. 또한, 의자를 만드는 데 목재가 3kg, 플라스틱이 4kg 소요된다. 목재는 총 90kg, 플라스틱은 150kg 사용 가능하다. 책상과 의자를 1개씩 팔았을 때 얻을 수 있는 이익은 각각 300원, 500원이다. 총이익을 최대로 하기 위한 책상과 의자의 생산 개수는 각각 얼마인가?",
         "box_content": null,
-        "table_content": "책상(이익 300, 목재 1, 플라스틱 3) / 의자(이익 500, 목재 3, 플라스틱 4) / 자원(목재 90, 플라스틱 150)",
+        "table_content": null,
         "image_url": null,
         "has_image": false,
         "options": {
