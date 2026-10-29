@@ -8512,7 +8512,7 @@
         "id": 473,
         "category": "인적자원관리",
         "question": "다음 설명에 해당하는 직무설계는?",
-        "box_content": "• 직무성과가 경제적 보상보다는 개인의 심리적 만족에 있다고 전제한다. • 종업원에게 직무의 정체성과 중요성을 높여주고 일의 보람과 성취감을 느끼게 한다. • 종업원에게 많은 자율성과 책임을 부여하여 직무경험의 기회를 제공한다.",
+        "box_content": "• 직무성과가 경제적 보상보다는 개인의 심리적 만족에 있다고 전제한다.\n• 종업원에게 직무의 정체성과 중요성을 높여주고 일의 보람과 성취감을 느끼게 한다.\n• 종업원에게 많은 자율성과 책임을 부여하여 직무경험의 기회를 제공한다.",
         "table_content": null,
         "image_url": null,
         "has_image": false,
@@ -19353,7 +19353,7 @@
         "category": "경영과학",
         "question": "각 공장에서 각 창고로 수송하는 단위당 비용이 아래 표와 같을 때 총 수송비용을 최소화하는 최적해는? (단, 공장의 총공급량과 창고의 총 수요량은 450단위로 일치한다)",
         "box_content": null,
-        "table_content": "창고1: 3, 창고2: 2, 창고3: 4, 공급량: 150 / 창고1: 3, 창고2: 4, 창고3: 1, 공급량: 300 / 수요량: 150, 200, 100, 450",
+        "table_content": "<table class='w-full border-collapse border border-slate-300 text-center text-xs'><thead class='bg-slate-50'><tr><th class='border border-slate-300 p-2 font-semibold text-slate-600'></th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>창고 1</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>창고 2</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>창고 3</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>공급량</th></tr></thead><tbody><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>공장 A</td><td class='border border-slate-300 p-2 text-slate-700'>3</td><td class='border border-slate-300 p-2 text-slate-700'>2</td><td class='border border-slate-300 p-2 text-slate-700'>4</td><td class='border border-slate-300 p-2 text-slate-700'>150</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>공장 B</td><td class='border border-slate-300 p-2 text-slate-700'>3</td><td class='border border-slate-300 p-2 text-slate-700'>4</td><td class='border border-slate-300 p-2 text-slate-700'>1</td><td class='border border-slate-300 p-2 text-slate-700'>300</td></tr><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>수요량</td><td class='border border-slate-300 p-2 text-slate-700'>150</td><td class='border border-slate-300 p-2 text-slate-700'>200</td><td class='border border-slate-300 p-2 text-slate-700'>100</td><td class='border border-slate-300 p-2 text-slate-700'>450</td></tr></tbody></table>",
         "image_url": null,
         "has_image": false,
         "options": {
