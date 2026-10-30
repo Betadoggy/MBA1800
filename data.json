@@ -19855,8 +19855,8 @@
         "category": "경영과학",
         "question": "다음은 8개의 활동(activity) A~H로 구성된 프로젝트에서 각 활동들의 직전 선행활동을 나타낸 표와 간트차트(Gantt Chart)이다. 이에 관한 설명으로 가장 적절한 것은?",
         "box_content": null,
-        "table_content": "활동 A B C D E F G H / 직전 선행활동 - A A B B C E, F D, G",
-        "image_url": null,
+        "table_content": "<table class='w-full border-collapse border border-slate-300 text-center text-xs'><thead class='bg-slate-50'><tr><th class='border border-slate-300 p-2 font-semibold text-slate-600'>활동</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>A</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>B</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>C</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>D</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>E</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>F</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>G</th><th class='border border-slate-300 p-2 font-semibold text-slate-600'>H</th></tr></thead><tbody><tr><td class='border border-slate-300 p-2 bg-slate-50 font-semibold text-slate-600'>직전 선행활동</td><td class='border border-slate-300 p-2 text-slate-700'>-</td><td class='border border-slate-300 p-2 text-slate-700'>A</td><td class='border border-slate-300 p-2 text-slate-700'>A</td><td class='border border-slate-300 p-2 text-slate-700'>B</td><td class='border border-slate-300 p-2 text-slate-700'>B</td><td class='border border-slate-300 p-2 text-slate-700'>C</td><td class='border border-slate-300 p-2 text-slate-700'>E, F</td><td class='border border-slate-300 p-2 text-slate-700'>D, G</td></tr></tbody></table>",
+        "image_url": "https://i.ibb.co/TqPnR73Q/ghantt.jpg",
         "has_image": true,
         "options": {
             "1": "검토일 현재 B가 1일 지체되었으므로 프로젝트의 최단 완료일도 늦어진다.",
