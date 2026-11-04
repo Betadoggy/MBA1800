@@ -19818,7 +19818,7 @@
         "id": 1108,
         "category": "경영과학",
         "question": "아래의 도구 중 프로젝트의 완료시간을 계산하는 데 사용되는 적절한 도구만을 모두 선택한 것은?",
-        "box_content": "a. PERT/CPM b. 간트차트(Gantt Chart) c. 이시가와 다이어그램(Ishikawa Diagram) d. 파레토차트(Pareto Chart)",
+        "box_content": "a. PERT/CPM\nb. 간트차트(Gantt Chart)\nc. 이시가와 다이어그램(Ishikawa Diagram)\nd. 파레토차트(Pareto Chart)",
         "table_content": null,
         "image_url": null,
         "has_image": false,
@@ -22424,7 +22424,7 @@
             "2": "적시생산시스템(JIT)",
             "3": "자재소요계획(MRP)",
             "4": "유연제조시스템(FMS)",
-            "5": "컴퓨터통합생산(CIM)."
+            "5": "컴퓨터통합생산(CIM)"
         },
         "answer": 1,
         "explanation": "공급사슬관리(SCM)는 공급업체, 구매 기업, 유통업체 그리고 물류회사들이 주문, 생산, 재고수준 그리고 제품과 서비스의 배송에 관한 정보를 공유하도록 하여 제품과 서비스를 효율적으로 구매, 생산, 배송할 수 있도록 지원하는 시스템이다."
